@@ -11,7 +11,9 @@ def zip_file(startdir, file_news):
         fpath = dirpath.replace(startdir, '')
         fpath = fpath and fpath + os.sep or ''
         for filename in filenames:
-            z.write(os.path.join(dirpath, filename), fpath + filename)
+            print('==', dirpath, '===', dirnames, '===', filename)
+            if os.path.exists(dirpath + '/' + filename):
+                z.write(os.path.join(dirpath, filename), fpath + filename)
     z.close()
 
 

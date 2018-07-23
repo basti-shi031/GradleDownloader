@@ -17,6 +17,12 @@ def zip_file(startdir, file_news):
     z.close()
 
 
+def zip_file2(dir, file_news):
+    sh = 'zip -r ' + file_news + " " + dir
+    print(sh)
+    content = os.popen(sh)
+
+
 def isMaven(company, project):
     name = company + '/' + project
     for pro in data:
@@ -31,11 +37,15 @@ if __name__ == '__main__':
     index = int(index)
     max = 20
     count = 0
+    # 1.json contains all project whose stars>=500
     f1 = open('1.json', 'r')
     content = f1.read()
     data = json.loads(content)
-    f2 = open('downloadedMaven.txt', 'r+')
+    f1.close()
+    # data contains all project whose stars>=500
+    f2 = open('zippedProject.txt', 'r+')
     projects = f2.read()
+    f2.close()
     print(projects)
     basePath = '/home/fdse/data/prior_repository/'
     companyList = os.listdir(basePath)
@@ -55,9 +65,12 @@ if __name__ == '__main__':
                 if not os.path.exists(newPath):
                     os.makedirs(newPath)
                 print(newPath + '/' + project + '.zip')
-                zip_file(companyPath + project, newPath + "/" + project + '.zip')
+                zip_file2(companyPath + project, newPath + "/" + project + '.zip')
                 projects = projects + ",'" + project + "'"
+                f2 = open('zippedProject.txt', 'r+')
+                f2.read()
                 f2.write(",'" + project + "'")
+                f2.close()
                 count += 1
                 if count >= max:
                     index += 1

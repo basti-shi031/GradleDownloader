@@ -1,0 +1,8007 @@
+No.0
+https://github.com/darvds/RibbonMenu
+proj-type: android
+No.1
+https://github.com/igvteam/igv
+proj-type: gradle
+No.2
+https://github.com/codahale/metrics
+proj-type: no
+No.3
+https://github.com/vieux/OpenUDID
+proj-type: no
+No.4
+https://github.com/SpoutDev/Spout
+proj-type: maven
+No.5
+https://github.com/tgwizard/sls
+proj-type: android
+No.6
+https://github.com/hangum/TadpoleForDBTools
+proj-type: maven
+No.7
+https://github.com/forcedotcom/SalesforceMobileSDK-Android
+proj-type: android
+No.8
+https://github.com/wicketstuff/core
+proj-type: maven
+No.9
+https://github.com/hibernate/hibernate-ogm
+proj-type: maven
+No.10
+https://github.com/AndlyticsProject/andlytics
+proj-type: android
+No.11
+https://github.com/alkacon/opencms-core
+proj-type: gradle
+No.12
+https://github.com/Multiverse/Multiverse-Core
+proj-type: maven
+No.13
+https://github.com/JetBrains/la-clojure
+proj-type: no
+No.14
+https://github.com/groovy/groovy-eclipse
+proj-type: maven
+No.15
+https://github.com/searls/jasmine-maven-plugin
+proj-type: maven
+No.16
+https://github.com/jclouds/jclouds
+proj-type: maven
+No.17
+https://github.com/ippontech/tatami
+proj-type: maven
+No.18
+https://github.com/couchbaselabs/TouchDB-Android
+proj-type: android
+No.19
+https://github.com/alecgorge/jsonapi
+proj-type: maven
+No.20
+https://github.com/jimwebber/neo4j-tutorial
+proj-type: no
+No.21
+https://github.com/eleybourn/Book-Catalogue
+proj-type: android
+No.22
+https://github.com/PEXPlugins/PermissionsEx
+proj-type: maven
+No.23
+https://github.com/ruboto/ruboto-irb
+proj-type: android
+No.24
+https://github.com/sk89q/WorldGuard
+proj-type: gradle
+No.25
+https://github.com/jawi/ols
+proj-type: maven
+No.26
+https://github.com/liato/android-bankdroid
+proj-type: android
+No.27
+https://github.com/cwensel/cascading
+proj-type: gradle
+No.28
+https://github.com/gwtbootstrap/gwt-bootstrap
+proj-type: maven
+No.29
+https://github.com/yahoo/omid
+proj-type: maven
+No.30
+https://github.com/tdunning/MiA
+proj-type: maven
+No.31
+https://github.com/bndtools/bnd
+proj-type: maven-gradle
+No.32
+https://github.com/caelum/vraptor
+proj-type: maven
+No.33
+https://github.com/GautamGupta/Simple-Android-OCR
+proj-type: android
+No.34
+https://github.com/apache/sqoop
+proj-type: no
+No.35
+https://github.com/gast-lib/gast-lib
+proj-type: android
+No.36
+https://github.com/GlowstoneMC/Glowstone-Legacy
+proj-type: gradle
+No.37
+https://github.com/rsmudge/cortana-scripts
+proj-type: no
+No.38
+https://github.com/boundary/high-scale-lib
+proj-type: maven
+No.39
+https://github.com/weld/core
+proj-type: maven
+No.40
+https://github.com/DigitalPebble/behemoth
+proj-type: maven
+No.41
+https://github.com/bguerout/jongo
+proj-type: maven
+No.42
+https://github.com/cesarferreira/AndroidQuickUtils
+proj-type: android
+No.43
+https://github.com/BaseXdb/basex
+proj-type: maven
+No.44
+https://github.com/MassiveCraft/Factions
+proj-type: maven
+No.45
+https://github.com/nicolasgramlich/AndEngineExamples
+proj-type: android
+No.46
+https://github.com/thucydides-webtests/thucydides
+proj-type: maven-gradle
+No.47
+https://github.com/aptana/Pydev
+proj-type: maven
+No.48
+https://github.com/lorensiuswlt/NewQuickAction3D
+proj-type: android
+No.49
+https://github.com/apache/maven-plugins
+proj-type: maven
+No.50
+https://github.com/CyanogenMod/android_packages_apps_Trebuchet
+proj-type: android
+No.51
+https://github.com/tcurdt/jdeb
+proj-type: maven
+No.52
+https://github.com/broadgsa/gatk
+proj-type: maven
+No.53
+https://github.com/grifotv/grifotv-portfolio
+proj-type: no
+No.54
+https://github.com/getrailo/railo
+proj-type: no
+No.55
+https://github.com/candrews/HttpResponseCache
+proj-type: maven
+No.56
+https://github.com/rgladwell/m2e-android
+proj-type: android
+No.57
+https://github.com/alexruiz/fest-assert-2.x
+proj-type: maven
+No.58
+https://github.com/cloudera/crunch
+proj-type: maven
+No.59
+https://github.com/kevinsawicki/wishlist
+proj-type: android
+No.60
+https://github.com/dcaoyuan/nbscala
+proj-type: maven
+No.61
+https://github.com/CyanogenMod/android_packages_apps_Camera
+proj-type: android
+No.62
+https://github.com/cometd/cometd
+proj-type: maven
+No.63
+https://github.com/basho/riak-java-client
+proj-type: maven
+No.64
+https://github.com/spacecowboy/NotePad
+proj-type: android
+No.65
+https://github.com/commonsguy/cwac-wakeful
+proj-type: android
+No.66
+https://github.com/CloudifySource/cloudify
+proj-type: maven
+No.67
+https://github.com/jasonsantos/luajava
+proj-type: no
+No.68
+https://github.com/Mach5/supersonic
+proj-type: android
+No.69
+https://github.com/ushahidi/Ushahidi_Android
+proj-type: android
+No.70
+https://github.com/ened/Android-Tiling-ScrollView
+proj-type: android
+No.71
+https://github.com/pmuellr/weinre
+proj-type: no
+No.72
+https://github.com/ppareit/swiftp
+proj-type: android
+No.73
+https://github.com/akquinet/android-archetypes
+proj-type: android
+No.74
+https://github.com/errai/errai
+proj-type: maven
+No.75
+https://github.com/mcMMO-Dev/mcMMO
+proj-type: maven
+No.76
+https://github.com/twilio/twilio-java
+proj-type: maven
+No.77
+https://github.com/apavlo/h-store
+proj-type: maven
+No.78
+https://github.com/tinkerpop/rexster
+No.79
+https://github.com/dhanji/sitebricks
+proj-type: maven
+No.80
+https://github.com/freshplanet/ANE-Facebook
+proj-type: android
+No.81
+https://github.com/johnkil/SideNavigation
+proj-type: android
+No.82
+https://github.com/libpd/pd-for-android
+proj-type: android
+No.83
+https://github.com/rawr/rawr
+proj-type: no
+No.84
+https://github.com/apereo/java-cas-client
+proj-type: maven
+No.85
+https://github.com/pranab/sifarish
+proj-type: maven
+No.86
+https://github.com/mirkonasato/jodconverter
+proj-type: maven
+No.87
+https://github.com/graphstream/gs-core
+proj-type: maven
+No.88
+https://github.com/cscotta/Octobot
+proj-type: maven
+No.89
+https://github.com/Atmosphere/nettosphere
+proj-type: maven
+No.90
+https://github.com/jankotek/JDBM3
+proj-type: maven
+No.91
+https://github.com/ribomation/DroidAtScreen1
+proj-type: maven
+No.92
+https://github.com/michel-kraemer/bson4jackson
+proj-type: gradle
+No.93
+https://github.com/rakeshcusat/Code4Reference
+proj-type: android
+No.94
+https://github.com/RJ/irccat
+proj-type: maven
+No.95
+https://github.com/johncarl81/transfuse
+proj-type: android
+No.96
+https://github.com/prefuse/Prefuse
+proj-type: no
+No.97
+https://github.com/puniverse/galaxy
+proj-type: gradle
+No.98
+https://github.com/orbeon/orbeon-forms
+proj-type: no
+No.99
+https://github.com/kamranzafar/JCL
+proj-type: maven
+No.100
+https://github.com/DSpace/DSpace
+proj-type: maven
+No.101
+https://github.com/guardianproject/gnupg-for-android
+proj-type: android
+No.102
+https://github.com/sephiroth74/AndroidWheel
+proj-type: android
+No.103
+https://github.com/rarnu/root-tools
+proj-type: android
+No.104
+https://github.com/ahorn/android-rss
+proj-type: android
+No.105
+https://github.com/peichhorn/lombok-pg
+proj-type: maven
+No.106
+https://github.com/julianhyde/linq4j
+proj-type: maven
+No.107
+https://github.com/hunterhacker/jdom
+proj-type: no
+No.108
+https://github.com/jsimone/webapp-runner
+proj-type: maven
+No.109
+https://github.com/Maescool/Catacomb-Snatch
+proj-type: gradle
+No.110
+https://github.com/gitgrimbo/android-sliding-menu-demo
+proj-type: android
+No.111
+https://github.com/carrot2/carrot2
+proj-type: maven
+No.112
+https://github.com/bendemboski/DateSlider
+proj-type: android
+No.113
+https://github.com/rtyley/roboguice-sherlock
+proj-type: android
+No.114
+https://github.com/blackberry/WebWorks
+proj-type: maven
+No.115
+https://github.com/rcongiu/Hive-JSON-Serde
+proj-type: maven
+No.116
+https://github.com/freezy/android-xbmcremote
+proj-type: android
+No.117
+https://github.com/asterisk-java/asterisk-java
+proj-type: maven-gradle
+No.118
+https://github.com/xwiki/xwiki-platform
+proj-type: maven
+No.119
+https://github.com/bartdag/py4j
+proj-type: maven-gradle
+No.120
+https://github.com/nostra13/Android-Simple-Social-Sharing
+proj-type: android
+No.121
+https://github.com/nguillaumin/osmtracker-android
+proj-type: android
+No.122
+https://github.com/dps/nnrccar
+proj-type: android
+No.123
+https://github.com/SimonVT/android-calendarview
+proj-type: android
+No.124
+https://github.com/ChainsDD/Superuser
+proj-type: android
+No.125
+https://github.com/jbellis/jamm
+proj-type: maven
+No.126
+https://github.com/apache/wicket
+proj-type: maven
+No.127
+https://github.com/OWASP/OWASP-WebScarab
+proj-type: maven
+No.128
+https://github.com/OpenGamma/OG-Platform
+proj-type: no
+No.129
+https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin
+proj-type: maven
+No.130
+https://github.com/StevenRudenko/ActionsContentView
+proj-type: android
+No.131
+https://github.com/lintool/Cloud9
+proj-type: maven
+No.132
+https://github.com/urbanairship/datacube
+proj-type: maven
+No.133
+https://github.com/JetBrains/Grammar-Kit
+proj-type: gradle
+No.134
+https://github.com/wg/scrypt
+proj-type: maven
+No.135
+https://github.com/gridgain/gridgain
+proj-type: maven
+No.136
+https://github.com/jpos/jPOS
+proj-type: gradle
+No.137
+https://github.com/sachin-handiekar/jInstagram
+proj-type: maven
+No.138
+https://github.com/foursquare/heapaudit
+proj-type: maven
+No.139
+https://github.com/TimotheeJeannin/ProviGen
+proj-type: android
+No.140
+https://github.com/guardianproject/lildebi
+proj-type: android
+No.141
+https://github.com/tinkerpop/pipes
+No.142
+https://github.com/tamingtext/book
+proj-type: maven
+No.143
+https://github.com/myabc/markdownj
+proj-type: maven
+No.144
+https://github.com/chariotsolutions/phonegap-nfc
+proj-type: no
+No.145
+https://github.com/imagej/imagej
+proj-type: maven
+No.146
+https://github.com/brutall/brut.apktool
+proj-type: android
+No.147
+https://github.com/qiniu/java-sdk
+proj-type: gradle
+No.148
+https://github.com/apache/oozie
+proj-type: maven
+No.149
+https://github.com/daneren2005/Subsonic
+proj-type: android
+No.150
+https://github.com/davidB/scala-maven-plugin
+proj-type: maven
+No.151
+https://github.com/dcm4che/dcm4che
+proj-type: maven
+No.152
+https://github.com/qiniu/android-sdk
+proj-type: android
+No.153
+https://github.com/subgraph/Vega
+proj-type: no
+No.154
+https://github.com/arquillian/arquillian-core
+proj-type: maven
+No.155
+https://github.com/bmeike/ProgrammingAndroidExamples
+proj-type: android
+No.156
+https://github.com/jOOQ/jOOX
+proj-type: maven
+No.157
+https://github.com/wwadge/bonecp
+proj-type: maven
+No.158
+https://github.com/matshofman/Android-RSS-Reader-Library
+proj-type: android
+No.159
+https://github.com/intrications/intent-intercept
+proj-type: android
+No.160
+https://github.com/roman10/roman10-android-tutorial
+proj-type: android
+No.161
+https://github.com/appfuse/appfuse
+proj-type: maven
+No.162
+https://github.com/dadoonet/spring-elasticsearch
+proj-type: maven
+No.163
+https://github.com/inovex/ViewPager3D
+proj-type: android
+No.164
+https://github.com/EddieRingle/hubroid
+proj-type: android
+No.165
+https://github.com/commonsguy/cw-andtutorials
+proj-type: android
+No.166
+https://github.com/commonsguy/cwac-loaderex
+proj-type: android
+No.167
+https://github.com/astuetz/ViewPagerExtensions
+proj-type: android
+No.168
+https://github.com/rtyley/android-screenshot-lib
+proj-type: maven
+No.169
+https://github.com/lordofthejars/nosql-unit
+proj-type: maven
+No.170
+https://github.com/ykameshrao/spring-hibernate-springdata-springmvc-maven-project-framework
+proj-type: maven
+No.171
+https://github.com/wg/lettuce
+proj-type: maven
+No.172
+https://github.com/Androxyde/Flashtool
+proj-type: no
+No.173
+https://github.com/stoicflame/enunciate
+proj-type: maven
+No.174
+https://github.com/buchen/portfolio
+proj-type: maven
+No.175
+https://github.com/sveinungkb/encrypted-userprefs
+proj-type: no
+No.176
+https://github.com/stripe/stripe-java
+proj-type: gradle
+No.177
+https://github.com/telecapoland/jamendo-android
+proj-type: android
+No.178
+https://github.com/MiCode/legacy-patchrom
+proj-type: android
+No.179
+https://github.com/orfjackal/tdd-tetris-tutorial
+proj-type: maven
+No.180
+https://github.com/dustin/java-memcached-client
+proj-type: maven
+No.181
+https://github.com/xetorthio/johm
+proj-type: maven
+No.182
+https://github.com/intel-hadoop/HiTune
+proj-type: no
+No.183
+https://github.com/Cathedrow/Cryptosuite
+proj-type: no
+No.184
+https://github.com/freshplanet/ANE-Push-Notification
+proj-type: android
+No.185
+https://github.com/laforge49/JActor
+proj-type: maven
+No.186
+https://github.com/fanfoudroid/fanfoudroid
+proj-type: android
+No.187
+https://github.com/tonyg/reversehttp
+proj-type: maven
+No.188
+https://github.com/redline-smalltalk/redline-smalltalk
+proj-type: maven
+No.189
+https://github.com/ubergeek42/weechat-android
+proj-type: android
+No.190
+https://github.com/lessthanoptimal/BoofCV
+proj-type: android
+No.191
+https://github.com/NightWhistler/PageTurner
+proj-type: android
+No.192
+https://github.com/mjiderhamn/classloader-leak-prevention
+proj-type: maven
+No.193
+https://github.com/jsevellec/cassandra-unit
+proj-type: maven
+No.194
+https://github.com/spullara/redis-protocol
+proj-type: maven
+No.195
+https://github.com/leebyron/streamgraph
+proj-type: no
+No.196
+https://github.com/biojava/biojava
+proj-type: maven
+No.197
+https://github.com/bbossgroups/bboss
+proj-type: gradle
+No.198
+https://github.com/asksven/BetterBatteryStats
+proj-type: android
+No.199
+https://github.com/rtyley/agit
+proj-type: android
+No.200
+https://github.com/plusonelabs/calendar-widget
+proj-type: android
+No.201
+https://github.com/dain/snappy
+proj-type: maven
+No.202
+https://github.com/sonian/elasticsearch-jetty
+proj-type: maven
+No.203
+https://github.com/dspinellis/UMLGraph
+proj-type: maven
+No.204
+https://github.com/lemire/javaewah
+proj-type: maven
+No.205
+https://github.com/senseidb/zoie
+proj-type: maven
+No.206
+https://github.com/FasterXML/jackson-dataformat-xml
+proj-type: maven
+No.207
+https://github.com/johnlindquist/angularjs-plugin
+proj-type: no
+No.208
+https://github.com/fabiomaffioletti/jsondoc
+proj-type: maven
+No.209
+https://github.com/julianhyde/optiq
+proj-type: maven
+No.210
+https://github.com/walkingp/AndroidCnblogs
+proj-type: android
+No.211
+https://github.com/btate/BTAndroidWebViewSelection
+proj-type: android
+No.212
+https://github.com/joestelmach/natty
+proj-type: maven
+No.213
+https://github.com/stormpath/stormpath-sdk-java
+proj-type: maven
+No.214
+https://github.com/neophob/PixelController
+proj-type: android
+No.215
+https://github.com/serso/android-calculatorpp
+proj-type: android
+No.216
+https://github.com/zkoss/zk
+proj-type: maven
+No.217
+https://github.com/apache/tomcat70
+proj-type: maven
+No.218
+https://github.com/krukow/clj-ds
+proj-type: maven
+No.219
+https://github.com/rythmengine/rythmengine
+proj-type: maven
+No.220
+https://github.com/pulse00/Symfony-2-Eclipse-Plugin
+proj-type: maven
+No.221
+https://github.com/openjdk-mirror/jdk7u-jdk
+proj-type: no
+No.222
+https://github.com/bbeck/token-bucket
+proj-type: maven
+No.223
+https://github.com/mvel/mvel
+proj-type: maven
+No.224
+https://github.com/sharpstill/CronHub
+proj-type: no
+No.225
+https://github.com/before/uadetector
+proj-type: maven
+No.226
+https://github.com/BaiduQA/Cafe
+proj-type: android
+No.227
+https://github.com/FlowingMedia/TimeFlow
+proj-type: no
+No.228
+https://github.com/sporst/SWFREtools
+proj-type: no
+No.229
+https://github.com/XiaoMi/rose
+proj-type: maven
+No.230
+https://github.com/azagniotov/stubby4j
+proj-type: gradle
+No.231
+https://github.com/ddf/Minim
+proj-type: maven
+No.232
+https://github.com/pfleidi/yaxim
+proj-type: android
+No.233
+https://github.com/Ardesco/Selenium-Maven-Template
+proj-type: maven
+No.234
+https://github.com/beders/Resty
+proj-type: maven
+No.235
+https://github.com/apache/felix
+proj-type: maven-gradle
+No.236
+https://github.com/Asquera/elasticsearch-http-basic
+proj-type: maven
+No.237
+https://github.com/alphazero/jredis
+proj-type: maven
+No.238
+https://github.com/manuelbua/libgdx-contribs
+proj-type: maven
+No.239
+https://github.com/mixare/mixare
+proj-type: no
+No.240
+https://github.com/opensagres/xdocreport
+proj-type: maven
+No.241
+https://github.com/epfldata/squall
+proj-type: no
+No.242
+https://github.com/couchbase/couchbase-java-client
+proj-type: maven
+No.243
+https://github.com/nysenate/OpenLegislation
+proj-type: maven
+No.244
+https://github.com/magro/kryo-serializers
+proj-type: maven
+No.245
+https://github.com/apache/bookkeeper
+proj-type: maven
+No.246
+https://github.com/nzakas/cssembed
+proj-type: no
+No.247
+https://github.com/tomp2p/TomP2P
+proj-type: maven-gradle
+No.248
+https://github.com/bytemanproject/byteman
+proj-type: maven
+No.249
+https://github.com/hibernate/hibernate-search
+proj-type: maven
+No.250
+https://github.com/pocmo/Yaaic
+proj-type: android
+No.251
+https://github.com/jbehave/jbehave-core
+proj-type: maven
+No.252
+https://github.com/kohsuke/github-api
+proj-type: maven
+No.253
+https://github.com/apache/jackrabbit-oak
+proj-type: maven
+No.254
+https://github.com/anismiles/websocket-android-phonegap
+proj-type: no
+No.255
+https://github.com/talklittle/reddit-is-fun
+proj-type: android
+No.256
+https://github.com/SimonVT/android-datepicker
+proj-type: android
+No.257
+https://github.com/cschneider/Karaf-Tutorial
+proj-type: maven
+No.258
+https://github.com/madflow/flow-netbeans-markdown
+proj-type: no
+No.259
+https://github.com/helun/Ektorp
+proj-type: maven
+No.260
+https://github.com/jexp/batch-import
+proj-type: maven
+No.261
+https://github.com/apache/bigtop
+proj-type: maven-gradle
+No.262
+https://github.com/antlr/stringtemplate4
+proj-type: maven
+No.263
+https://github.com/talios/clojure-maven-plugin
+proj-type: maven
+No.264
+https://github.com/maxpower47/PinDroid
+proj-type: android
+No.265
+https://github.com/imotov/elasticsearch-analysis-morphology
+proj-type: gradle
+No.266
+https://github.com/sbtourist/Journal.IO
+proj-type: maven
+No.267
+https://github.com/frapontillo/ImageViewEx
+proj-type: android
+No.268
+https://github.com/davidar/lljvm
+proj-type: no
+No.269
+https://github.com/jhalterman/typetools
+proj-type: maven
+No.270
+https://github.com/agoncal/agoncal-book-javaee7
+proj-type: maven
+No.271
+https://github.com/jmhodges/opposite_of_a_bloom_filter
+proj-type: maven
+No.272
+https://github.com/thialfihar/apg
+proj-type: android
+No.273
+https://github.com/mono/sharpen
+proj-type: maven
+No.274
+https://github.com/infinitest/infinitest
+proj-type: maven-gradle
+No.275
+https://github.com/mikiobraun/jblas
+proj-type: maven
+No.276
+https://github.com/nyholku/purejavacomm
+proj-type: maven-gradle
+No.277
+https://github.com/rictic/code_swarm
+proj-type: no
+No.278
+https://github.com/rdio/rdio-simple
+proj-type: no
+No.279
+https://github.com/moxie0/AndroidPinning
+proj-type: android
+No.280
+https://github.com/apache/karaf
+proj-type: maven
+No.281
+https://github.com/caelum/caelum-stella
+proj-type: maven
+No.282
+https://github.com/cgbystrom/netty-tools
+proj-type: maven
+No.283
+https://github.com/openstreetmap/osmosis
+proj-type: gradle
+No.284
+https://github.com/elastic/elasticsearch-mapper-attachments
+proj-type: gradle
+No.285
+https://github.com/velazcod/Tinfoil-Facebook
+proj-type: android
+No.286
+https://github.com/stefanbirkner/system-rules
+proj-type: maven
+No.287
+https://github.com/m2ym/rsense
+proj-type: no
+No.288
+https://github.com/jhalterman/concurrentunit
+proj-type: maven
+No.289
+https://github.com/ebraminio/DroidPersianCalendar
+proj-type: android
+No.290
+https://github.com/clarkware/jdepend
+proj-type: no
+No.291
+https://github.com/peter-lawrey/Java-Thread-Affinity
+proj-type: maven
+No.292
+https://github.com/rjeschke/txtmark
+proj-type: maven
+No.293
+https://github.com/tillnagel/unfolding
+proj-type: no
+No.294
+https://github.com/airlift/airlift
+proj-type: maven
+No.295
+https://github.com/devunwired/accessory-samples
+proj-type: android
+No.296
+https://github.com/apache/accumulo
+proj-type: maven
+No.297
+https://github.com/twitter/cloudhopper-smpp
+proj-type: maven
+No.298
+https://github.com/grundid/nfctools
+proj-type: maven
+No.299
+https://github.com/freemarker/freemarker-old
+proj-type: no
+No.300
+https://github.com/apache/cxf
+proj-type: maven
+No.301
+https://github.com/gresrun/jesque
+proj-type: maven
+No.302
+https://github.com/sitemesh/sitemesh3
+proj-type: maven-gradle
+No.303
+https://github.com/apache/giraph
+proj-type: maven
+No.304
+https://github.com/springtestdbunit/spring-test-dbunit
+proj-type: maven
+No.305
+https://github.com/prey/prey-android-client
+proj-type: android
+No.306
+https://github.com/cowtowncoder/java-uuid-generator
+proj-type: maven
+No.307
+https://github.com/thomasst/mongoadmin
+proj-type: no
+No.308
+https://github.com/mkarneim/pojobuilder
+proj-type: gradle
+No.309
+https://github.com/JodaOrg/joda-money
+proj-type: maven
+No.310
+https://github.com/rorist/android-network-discovery
+proj-type: android
+No.311
+https://github.com/rafaelsteil/jforum3
+proj-type: maven-gradle
+No.312
+https://github.com/headius/thread_safe
+proj-type: no
+No.313
+https://github.com/commonsguy/cwac-richedit
+proj-type: android
+No.314
+https://github.com/rssowl/RSSOwl
+proj-type: no
+No.315
+https://github.com/lukas-krecan/JsonUnit
+proj-type: maven
+No.316
+https://github.com/EddieRingle/android-undergarment
+proj-type: android
+No.317
+https://github.com/evernote/evernote-sdk-java
+proj-type: maven
+No.318
+https://github.com/JFXtras/jfxtras
+proj-type: gradle
+No.319
+https://github.com/cyrilmottier/ListViewTipsAndTricks
+proj-type: android
+No.320
+https://github.com/jhalterman/expiringmap
+proj-type: maven
+No.321
+https://github.com/throrin19/Android-Validator
+proj-type: android
+No.322
+https://github.com/jwood/standup-timer
+proj-type: android
+No.323
+https://github.com/robo-code/robocode
+proj-type: maven
+No.324
+https://github.com/shontauro/android-pulltorefresh-and-loadmore
+proj-type: android
+No.325
+https://github.com/apache/commons-io
+proj-type: maven
+No.326
+https://github.com/haseman/Android-AR-Kit
+proj-type: android
+No.327
+https://github.com/jgraph/jgraphx
+proj-type: maven
+No.328
+https://github.com/onelogin/java-saml
+proj-type: maven
+No.329
+https://github.com/evernote/evernote-sdk-android
+proj-type: android
+No.330
+https://github.com/taweili/ardublock
+proj-type: maven
+No.331
+https://github.com/damianszczepanik/cucumber-reporting
+proj-type: maven
+No.332
+https://github.com/rschildmeijer/deft
+proj-type: maven
+No.333
+https://github.com/hypercube1024/firefly
+proj-type: maven
+No.334
+https://github.com/ripper234/Whatever-Origin
+proj-type: no
+No.335
+https://github.com/bitstadium/HockeySDK-Android
+proj-type: android
+No.336
+https://github.com/itstamen/rop
+proj-type: maven
+No.337
+https://github.com/MoriTanosuke/glacieruploader
+proj-type: maven
+No.338
+https://github.com/lkuza2/java-speech-api
+proj-type: maven
+No.339
+https://github.com/yegor256/s3auth
+proj-type: maven
+No.340
+https://github.com/marhan/effective-java-examples
+proj-type: maven
+No.341
+https://github.com/swagger-api/swagger-socket
+proj-type: maven
+No.342
+https://github.com/bwaldvogel/liblinear-java
+proj-type: gradle
+No.343
+https://github.com/MagnusS/Java-BloomFilter
+proj-type: no
+No.344
+https://github.com/janinko/ghprb
+proj-type: maven
+No.345
+https://github.com/manmal/hn-android
+proj-type: android
+No.346
+https://github.com/CodeAndMagic/GaugeView
+proj-type: android
+No.347
+https://github.com/wiglenet/wigle-wifi-wardriving
+proj-type: android
+No.348
+https://github.com/apache/commons-collections
+proj-type: maven
+No.349
+https://github.com/roundrop/facebook4j
+proj-type: maven
+No.350
+https://github.com/jsampson/prevayler
+proj-type: maven
+No.351
+https://github.com/gradle/oreilly-gradle-book-examples
+proj-type: maven-gradle
+No.352
+https://github.com/goldmansachs/gs-collections-kata
+proj-type: no
+No.353
+https://github.com/nolanlawson/Catlog
+proj-type: android
+No.354
+https://github.com/josnidhin/Android-Camera-Example
+proj-type: android
+No.355
+https://github.com/58code/Gaea
+proj-type: maven
+No.356
+https://github.com/WhiteHouse/wh-app-android
+proj-type: android
+No.357
+https://github.com/SonarSource/sonar-java
+proj-type: maven
+No.358
+https://github.com/ArcBees/GWTP
+proj-type: maven
+No.359
+https://github.com/megamattron/SplinterNet
+proj-type: android
+No.360
+https://github.com/jonnyzzz/TeamCity.GitHub
+proj-type: no
+No.361
+https://github.com/nbadal/android-gif-encoder
+proj-type: no
+No.362
+https://github.com/NatashaTheRobot/Stanford-CS-106A
+proj-type: no
+No.363
+https://github.com/stathissideris/ditaa
+proj-type: no
+No.364
+https://github.com/lemire/JavaFastPFOR
+proj-type: maven
+No.365
+https://github.com/momodalo/vimtouch
+proj-type: android
+No.366
+https://github.com/medcl/elasticsearch-analysis-mmseg
+No.367
+https://github.com/f2prateek/device-frame-generator
+proj-type: android
+No.368
+https://github.com/VUE/VUE
+proj-type: no
+No.369
+https://github.com/kaitoy/pcap4j
+proj-type: maven
+No.370
+https://github.com/alexjlockwood/adp-applistloader
+proj-type: android
+No.371
+https://github.com/wro4j/wro4j
+proj-type: maven
+No.372
+https://github.com/yandex-qatools/htmlelements
+proj-type: maven
+No.373
+https://github.com/jgritman/httpbuilder
+proj-type: maven
+No.374
+https://github.com/debop/hibernate-redis
+proj-type: maven
+No.375
+https://github.com/cloudera/cdh-twitter-example
+proj-type: maven
+No.376
+https://github.com/thinkaurelius/faunus
+proj-type: maven
+No.377
+https://github.com/donpark/identicon
+proj-type: no
+No.378
+https://github.com/javatuples/javatuples
+proj-type: maven
+No.379
+https://github.com/foxykeep/ContentProviderCodeGenerator
+proj-type: no
+No.380
+https://github.com/stephanenicolas/RoboDemo
+proj-type: android
+No.381
+https://github.com/tcoxon/metazelda
+proj-type: no
+No.382
+https://github.com/tntim96/JSCover
+proj-type: maven
+No.383
+https://github.com/samsonw/OpenExplorer
+proj-type: no
+No.384
+https://github.com/umeng/android_download_manager
+proj-type: android
+No.385
+https://github.com/s4/core
+proj-type: maven
+No.386
+https://github.com/ptnplanet/Java-Naive-Bayes-Classifier
+proj-type: maven
+No.387
+https://github.com/yxl/DownloadProvider
+proj-type: android
+No.388
+https://github.com/moritz-wundke/android-page-curl
+proj-type: android
+No.389
+https://github.com/cyrilmottier/Polaris
+proj-type: android
+No.390
+https://github.com/jeremyh/jBCrypt
+proj-type: maven
+No.391
+https://github.com/twitter/chill
+proj-type: no
+No.392
+https://github.com/ForgeEssentials/ForgeEssentials
+proj-type: gradle
+No.393
+https://github.com/membrane/service-proxy
+proj-type: maven
+No.394
+https://github.com/aidancbrady/Mekanism
+proj-type: gradle
+No.395
+https://github.com/QuickBlox/quickblox-android-sdk
+proj-type: android
+No.396
+https://github.com/httl/httl
+proj-type: maven
+No.397
+https://github.com/Comcast/cmb
+proj-type: maven
+No.398
+https://github.com/LWJGL/lwjgl
+proj-type: no
+No.399
+https://github.com/aws/aws-sdk-android
+proj-type: android
+No.400
+https://github.com/mrKlar/PagedDragDropGrid
+proj-type: android
+No.401
+https://github.com/freeplane/freeplane
+proj-type: gradle
+No.402
+https://github.com/adamrocker/simple-side-drawer
+proj-type: android
+No.403
+https://github.com/cping/LGame
+proj-type: android
+No.404
+https://github.com/pragma-/networklog
+proj-type: android
+No.405
+https://github.com/iSECPartners/android-ssl-bypass
+proj-type: android
+No.406
+https://github.com/gueei/AndroidBinding
+proj-type: android
+No.407
+https://github.com/junkdog/artemis-odb
+proj-type: maven
+No.408
+https://github.com/karussell/elasticsearch-reindex
+proj-type: maven
+No.409
+https://github.com/robospock/RoboSpock
+proj-type: android
+No.410
+https://github.com/ankri/SwitchCompatLibrary
+proj-type: android
+No.411
+https://github.com/octopus-platform/joern
+proj-type: gradle
+No.412
+https://github.com/haiwen/seadroid
+proj-type: android
+No.413
+https://github.com/HubSpot/dropwizard-guice
+proj-type: maven
+No.414
+https://github.com/vladexologija/PinterestListView
+proj-type: android
+No.415
+https://github.com/Akdeniz/google-play-crawler
+proj-type: maven
+No.416
+https://github.com/dodyg/AndroidRivers
+proj-type: android
+No.417
+https://github.com/zeromq/filemq
+proj-type: maven
+No.418
+https://github.com/crawljax/crawljax
+proj-type: maven
+No.419
+https://github.com/nviennot/jd-core-java
+proj-type: gradle
+No.420
+https://github.com/apache/isis
+proj-type: maven-gradle
+No.421
+https://github.com/demitsuri/smali2java
+proj-type: gradle
+No.422
+https://github.com/nurkiewicz/spring-data-jdbc-repository
+proj-type: maven
+No.423
+https://github.com/thebusby/iota
+proj-type: no
+No.424
+https://github.com/mixi-inc/Android-Device-Compatibility
+proj-type: android
+No.425
+https://github.com/cloudsec/ajvm
+proj-type: no
+No.426
+https://github.com/jenetics/jenetics
+proj-type: gradle
+No.427
+https://github.com/acomminos/Plumble
+proj-type: android
+No.428
+https://github.com/jprante/elasticsearch-knapsack
+proj-type: gradle
+No.429
+https://github.com/vkostyukov/la4j
+proj-type: maven
+No.430
+https://github.com/CloudStack-extras/CloudStack-archive
+proj-type: no
+No.431
+https://github.com/sgolivernet/curso-android-src
+proj-type: android
+No.432
+https://github.com/maurycyw/StaggeredGridViewDemo
+proj-type: android
+No.433
+https://github.com/tobiasflohre/movie-database
+proj-type: maven
+No.434
+https://github.com/MartinvanZ/Inscription
+proj-type: android
+No.435
+https://github.com/odnoklassniki/one-nio
+proj-type: maven
+No.436
+https://github.com/uklimaschewski/EvalEx
+proj-type: maven
+No.437
+https://github.com/llbit/chunky
+proj-type: gradle
+No.438
+https://github.com/kimasendorf/ASDFPixelSort
+proj-type: no
+No.439
+https://github.com/carrotsearch/hppc
+proj-type: maven
+No.440
+https://github.com/escline/InstallCert
+proj-type: no
+No.441
+https://github.com/wks/ik-analyzer
+proj-type: maven
+No.442
+https://github.com/whitesock/open-replicator
+proj-type: maven
+No.443
+https://github.com/apache/jena
+proj-type: maven
+No.444
+https://github.com/octo-online/RoboSpice-samples
+proj-type: android
+No.445
+https://github.com/EverythingMe/OverScrollView
+proj-type: android
+No.446
+https://github.com/pentaho/pentaho-platform
+proj-type: maven
+No.447
+https://github.com/codechimp-org/AppRater
+proj-type: android
+No.448
+https://github.com/castorflex/FlipImageView
+proj-type: android
+No.449
+https://github.com/dmitry-zaitsev/CircleLayout
+proj-type: android
+No.450
+https://github.com/marvinlabs/android-intents
+proj-type: android
+No.451
+https://github.com/jqno/equalsverifier
+proj-type: maven
+No.452
+https://github.com/ThreeTen/threetenbp
+proj-type: maven
+No.453
+https://github.com/jprante/elasticsearch-langdetect
+proj-type: gradle
+No.454
+https://github.com/MinecraftForge/FML
+proj-type: gradle
+No.455
+https://github.com/passy/Android-DirectoryChooser
+proj-type: android
+No.456
+https://github.com/dodola/DynamicCardLayout
+proj-type: android
+No.457
+https://github.com/jonasoreland/runnerup
+proj-type: android
+No.458
+https://github.com/JesusM/HoloCircleSeekBar
+proj-type: android
+No.459
+https://github.com/libreliodev/android
+proj-type: android
+No.460
+https://github.com/jzachr/goldenorb
+proj-type: maven
+No.461
+https://github.com/bulldog2011/bigqueue
+proj-type: maven
+No.462
+https://github.com/openpnp/openpnp
+proj-type: maven
+No.463
+https://github.com/RaghavSood/AndroidCircularSeekBar
+proj-type: no
+No.464
+https://github.com/gggard/AndroidCaldavSyncAdapater
+proj-type: android
+No.465
+https://github.com/rfc2822/GfxTablet
+proj-type: android
+No.466
+https://github.com/pocmo/Android-Network-Intents
+proj-type: android
+No.467
+https://github.com/bishopmatthew/HackerNews
+proj-type: android
+No.468
+https://github.com/r3gis3r/CSipSimple
+proj-type: android
+No.469
+https://github.com/Nammari/GooglePlusLayout
+proj-type: android
+No.470
+https://github.com/cfregly/fluxcapacitor
+proj-type: maven-gradle
+No.471
+https://github.com/jcip/jcip.github.com
+proj-type: no
+No.472
+https://github.com/apache/tomee
+proj-type: maven
+No.473
+https://github.com/ArcBees/Jukito
+proj-type: maven
+No.474
+https://github.com/timroes/SwipeToDismissUndoList
+proj-type: android
+No.475
+https://github.com/mburst/dijkstras-algorithm
+proj-type: no
+No.476
+https://github.com/anupcowkur/Android-Wheel-Menu
+proj-type: android
+No.477
+https://github.com/zafarkhaja/jsemver
+proj-type: maven
+No.478
+https://github.com/vaadin/dashboard-demo
+proj-type: maven
+No.479
+https://github.com/undera/jmeter-plugins
+proj-type: maven
+No.480
+https://github.com/bhavyahmehta/ListviewFilter
+proj-type: android
+No.481
+https://github.com/xvitcoder/spring-mvc-angularjs
+proj-type: maven
+No.482
+https://github.com/tumblr/jumblr
+proj-type: maven
+No.483
+https://github.com/zhuowei/MCPELauncher
+proj-type: android
+No.484
+https://github.com/mybatis/jpetstore-6
+proj-type: maven
+No.485
+https://github.com/sbakhtiarov/gif-movie-view
+proj-type: android
+No.486
+https://github.com/pubnub/java
+proj-type: gradle
+No.487
+https://github.com/over140/OPlayer
+proj-type: android
+No.488
+https://github.com/logstash/log4j-jsonevent-layout
+proj-type: maven
+No.489
+https://github.com/OneBusAway/onebusaway-android
+proj-type: android
+No.490
+https://github.com/facebookarchive/linkbench
+proj-type: maven
+No.491
+https://github.com/eclipse/golo-lang
+proj-type: maven-gradle
+No.492
+https://github.com/miemiedev/mybatis-paginator
+proj-type: maven
+No.493
+https://github.com/Netflix/denominator
+proj-type: android
+No.494
+https://github.com/reficio/soap-ws
+proj-type: maven
+No.495
+https://github.com/dk8996/Gantt-Chart
+proj-type: no
+No.496
+https://github.com/tcoulter/jockeyjs
+proj-type: android
+No.497
+https://github.com/JakeWharton/salvage
+proj-type: android
+No.498
+https://github.com/Netflix/karyon
+proj-type: gradle
+No.499
+https://github.com/halzhang/StartupNews
+proj-type: android
+No.500
+https://github.com/togglz/togglz
+proj-type: maven
+No.501
+https://github.com/onepf/OpenIAB
+proj-type: android
+No.502
+https://github.com/LMAX-Exchange/LMAXCollections
+proj-type: no
+No.503
+https://github.com/j256/ormlite-core
+proj-type: maven
+No.504
+https://github.com/Netflix/netflix-graph
+proj-type: gradle
+No.505
+https://github.com/Splitter/android_packages_apps_apolloMod
+proj-type: android
+No.506
+https://github.com/scream3r/java-simple-serial-connector
+proj-type: no
+No.507
+https://github.com/Netflix/recipes-rss
+proj-type: gradle
+No.508
+https://github.com/ragunathjawahar/instant-adapter
+proj-type: android
+No.509
+https://github.com/jamesward/play-rest-security
+proj-type: no
+No.510
+https://github.com/googlemaps/hellomap-android
+proj-type: android
+No.511
+https://github.com/noveogroup/android-logger
+proj-type: maven
+No.512
+https://github.com/stripe/stripe-android
+proj-type: android
+No.513
+https://github.com/alibaba/simpleimage
+proj-type: maven
+No.514
+https://github.com/kongchen/swagger-maven-plugin
+proj-type: maven
+No.515
+https://github.com/clayallsopp/routable-android
+proj-type: android
+No.516
+https://github.com/chrisbatt/AndroidFastImageProcessing
+proj-type: android
+No.517
+https://github.com/Esri/geometry-api-java
+proj-type: maven
+No.518
+https://github.com/FineUploader/server-examples
+proj-type: no
+No.519
+https://github.com/rackerlabs/repose
+proj-type: gradle
+No.520
+https://github.com/TheFinestArtist/YouTubePlayerActivity
+proj-type: android
+No.521
+https://github.com/skiphs/AMIDST
+proj-type: no
+No.522
+https://github.com/Esri/spatial-framework-for-hadoop
+proj-type: maven
+No.523
+https://github.com/mg6maciej/android-maps-extensions
+proj-type: android
+No.524
+https://github.com/mcxiaoke/fanfouapp-opensource
+proj-type: android
+No.525
+https://github.com/umeng/apf
+proj-type: android
+No.526
+https://github.com/ManuelPeinado/ImageLayout
+proj-type: android
+No.527
+https://github.com/lookfirst/sardine
+proj-type: maven
+No.528
+https://github.com/ios-driver/ios-driver
+proj-type: maven
+No.529
+https://github.com/clulab/processors
+proj-type: no
+No.530
+https://github.com/JakeWharton/adjacent-fragment-pager-sample
+proj-type: android
+No.531
+https://github.com/codefollower/H2-Research
+proj-type: maven
+No.532
+https://github.com/OpenNMS/opennms
+proj-type: maven
+No.533
+https://github.com/tananaev/traccar-client-android
+proj-type: android
+No.534
+https://github.com/telly/groundy
+proj-type: android
+No.535
+https://github.com/devunwired/custom-view-examples
+proj-type: android
+No.536
+https://github.com/fommil/matrix-toolkits-java
+proj-type: maven
+No.537
+https://github.com/ManuelPeinado/NumericPageIndicator
+proj-type: android
+No.538
+https://github.com/googleglass/mirror-quickstart-java
+proj-type: maven
+No.539
+https://github.com/airlift/slice
+proj-type: maven
+No.540
+https://github.com/TangKe/SlideMenu
+proj-type: android
+No.541
+https://github.com/intel-cloud/cosbench
+proj-type: no
+No.542
+https://github.com/processing/processing-android
+proj-type: android
+No.543
+https://github.com/googlearchive/solutions-mobile-backend-starter-java
+proj-type: no
+No.544
+https://github.com/sismics/reader
+proj-type: android
+No.545
+https://github.com/eolwral/OSMonitor
+proj-type: android
+No.546
+https://github.com/socketio/engine.io-client-java
+proj-type: maven
+No.547
+https://github.com/OpenIotOrg/openiot
+proj-type: android
+No.548
+https://github.com/jonathanlermitage/tikione-steam-cleaner
+proj-type: maven
+No.549
+https://github.com/jitsi/libjitsi
+proj-type: maven
+No.550
+https://github.com/jaydeepw/android-utils
+proj-type: android
+No.551
+https://github.com/AdamBien/afterburner.fx
+proj-type: maven
+No.552
+https://github.com/twotoasters/clusterkraf
+proj-type: android
+No.553
+https://github.com/maxmind/GeoIP2-java
+proj-type: maven
+No.554
+https://github.com/DigitalPebble/storm-crawler
+proj-type: maven
+No.555
+https://github.com/chiragjain/Emoticons-Keyboard
+proj-type: android
+No.556
+https://github.com/pmerienne/trident-ml
+proj-type: maven
+No.557
+https://github.com/kaze0/winky
+proj-type: android
+No.558
+https://github.com/Beh01der/EasyFlow
+proj-type: maven
+No.559
+https://github.com/yahoo/storm-yarn
+proj-type: maven
+No.560
+https://github.com/belerweb/pinyin4j
+proj-type: maven
+No.561
+https://github.com/restx/restx
+proj-type: maven
+No.562
+https://github.com/spotify/netty-zmtp
+proj-type: maven
+No.563
+https://github.com/timboudreau/netty-http-client
+proj-type: maven
+No.564
+https://github.com/pusuo/patchca
+proj-type: maven
+No.565
+https://github.com/jsonld-java/jsonld-java
+proj-type: maven
+No.566
+https://github.com/segmentio/analytics-android
+proj-type: android
+No.567
+https://github.com/wurstmeister/storm-kafka-0.8-plus
+proj-type: maven
+No.568
+https://github.com/mopub/mopub-android-sdk
+proj-type: android
+No.569
+https://github.com/surespot/android
+proj-type: android
+No.570
+https://github.com/dayatang/dddlib
+proj-type: maven-gradle
+No.571
+https://github.com/square/otto-intellij-plugin
+proj-type: no
+No.572
+https://github.com/novoda/merlin
+proj-type: android
+No.573
+https://github.com/dbachelder/CreditCardEntry
+proj-type: android
+No.574
+https://github.com/Nilhcem/hosts-editor-android
+proj-type: android
+No.575
+https://github.com/amigold/FunDapter
+proj-type: android
+No.576
+https://github.com/cobbzilla/s3s3mirror
+proj-type: maven
+No.577
+https://github.com/six2six/fixture-factory
+proj-type: maven
+No.578
+https://github.com/jclouds/legacy-jclouds
+proj-type: maven
+No.579
+https://github.com/secure-software-engineering/soot-infoflow-android
+proj-type: maven
+No.580
+https://github.com/pkainulainen/spring-mvc-test-examples
+proj-type: maven
+No.581
+https://github.com/benas/random-beans
+proj-type: maven
+No.582
+https://github.com/timols/java-gitlab-api
+proj-type: maven-gradle
+No.583
+https://github.com/timols/jenkins-gitlab-merge-request-builder-plugin
+proj-type: maven-gradle
+No.584
+https://github.com/bmuschko/gradle-in-action-source
+proj-type: maven-gradle
+No.585
+https://github.com/jitsi/jitsi-android
+proj-type: android
+No.586
+https://github.com/andraskindler/quickscroll
+proj-type: android
+No.587
+https://github.com/LambergaR/VerticalViewPager
+proj-type: android
+No.588
+https://github.com/wocommunity/wonder
+proj-type: maven
+No.589
+https://github.com/mkuklis/phonegap-websocket
+proj-type: no
+No.590
+https://github.com/zanata/zanata-server
+proj-type: no
+No.591
+https://github.com/pkainulainen/spring-data-jpa-examples
+proj-type: maven
+No.592
+https://github.com/gdg-x/frisbee
+proj-type: android
+No.593
+https://github.com/rcarz/jira-client
+proj-type: maven
+No.594
+https://github.com/bujiio/buji-pac4j
+proj-type: maven
+No.595
+https://github.com/dkandalov/live-plugin
+proj-type: gradle
+No.596
+https://github.com/winghc/hadoop2x-eclipse-plugin
+proj-type: no
+No.597
+https://github.com/mogoweb/chromium_webview
+proj-type: android
+No.598
+https://github.com/ObjectLayout/ObjectLayout
+proj-type: maven
+No.599
+https://github.com/rdrobinson3/VolleyImageCacheExample
+proj-type: android
+No.600
+https://github.com/nicolasjafelle/SherlockNavigationDrawer
+proj-type: android
+No.601
+https://github.com/OpenHFT/Java-Lang
+proj-type: maven
+No.602
+https://github.com/ManuelPeinado/QuickReturnHeader
+proj-type: android
+No.603
+https://github.com/Joisar/LockScreenApp
+proj-type: android
+No.604
+https://github.com/ahmetaa/zemberek-nlp
+proj-type: maven
+No.605
+https://github.com/markusfisch/ShaderEditor
+proj-type: android
+No.606
+https://github.com/yegor256/rultor
+proj-type: maven
+No.607
+https://github.com/NTRUOpenSourceProject/ntru-crypto
+proj-type: no
+No.608
+https://github.com/zeroturnaround/zt-exec
+proj-type: maven
+No.609
+https://github.com/trautonen/coveralls-maven-plugin
+proj-type: maven
+No.610
+https://github.com/noinnion/newsplus
+proj-type: android
+No.611
+https://github.com/joshlong/the-spring-rest-stack
+proj-type: android
+No.612
+https://github.com/alexxiyang/shiro-redis
+proj-type: maven
+No.613
+https://github.com/melix/deck2pdf
+proj-type: gradle
+No.614
+https://github.com/uwolfer/gerrit-intellij-plugin
+proj-type: gradle
+No.615
+https://github.com/easonhan007/webdriver_guide
+proj-type: no
+No.616
+https://github.com/octo-technology/sonar-objective-c
+proj-type: maven
+No.617
+https://github.com/skavanagh/EC2Box
+proj-type: maven
+No.618
+https://github.com/davidmoten/geo
+proj-type: maven
+No.619
+https://github.com/peter-lawrey/HugeCollections-OLD
+proj-type: maven
+No.620
+https://github.com/NGDATA/hbase-indexer
+proj-type: maven
+No.621
+https://github.com/codepath/android-rest-client-template
+proj-type: android
+No.622
+https://github.com/clun/ff4j
+proj-type: maven
+No.623
+https://github.com/wuman/android-oauth-client
+proj-type: android
+No.624
+https://github.com/carrot2/elasticsearch-carrot2
+proj-type: gradle
+No.625
+https://github.com/atermenji/IconicDroid
+proj-type: android
+No.626
+https://github.com/awslabs/dynamodb-transactions
+proj-type: maven
+No.627
+https://github.com/movisens/SmartGattLib
+proj-type: gradle
+No.628
+https://github.com/dodola/WaterFallExt
+proj-type: android
+No.629
+https://github.com/firebase/AndroidChat
+proj-type: android
+No.630
+https://github.com/dropbox/dropbox-sdk-java
+proj-type: android
+No.631
+https://github.com/easemob/sdkexamples-android
+proj-type: android
+No.632
+https://github.com/jexp/neo4j-shell-tools
+proj-type: maven
+No.633
+https://github.com/opensourceBIM/BIMserver
+proj-type: maven
+No.634
+https://github.com/tvbarthel/ChaseWhisplyProject
+proj-type: android
+No.635
+https://github.com/DroidPHP/DroidPHP
+proj-type: android
+No.636
+https://github.com/Udinic/SyncAdapter
+proj-type: android
+No.637
+https://github.com/alibaba/cobarclient
+proj-type: maven
+No.638
+https://github.com/vinc3m1/android-segmentedradiobutton
+proj-type: android
+No.639
+https://github.com/krasa/EclipseCodeFormatter
+proj-type: maven
+No.640
+https://github.com/diegoceccarelli/json-wikipedia
+proj-type: maven
+No.641
+https://github.com/draptik/angulardemorestful
+proj-type: maven
+No.642
+https://github.com/lopspower/AndroidWebServer
+proj-type: android
+No.643
+https://github.com/openml/OpenML
+proj-type: no
+No.644
+https://github.com/shiffman/Most-Pixels-Ever-Processing
+proj-type: no
+No.645
+https://github.com/easymock/objenesis
+proj-type: android
+No.646
+https://github.com/viezel/NappDrawer
+proj-type: no
+No.647
+https://github.com/nurkiewicz/async-retry
+proj-type: maven
+No.648
+https://github.com/Pirngruber/AndroidIM
+proj-type: android
+No.649
+https://github.com/ksksue/PhysicaloidLibrary
+proj-type: android
+No.650
+https://github.com/OpenMods/OpenBlocks
+proj-type: gradle
+No.651
+https://github.com/umano/MultiItemRowListAdapter
+proj-type: android
+No.652
+https://github.com/jensstein/oandbackup
+proj-type: android
+No.653
+https://github.com/protegeproject/webprotege
+proj-type: maven
+No.654
+https://github.com/flavienlaurent/poppyview
+proj-type: android
+No.655
+https://github.com/im-qq/webqq-core
+proj-type: maven
+No.656
+https://github.com/bitronix/btm
+proj-type: maven
+No.657
+https://github.com/owlcs/owlapi
+proj-type: maven
+No.658
+https://github.com/puniverse/comsat
+proj-type: gradle
+No.659
+https://github.com/jaeksoft/opensearchserver
+proj-type: maven
+No.660
+https://github.com/LeonardoCardoso/Android-Link-Preview
+proj-type: android
+No.661
+https://github.com/fixteam/fixflow
+proj-type: maven
+No.662
+https://github.com/xplodwild/android_packages_apps_Focal
+proj-type: android
+No.663
+https://github.com/PaulTR/AndroidDemoProjects
+proj-type: android
+No.664
+https://github.com/editorconfig/editorconfig-jetbrains
+proj-type: no
+No.665
+https://github.com/applidium/HeaderListView
+proj-type: android
+No.666
+https://github.com/jonfhancock/JsonToJava
+proj-type: no
+No.667
+https://github.com/flavienlaurent/PanningView
+proj-type: android
+No.668
+https://github.com/jenkinsci/mesos-plugin
+proj-type: maven
+No.669
+https://github.com/grossopa/weixin-mp-java
+proj-type: maven
+No.670
+https://github.com/ophilbert/ActivityTransition
+proj-type: android
+No.671
+https://github.com/entertailion/Fling
+proj-type: maven
+No.672
+https://github.com/mauimauer/cheapcast
+proj-type: android
+No.673
+https://github.com/aerogear/aerogear-unifiedpush-server
+proj-type: maven
+No.674
+https://github.com/bobbylight/RSyntaxTextArea
+proj-type: gradle
+No.675
+https://github.com/Glitchfiend/BiomesOPlenty
+proj-type: gradle
+No.676
+https://github.com/ankurkotwal/making-apps-beautiful
+proj-type: android
+No.677
+https://github.com/wmixvideo/nfe
+proj-type: maven
+No.678
+https://github.com/katzer/cordova-plugin-email-composer
+proj-type: no
+No.679
+https://github.com/kstyrc/embedded-redis
+proj-type: maven
+No.680
+https://github.com/cricklet/Android-PanesLibrary
+proj-type: android
+No.681
+https://github.com/spring-projects/spring-data-commons
+proj-type: maven
+No.682
+https://github.com/futuresimple/android-db-commons
+proj-type: android
+No.683
+https://github.com/spring-projects/spring-social-facebook
+proj-type: gradle
+No.684
+https://github.com/spring-projects/spring-data-solr
+proj-type: maven
+No.685
+https://github.com/spring-projects/spring-xd
+proj-type: gradle
+No.686
+https://github.com/spring-projects/spring-shell
+proj-type: maven
+No.687
+https://github.com/spring-projects/spring-amqp
+proj-type: gradle
+No.688
+https://github.com/spring-projects/spring-batch-admin
+proj-type: maven
+No.689
+https://github.com/spring-projects/rest-shell
+proj-type: gradle
+No.690
+https://github.com/spring-projects/spring-security-saml
+proj-type: gradle
+No.691
+https://github.com/brettwooldridge/NuProcess
+proj-type: maven
+No.692
+https://github.com/OpherV/gitflow4idea
+proj-type: no
+No.693
+https://github.com/duckduckgo/Android
+proj-type: android
+No.694
+https://github.com/protegeproject/protege
+proj-type: maven
+No.695
+https://github.com/gabrielemariotti/colorpickercollection
+proj-type: android
+No.696
+https://github.com/zhiyuncloud/aixuexiao
+proj-type: no
+No.697
+https://github.com/klinker41/android-smsmms
+proj-type: android
+No.698
+https://github.com/melin/super-diamond
+proj-type: maven
+No.699
+https://github.com/scireum/s3ninja
+proj-type: maven
+No.700
+https://github.com/nicolasjafelle/PagingListView
+proj-type: android
+No.701
+https://github.com/FasterXML/jackson-datatype-hibernate
+proj-type: maven
+No.702
+https://github.com/daimajia/little-bear-dictionary
+proj-type: android
+No.703
+https://github.com/routerkeygen/routerkeygenAndroid
+proj-type: android
+No.704
+https://github.com/sheimi/SGit
+proj-type: android
+No.705
+https://github.com/pakerfeldt/okhttp-signpost
+proj-type: maven
+No.706
+https://github.com/youtube/yt-direct-lite-android
+proj-type: android
+No.707
+https://github.com/google/compile-testing
+proj-type: maven
+No.708
+https://github.com/kolavar/android-support-v4-preferencefragment
+proj-type: android
+No.709
+https://github.com/huaban/elasticsearch-analysis-jieba
+proj-type: maven
+No.710
+https://github.com/allegro/grunt-maven-plugin
+proj-type: maven
+No.711
+https://github.com/code4craft/jsoup-learning
+proj-type: maven
+No.712
+https://github.com/google/patchfield
+proj-type: android
+No.713
+https://github.com/code4craft/xsoup
+proj-type: maven
+No.714
+https://github.com/awslabs/dynamodb-geo
+proj-type: maven
+No.715
+https://github.com/jcabi/jcabi-aspects
+proj-type: maven
+No.716
+https://github.com/ical4j/ical4j
+proj-type: gradle
+No.717
+https://github.com/torryharris/TH-ProgressButton
+proj-type: android
+No.718
+https://github.com/sendgrid/sendgrid-java
+proj-type: maven-gradle
+No.719
+https://github.com/spring-projects/spring-social-samples
+proj-type: maven-gradle
+No.720
+https://github.com/vRallev/OpenCV
+proj-type: android
+No.721
+https://github.com/spring-projects/spring-amqp-samples
+proj-type: maven
+No.722
+https://github.com/spring-projects/spring-ide
+proj-type: maven
+No.723
+https://github.com/javamonkey/beetl2.0
+proj-type: maven
+No.724
+https://github.com/spring-guides/gs-spring-boot
+proj-type: maven-gradle
+No.725
+https://github.com/spring-projects/eclipse-integration-gradle
+proj-type: maven-gradle
+No.726
+https://github.com/wordpress-mobile/PasscodeLock-Android
+proj-type: android
+No.727
+https://github.com/spring-projects/spring-hadoop-samples
+proj-type: maven-gradle
+No.728
+https://github.com/stephanenicolas/boundbox
+proj-type: android
+No.729
+https://github.com/irccloud/android
+proj-type: android
+No.730
+https://github.com/grote/Transportr
+proj-type: android
+No.731
+https://github.com/jmacglashan/burlap
+proj-type: maven
+No.732
+https://github.com/knowitall/reverb
+proj-type: maven
+No.733
+https://github.com/timroes/EnhancedListView
+proj-type: android
+No.734
+https://github.com/codelibs/fess
+proj-type: maven
+No.735
+https://github.com/elastic/elasticsearch-metrics-reporter-java
+proj-type: maven
+No.736
+https://github.com/rometools/rome
+proj-type: maven
+No.737
+https://github.com/torakiki/pdfsam
+proj-type: maven
+No.738
+https://github.com/alibaba/asyncload
+proj-type: maven
+No.739
+https://github.com/pyricau/shipfaster
+proj-type: android
+No.740
+https://github.com/ygorbarboza/AKParallax-Android
+proj-type: android
+No.741
+https://github.com/JakeWharton/gradle-android-test-plugin
+proj-type: android
+No.742
+https://github.com/flavienlaurent/flavienlaurent.com
+proj-type: android
+No.743
+https://github.com/sourab-sharma/TouchToRecord
+proj-type: android
+No.744
+https://github.com/guoding83128/OpenDL
+proj-type: maven
+No.745
+https://github.com/mttkay/memento
+proj-type: maven
+No.746
+https://github.com/iipc/openwayback
+proj-type: maven
+No.747
+https://github.com/devadvance/circularseekbar
+proj-type: no
+No.748
+https://github.com/michel-kraemer/gradle-download-task
+proj-type: gradle
+No.749
+https://github.com/chrisjenx/Paralloid
+proj-type: android
+No.750
+https://github.com/ragunathjawahar/adapter-kit
+proj-type: android
+No.751
+https://github.com/novoda/spikes
+proj-type: android
+No.752
+https://github.com/indeedeng/proctor
+proj-type: maven
+No.753
+https://github.com/sialcasa/mvvmFX
+proj-type: maven
+No.754
+https://github.com/impossibl/pgjdbc-ng
+proj-type: maven
+No.755
+https://github.com/Adobe-Consulting-Services/acs-aem-commons
+proj-type: maven
+No.756
+https://github.com/cloverstudio/Spika
+proj-type: android
+No.757
+https://github.com/tyczj/MapNavigator
+proj-type: android
+No.758
+https://github.com/LatencyUtils/LatencyUtils
+proj-type: maven
+No.759
+https://github.com/tbroyer/gradle-errorprone-plugin
+proj-type: no
+No.760
+https://github.com/katjahahn/PortEx
+proj-type: no
+No.761
+https://github.com/tommy351/ehreader-android
+proj-type: android
+No.762
+https://github.com/JetBrains/jediterm
+proj-type: gradle
+No.763
+https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations
+proj-type: android
+No.764
+https://github.com/cinchapi/concourse
+proj-type: gradle
+No.765
+https://github.com/kenumir/android-calendar-card
+proj-type: android
+No.766
+https://github.com/senzhk/ADBKeyBoard
+proj-type: android
+No.767
+https://github.com/NLPchina/elasticsearch-analysis-ansj
+proj-type: maven
+No.768
+https://github.com/RamosLi/dbay-apns-for-java
+proj-type: maven
+No.769
+https://github.com/fpj/zookeeper-book-example
+proj-type: maven
+No.770
+https://github.com/codelibs/elasticsearch-river-web
+proj-type: maven
+No.771
+https://github.com/pires/obd-java-api
+proj-type: maven
+No.772
+https://github.com/caelum/vraptor4
+proj-type: maven
+No.773
+https://github.com/dlew/android-movies-demo
+proj-type: android
+No.774
+https://github.com/jpush/jpush-api-java-client
+proj-type: maven
+No.775
+https://github.com/jhalterman/lyra
+proj-type: maven
+No.776
+https://github.com/negusoft/holoaccent
+proj-type: android
+No.777
+https://github.com/freedomotic/freedomotic
+proj-type: maven
+No.778
+https://github.com/cf-samples-attic/springsource-cloudfoundry-samples
+proj-type: maven-gradle
+No.779
+https://github.com/JesseGu/SinVoice
+proj-type: android
+No.780
+https://github.com/inmite/android-grid-wichterle
+proj-type: android
+No.781
+https://github.com/Fanping/iveely.search
+proj-type: maven
+No.782
+https://github.com/cloudfoundry/cf-java-client
+proj-type: maven
+No.783
+https://github.com/paulc4/mvc-exceptions
+proj-type: maven-gradle
+No.784
+https://github.com/MinecraftForge/ForgeGradle
+proj-type: gradle
+No.785
+https://github.com/mgouline/android-samples
+proj-type: android
+No.786
+https://github.com/tibi1712/Folding-Android
+proj-type: android
+No.787
+https://github.com/tibi1712/FoldingNavigationDrawer-Android
+proj-type: android
+No.788
+https://github.com/SonarSource/sonarlint-intellij
+proj-type: gradle
+No.789
+https://github.com/giltene/jHiccup
+proj-type: maven
+No.790
+https://github.com/learnNcode/GmailLikePullToRefresh
+proj-type: android
+No.791
+https://github.com/nikwen/DynamicShareActionProvider
+proj-type: android
+No.792
+https://github.com/vogellacompany/codeexamples-android
+proj-type: android
+No.793
+https://github.com/EsotericSoftware/yamlbeans
+proj-type: maven
+No.794
+https://github.com/jreijn/spring-comparing-template-engines
+proj-type: maven
+No.795
+https://github.com/continuumsecurity/bdd-security
+proj-type: gradle
+No.796
+https://github.com/DWorkS/AStickyHeader
+proj-type: android
+No.797
+https://github.com/steelkiwi/AndroidRecording
+proj-type: android
+No.798
+https://github.com/asciidoctor/asciidoctorj
+proj-type: gradle
+No.799
+https://github.com/shamanland/fonticon
+proj-type: android
+No.800
+https://github.com/jnode/jnode
+proj-type: no
+No.801
+https://github.com/angelozerr/angularjs-eclipse
+proj-type: maven
+No.802
+https://github.com/crosswalk-project/crosswalk-cordova-android
+proj-type: android
+No.803
+https://github.com/phishman3579/android-heart-rate-monitor
+proj-type: android
+No.804
+https://github.com/Sonelli/juicessh-performancemonitor
+proj-type: android
+No.805
+https://github.com/analytically/innerbuilder
+proj-type: maven
+No.806
+https://github.com/ssomai/ScalableLayout
+proj-type: android
+No.807
+https://github.com/learnNcode/MediaChooser
+proj-type: android
+No.808
+https://github.com/mozilla/vtt.js
+proj-type: no
+No.809
+https://github.com/JakeWharton/madge
+proj-type: android
+No.810
+https://github.com/kite-sdk/kite
+proj-type: maven
+No.811
+https://github.com/Hipmob/gifanimateddrawable
+proj-type: android
+No.812
+https://github.com/diegocarloslima/FloatingGroupExpandableListView
+proj-type: android
+No.813
+https://github.com/dolphinwang/ImageCoverFlow
+proj-type: android
+No.814
+https://github.com/adakoda/android-screen-monitor
+proj-type: no
+No.815
+https://github.com/denimgroup/threadfix
+proj-type: maven
+No.816
+https://github.com/BottegaIT/ddd-leaven-v2
+proj-type: maven
+No.817
+https://github.com/theredsunrise/AndroidCoolDragAndDropGridView
+proj-type: android
+No.818
+https://github.com/Netflix/aegisthus
+proj-type: gradle
+No.819
+https://github.com/flaxsearch/luwak
+proj-type: maven
+No.820
+https://github.com/PhilipsHue/PhilipsHueSDK-Java-MultiPlatform-Android
+proj-type: android
+No.821
+https://github.com/plantuml/plantuml-server
+proj-type: maven
+No.822
+https://github.com/RemiKoutcherawy/OriSim3D-Android
+proj-type: android
+No.823
+https://github.com/thymeleaf/thymeleaf-spring
+proj-type: maven
+No.824
+https://github.com/diegocarloslima/ByakuGallery
+proj-type: android
+No.825
+https://github.com/ligi/PassAndroid
+proj-type: android
+No.826
+https://github.com/joshlong/boot-examples
+proj-type: maven
+No.827
+https://github.com/gwtbootstrap3/gwtbootstrap3
+proj-type: maven
+No.828
+https://github.com/eclipse/kura
+proj-type: maven
+No.829
+https://github.com/CharonChui/CyberLink4Android
+proj-type: android
+No.830
+https://github.com/awslabs/amazon-kinesis-client
+proj-type: maven
+No.831
+https://github.com/47deg/appsly-android-rest
+proj-type: android
+No.832
+https://github.com/zhangkaitao/spring4-showcase
+proj-type: maven
+No.833
+https://github.com/lemonlabs/ExpandableButtonMenu
+proj-type: android
+No.834
+https://github.com/iSECPartners/Introspy-Android
+proj-type: android
+No.835
+https://github.com/cache2k/cache2k
+proj-type: maven
+No.836
+https://github.com/awslabs/amazon-kinesis-connectors
+proj-type: maven
+No.837
+https://github.com/hillfly/WifiChat
+proj-type: android
+No.838
+https://github.com/javers/javers
+proj-type: gradle
+No.839
+https://github.com/glowroot/glowroot
+proj-type: maven
+No.840
+https://github.com/brucexx/heisenberg
+proj-type: maven
+No.841
+https://github.com/IanGClifton/AndroidFloatLabel
+proj-type: android
+No.842
+https://github.com/jgilfelt/GhostLog
+proj-type: android
+No.843
+https://github.com/chiehmin/MinMinGuard
+proj-type: android
+No.844
+https://github.com/iSECPartners/Android-SSL-TrustKiller
+proj-type: android
+No.845
+https://github.com/addthis/hydra
+proj-type: maven
+No.846
+https://github.com/jhunters/jprotobuf
+proj-type: maven
+No.847
+https://github.com/nicolasjafelle/PagingGridView
+proj-type: android
+No.848
+https://github.com/jenkinsci/docker-plugin
+proj-type: maven
+No.849
+https://github.com/carymrobbins/intellij-haskforce
+proj-type: gradle
+No.850
+https://github.com/MoshDev/BackgroundViewPager
+proj-type: android
+No.851
+https://github.com/MarsVard/IonIconView
+proj-type: android
+No.852
+https://github.com/googledrive/android-demos
+proj-type: android
+No.853
+https://github.com/opensciencemap/vtm
+proj-type: android
+No.854
+https://github.com/skadistats/clarity
+proj-type: maven
+No.855
+https://github.com/googledrive/android-quickstart
+proj-type: android
+No.856
+https://github.com/VKCOM/vk-android-sdk
+proj-type: android
+No.857
+https://github.com/erchenger/SizeAdjustingTextView
+proj-type: android
+No.858
+https://github.com/Shusshu/Android-RecurrencePicker
+proj-type: android
+No.859
+https://github.com/codingforinterviews/practice-problems
+proj-type: no
+No.860
+https://github.com/TomRoush/PdfBox-Android
+proj-type: android
+No.861
+https://github.com/weddingparty/AndroidFloatLabel
+proj-type: android
+No.862
+https://github.com/Haehnchen/idea-android-studio-plugin
+proj-type: no
+No.863
+https://github.com/palatable/lambda
+proj-type: maven
+No.864
+https://github.com/peholmst/vaadin4spring
+proj-type: maven
+No.865
+https://github.com/JakeWharton/paraphrase
+proj-type: android
+No.866
+https://github.com/yammer/tenacity
+proj-type: maven
+No.867
+https://github.com/spotify/trickle
+proj-type: maven
+No.868
+https://github.com/robert-bor/aho-corasick
+proj-type: maven
+No.869
+https://github.com/opendaylight/controller
+proj-type: maven
+No.870
+https://github.com/SKCraft/Launcher
+proj-type: gradle
+No.871
+https://github.com/matthewrkula/AnimatedPathView
+proj-type: android
+No.872
+https://github.com/nVisium/xssValidator
+proj-type: no
+No.873
+https://github.com/gonjay/rubychina4android
+proj-type: android
+No.874
+https://github.com/iainconnor/ObjectCache
+proj-type: android
+No.875
+https://github.com/zheludkovm/LinuxJavaFixes
+proj-type: maven
+No.876
+https://github.com/flavienlaurent/spans
+proj-type: android
+No.877
+https://github.com/JakeWharton/double-espresso
+proj-type: android
+No.878
+https://github.com/mucommander/mucommander
+proj-type: gradle
+No.879
+https://github.com/TomasMikula/ReactFX
+proj-type: gradle
+No.880
+https://github.com/forge/roaster
+proj-type: maven
+No.881
+https://github.com/andreafeccomandi/bibisco
+proj-type: no
+No.882
+https://github.com/SignalR/java-client
+proj-type: android
+No.883
+https://github.com/igniterealtime/Spark
+proj-type: maven
+No.884
+https://github.com/commonsguy/cwac-security
+proj-type: android
+No.885
+https://github.com/cloudant/sync-android
+proj-type: android
+No.886
+https://github.com/resty-gwt/resty-gwt
+proj-type: maven
+No.887
+https://github.com/evant/rxloader
+proj-type: android
+No.888
+https://github.com/Pixate/pixate-freestyle-android
+proj-type: android
+No.889
+https://github.com/dm77/ZBarScanner
+proj-type: android
+No.890
+https://github.com/donal-tong/wechat
+proj-type: android
+No.891
+https://github.com/jpmml/jpmml-evaluator
+proj-type: maven
+No.892
+https://github.com/Pedroafa/avatar-android
+proj-type: android
+No.893
+https://github.com/greenhalolabs/EmailAutoCompleteTextView
+proj-type: android
+No.894
+https://github.com/kontalk/androidclient
+proj-type: android
+No.895
+https://github.com/JakeWharton/flip-tables
+proj-type: maven
+No.896
+https://github.com/kyze8439690/v2ex-daily-android
+proj-type: android
+No.897
+https://github.com/yuki-lau/weibo-spider
+proj-type: no
+No.898
+https://github.com/spacewalkproject/spacewalk
+proj-type: no
+No.899
+https://github.com/MirakelX/mirakel-android
+proj-type: android
+No.900
+https://github.com/wymsee/cordova-imagePicker
+proj-type: no
+No.901
+https://github.com/hprose/hprose-java
+proj-type: android
+No.902
+https://github.com/hardik-trivedi/FloatingLabel
+proj-type: android
+No.903
+https://github.com/JesseFarebro/android-mqtt
+proj-type: no
+No.904
+https://github.com/bcsphere/bluetooth
+proj-type: no
+No.905
+https://github.com/fouady/SpotifyTray-Android
+proj-type: android
+No.906
+https://github.com/Hive2Hive/Hive2Hive
+proj-type: maven
+No.907
+https://github.com/optimaize/language-detector
+proj-type: maven
+No.908
+https://github.com/citiususc/hipster
+proj-type: maven
+No.909
+https://github.com/mobnetic/BitcoinChecker
+proj-type: android
+No.910
+https://github.com/andrewgiang/SpritzerTextView
+proj-type: android
+No.911
+https://github.com/kzwang/elasticsearch-image
+proj-type: maven
+No.912
+https://github.com/rexstjohn/UltimateAndroidCameraGuide
+proj-type: android
+No.913
+https://github.com/MustafaFerhan/DebugLog
+proj-type: android
+No.914
+https://github.com/wearscript/wearscript-android
+proj-type: android
+No.915
+https://github.com/abhioncbr/Kafka-Message-Server
+proj-type: maven
+No.916
+https://github.com/bulenkov/Darcula
+proj-type: no
+No.917
+https://github.com/microg/android_packages_apps_UnifiedNlp
+proj-type: android
+No.918
+https://github.com/cloudfoundry/java-buildpack-auto-reconfiguration
+proj-type: maven
+No.919
+https://github.com/PomepuyN/discreet-app-rate
+proj-type: android
+No.920
+https://github.com/mmin18/Dex65536
+proj-type: android
+No.921
+https://github.com/b/kafka-websocket
+proj-type: maven
+No.922
+https://github.com/holdenk/learning-spark-examples
+proj-type: maven
+No.923
+https://github.com/goodow/realtime-store
+proj-type: maven
+No.924
+https://github.com/litesuits/android-lite-async
+proj-type: android
+No.925
+https://github.com/szugyi/Android-CircleMenu
+proj-type: android
+No.926
+https://github.com/yulu/Instagram_Filter
+proj-type: android
+No.927
+https://github.com/tito/2048
+proj-type: android
+No.928
+https://github.com/mediarain/RoboCoP
+proj-type: maven
+No.929
+https://github.com/apache/struts-examples
+proj-type: maven
+No.930
+https://github.com/eskimoapps/ResourceNestingExample
+proj-type: android
+No.931
+https://github.com/iainporter/oauth2-provider
+proj-type: gradle
+No.932
+https://github.com/hrldcpr/pcollections
+proj-type: maven-gradle
+No.933
+https://github.com/tbouron/ShakeDetector
+proj-type: android
+No.934
+https://github.com/ribot/easy-adapter
+proj-type: android
+No.935
+https://github.com/shaobin0604/Android-HomeKey-Locker
+proj-type: android
+No.936
+https://github.com/FelixNeutatz/2048_M-A-Star
+proj-type: no
+No.937
+https://github.com/rongi/rotate-layout
+proj-type: android
+No.938
+https://github.com/HiddenStage/divide
+proj-type: android
+No.939
+https://github.com/NLPchina/Word2VEC_java
+proj-type: maven
+No.940
+https://github.com/lafosca/AndroidFaceCropper
+proj-type: android
+No.941
+https://github.com/TechBooster/AndroidOpenTextbook
+proj-type: android
+No.942
+https://github.com/chenlb/mmseg4j-solr
+proj-type: maven
+No.943
+https://github.com/ScottOaks/JavaPerformanceTuning
+proj-type: no
+No.944
+https://github.com/frakbot/GlowPadBackport
+proj-type: android
+No.945
+https://github.com/jirutka/spring-rest-exception-handler
+proj-type: maven
+No.946
+https://github.com/frakbot/CreditsRoll
+proj-type: android
+No.947
+https://github.com/Azure/azure-sdk-for-java
+proj-type: maven
+No.948
+https://github.com/nenick/android-gradle-template
+proj-type: android
+No.949
+https://github.com/MatusKysel/EMVemulator
+proj-type: android
+No.950
+https://github.com/oxo42/stateless4j
+proj-type: maven
+No.951
+https://github.com/AndroidDeveloperLB/ChipsLibrary
+proj-type: android
+No.952
+https://github.com/patrickfav/BlurTestAndroid
+proj-type: android
+No.953
+https://github.com/7heaven/GestureLock
+proj-type: android
+No.954
+https://github.com/qalingo/qalingo-engine
+proj-type: maven
+No.955
+https://github.com/raweng/android-different-loading-animations
+proj-type: android
+No.956
+https://github.com/championswimmer/SimpleFingerGestures_Android_Library
+proj-type: android
+No.957
+https://github.com/wuyexiong/transparent-over-animtabsview
+proj-type: android
+No.958
+https://github.com/vince-styling/Netroid
+proj-type: android
+No.959
+https://github.com/Arasthel/GoogleNavigationDrawerMenu
+proj-type: android
+No.960
+https://github.com/flavienlaurent/activityanimation
+proj-type: android
+No.961
+https://github.com/redpen-cc/redpen
+proj-type: maven
+No.962
+https://github.com/TestFX/TestFX
+proj-type: gradle
+No.963
+https://github.com/kcochibili/TinyDB--Android-Shared-Preferences-Turbo
+proj-type: no
+No.964
+https://github.com/XiaoMi/chronos
+proj-type: maven
+No.965
+https://github.com/cleancoders/CleanCodeCaseStudy
+proj-type: maven
+No.966
+https://github.com/jiecao-fm/hashids-java
+proj-type: maven
+No.967
+https://github.com/WalnutiQ/wAlnut
+proj-type: no
+No.968
+https://github.com/paulfitz/daff
+proj-type: no
+No.969
+https://github.com/wso2/siddhi
+proj-type: maven
+No.970
+https://github.com/codelibs/elasticsearch-taste
+proj-type: maven
+No.971
+https://github.com/caelum/mamute
+proj-type: maven
+No.972
+https://github.com/kolorobot/spring-boot-thymeleaf
+proj-type: maven
+No.973
+https://github.com/pardom/Ollie
+proj-type: gradle
+No.974
+https://github.com/IQSS/dataverse
+proj-type: maven
+No.975
+https://github.com/monitorjbl/excel-streaming-reader
+proj-type: maven
+No.976
+https://github.com/thelinmichael/spotify-web-api-java
+proj-type: maven
+No.977
+https://github.com/maxliaops/Java_Web_Examples
+proj-type: no
+No.978
+https://github.com/ib-controller/ib-controller
+proj-type: no
+No.979
+https://github.com/cmusphinx/pocketsphinx-android-demo
+proj-type: android
+No.980
+https://github.com/google/closure-templates
+proj-type: maven
+No.981
+https://github.com/google/closure-stylesheets
+proj-type: maven
+No.982
+https://github.com/ForestryMC/ForestryMC
+proj-type: gradle
+No.983
+https://github.com/adennie/fb-android-dagger
+proj-type: android
+No.984
+https://github.com/irsdl/IIS-ShortName-Scanner
+proj-type: no
+No.985
+https://github.com/Floens/Clover
+proj-type: android
+No.986
+https://github.com/jaydeepw/audio-wife
+proj-type: android
+No.987
+https://github.com/broadinstitute/picard
+proj-type: gradle
+No.988
+https://github.com/andraskindler/parallaxviewpager
+proj-type: gradle
+No.989
+https://github.com/flavienlaurent/singleinputform
+proj-type: android
+No.990
+https://github.com/RuedigerMoeller/kontraktor
+proj-type: maven
+No.991
+https://github.com/PhilJay/CircleDisplay
+proj-type: android
+No.992
+https://github.com/Stratio/stratio-cassandra
+proj-type: no
+No.993
+https://github.com/dolphinwang/RangeSeekbar
+proj-type: android
+No.994
+https://github.com/uPhyca/GAlette
+proj-type: android
+No.995
+https://github.com/ikocijan/MagicViews
+proj-type: android
+No.996
+https://github.com/facebookarchive/cassandra
+proj-type: no
+No.997
+https://github.com/bither/bither-android
+proj-type: android
+No.998
+https://github.com/dlukashev/AndroidSlidingUpPanel-foursquare-map-demo
+proj-type: android
+No.999
+https://github.com/diogobernardino/CircularCounter
+proj-type: android
+No.1000
+https://github.com/Odoo-mobile/framework
+proj-type: android
+No.1001
+https://github.com/quickfix-j/quickfixj
+proj-type: maven
+No.1002
+https://github.com/uPhyca/gradle-android-aspectj-plugin
+proj-type: android
+No.1003
+https://github.com/dmytrodanylyk/video-crop
+No.1004
+https://github.com/Stratio/Decision
+proj-type: maven
+No.1005
+https://github.com/sprylab/texturevideoview
+proj-type: android
+No.1006
+https://github.com/faradaj/BlurBehind
+proj-type: android
+No.1007
+https://github.com/yesnault/PlayStartApp
+proj-type: no
+No.1008
+https://github.com/sephiroth74/android-floating-action-menu
+proj-type: android
+No.1009
+https://github.com/dlew/android-gfycat
+proj-type: android
+No.1010
+https://github.com/tuenti/SmsRadar
+proj-type: android
+No.1011
+https://github.com/nguyenq/tess4j
+proj-type: maven
+No.1012
+https://github.com/PeteGoo/tcSlackBuildNotifier
+proj-type: maven
+No.1013
+https://github.com/thuytrinh/android-collage-views
+proj-type: android
+No.1014
+https://github.com/marvinlabs/android-slideshow-widget
+proj-type: android
+No.1015
+https://github.com/Codingpedia/demo-rest-jersey-spring
+proj-type: maven
+No.1016
+https://github.com/ThinWonton/BarcodeScanner
+proj-type: android
+No.1017
+https://github.com/snakerflow/snakerflow
+proj-type: maven
+No.1018
+https://github.com/xtreemfs/xtreemfs
+proj-type: maven
+No.1019
+https://github.com/medyo/Dynamicbox
+proj-type: android
+No.1020
+https://github.com/apache/phoenix
+proj-type: maven
+No.1021
+https://github.com/onyxbits/Raccoon
+proj-type: maven
+No.1022
+https://github.com/fashiontec/bodyapps-android
+proj-type: android
+No.1023
+https://github.com/felipecsl/QuickReturn
+proj-type: android
+No.1024
+https://github.com/baoyongzhang/ParcelableGenerator
+proj-type: android
+No.1025
+https://github.com/FilipPudak/ProgressPieView
+proj-type: android
+No.1026
+https://github.com/evant/android-studio-unit-test-plugin
+proj-type: no
+No.1027
+https://github.com/osfans/trime
+proj-type: android
+No.1028
+https://github.com/Armijn/NumberViewAnimation
+proj-type: android
+No.1029
+https://github.com/RichardWarburton/lambda-behave
+proj-type: maven
+No.1030
+https://github.com/hantsy/angularjs-springmvc-sample
+proj-type: maven
+No.1031
+https://github.com/structurizr/java
+proj-type: gradle
+No.1032
+https://github.com/sd6352051/FineDay
+proj-type: android
+No.1033
+https://github.com/antoniolg/DaggerExample
+proj-type: android
+No.1034
+https://github.com/lumifyio/lumify
+proj-type: maven
+No.1035
+https://github.com/venmo/cursor-utils
+proj-type: android
+No.1036
+https://github.com/bradipao/desCharts
+proj-type: android
+No.1037
+https://github.com/Beerkay/JavaMultiThreading
+proj-type: no
+No.1038
+https://github.com/oldratlee/fucking-java-concurrency
+proj-type: maven
+No.1039
+https://github.com/hazelcast/hazelcast-code-samples
+proj-type: maven
+No.1040
+https://github.com/cypressious/AnimationListView
+proj-type: android
+No.1041
+https://github.com/etsy/Conjecture
+proj-type: no
+No.1042
+https://github.com/CiTuX/datetimepicker
+proj-type: android
+No.1043
+https://github.com/delight-im/ShortURL
+proj-type: no
+No.1044
+https://github.com/OWASP/SecurityShepherd
+proj-type: android
+No.1045
+https://github.com/apptik/MultiSlider
+proj-type: android
+No.1046
+https://github.com/jmeter-maven-plugin/jmeter-maven-plugin
+proj-type: maven
+No.1047
+https://github.com/easemob/emchat-server-examples
+proj-type: maven-gradle
+No.1048
+https://github.com/deano2390/FlowTextView
+proj-type: android
+No.1049
+https://github.com/googlesamples/android-NavigationDrawer
+proj-type: android
+No.1050
+https://github.com/naver/yobi
+proj-type: no
+No.1051
+https://github.com/Coinomi/coinomi-android
+proj-type: android
+No.1052
+https://github.com/spengilley/ActivityFragmentMVP
+proj-type: android
+No.1053
+https://github.com/antoniolg/RecyclerViewExtensions
+proj-type: android
+No.1054
+https://github.com/itdelatrisu/opsu
+proj-type: maven-gradle
+No.1055
+https://github.com/neuroph/neuroph
+proj-type: maven
+No.1056
+https://github.com/v5developer/maven-framework-project
+proj-type: maven-gradle
+No.1057
+https://github.com/forcedotcom/idecore
+proj-type: maven-gradle
+No.1058
+https://github.com/oyachai/HearthSim
+proj-type: gradle
+No.1059
+https://github.com/telly/FloatingAction
+proj-type: android
+No.1060
+https://github.com/faizmalkani/Fabulous
+proj-type: android
+No.1061
+https://github.com/kennycason/kumo
+proj-type: maven
+No.1062
+https://github.com/Tibolte/Android-Anim-Playground
+proj-type: android
+No.1063
+https://github.com/rejasupotaro/MaterialDesignSample
+proj-type: android
+No.1064
+https://github.com/emotionsense/SensorManager
+proj-type: android
+No.1065
+https://github.com/QuickBlox/q-municate-android
+proj-type: android
+No.1066
+https://github.com/google/openrtb
+proj-type: maven
+No.1067
+https://github.com/jmockit/jmockit1
+proj-type: maven
+No.1068
+https://github.com/braintree/braintree_android
+proj-type: android
+No.1069
+https://github.com/sanathp/DatabaseManager_For_Android
+proj-type: no
+No.1070
+https://github.com/Mariuxtheone/Teleport
+proj-type: android
+No.1071
+https://github.com/droidwolf/NativeSubprocess
+proj-type: android
+No.1072
+https://github.com/Kennyc1012/Opengur
+proj-type: android
+No.1073
+https://github.com/virgo47/restful-spring-security
+proj-type: gradle
+No.1074
+https://github.com/deano2390/OpenFlappyBird
+proj-type: android
+No.1075
+https://github.com/agrosner/Painter
+proj-type: android
+No.1076
+https://github.com/pumadong/cl-privilege
+proj-type: maven
+No.1077
+https://github.com/juleswhite/mobilecloud-14
+proj-type: android
+No.1078
+https://github.com/mmBs/NavigationDrawerSI
+proj-type: android
+No.1079
+https://github.com/vdenotaris/spring-boot-security-saml-sample
+proj-type: maven
+No.1080
+https://github.com/ftomassetti/effectivejava
+proj-type: no
+No.1081
+https://github.com/tg123/leetcode
+proj-type: no
+No.1082
+https://github.com/JorgeCastilloPrz/ExpandablePanel
+proj-type: android
+No.1083
+https://github.com/freenet/fred
+proj-type: gradle
+No.1084
+https://github.com/tim-group/java-statsd-client
+proj-type: no
+No.1085
+https://github.com/glomadrian/Android-Material-circular-button
+proj-type: android
+No.1086
+https://github.com/omerjerk/RemoteDroid
+proj-type: android
+No.1087
+https://github.com/android10/Android-AOPExample
+proj-type: android
+No.1088
+https://github.com/sojamo/controlp5
+proj-type: no
+No.1089
+https://github.com/JackCho/AndroidVideoView
+proj-type: android
+No.1090
+https://github.com/panxw/android-volley-manager
+proj-type: android
+No.1091
+https://github.com/AlbertGrobas/PolygonImageView
+proj-type: android
+No.1092
+https://github.com/googlesamples/android-play-publisher-api
+proj-type: no
+No.1093
+https://github.com/tuenti/ButtonMenu
+proj-type: android
+No.1094
+https://github.com/malmstein/fenster
+proj-type: android
+No.1095
+https://github.com/sd6352051/RiseNumber
+proj-type: android
+No.1096
+https://github.com/drakeet/Seashell-app
+proj-type: no
+No.1097
+https://github.com/Jearil/SimpleNoSQL
+proj-type: android
+No.1098
+https://github.com/Baqend/Orestes-Bloomfilter
+proj-type: gradle
+No.1099
+https://github.com/casidiablo/multidex
+proj-type: android
+No.1100
+https://github.com/boundlessgeo/GeoGig
+proj-type: maven
+No.1101
+https://github.com/shamanland/floating-action-button
+proj-type: android
+No.1102
+https://github.com/dibbhatt/kafka-spark-consumer
+proj-type: maven
+No.1103
+https://github.com/HozakaN/MaterialDesignColorPalette
+proj-type: android
+No.1104
+https://github.com/Modificator/water-wave-progress
+proj-type: android
+No.1105
+https://github.com/ymback/BambooPlayer
+proj-type: android
+No.1106
+https://github.com/bardsoftware/ganttproject
+proj-type: gradle
+No.1107
+https://github.com/jerrellmardis/Amphitheatre
+proj-type: android
+No.1108
+https://github.com/flavienlaurent/tickplusdrawable
+proj-type: android
+No.1109
+https://github.com/jmrozanec/cron-utils
+proj-type: maven
+No.1110
+https://github.com/xiprox/WaniKani-for-Android
+proj-type: android
+No.1111
+https://github.com/dkmeteor/SmoothTransition
+proj-type: android
+No.1112
+https://github.com/sanity/quickml
+proj-type: maven
+No.1113
+https://github.com/pwittchen/NetworkEvents
+proj-type: android
+No.1114
+https://github.com/mthli/Bitocle
+proj-type: android
+No.1115
+https://github.com/Haehnchen/idea-php-laravel-plugin
+proj-type: gradle
+No.1116
+https://github.com/code-disaster/steamworks4j
+proj-type: maven
+No.1117
+https://github.com/locationtech/geogig
+proj-type: maven
+No.1118
+https://github.com/sangmingming/android-instagram-filter
+proj-type: android
+No.1119
+https://github.com/poetix/protonpack
+proj-type: maven
+No.1120
+https://github.com/ReactiveX/RxJavaFX
+proj-type: gradle
+No.1121
+https://github.com/lichao315/Calendar
+proj-type: android
+No.1122
+https://github.com/tabulapdf/tabula-java
+proj-type: maven
+No.1123
+https://github.com/xSAVIKx/AndroidScreencast
+proj-type: maven
+No.1124
+https://github.com/mHealthTechnologies/mHealthDroid
+proj-type: android
+No.1125
+https://github.com/codeka/wwmmo
+proj-type: android
+No.1126
+https://github.com/jaydeepw/poly-picker
+proj-type: android
+No.1127
+https://github.com/devinhu/androidone
+proj-type: android
+No.1128
+https://github.com/r0adkll/PostOffice
+proj-type: android
+No.1129
+https://github.com/justasm/WindowView
+proj-type: android
+No.1130
+https://github.com/simplenlg/simplenlg
+proj-type: maven
+No.1131
+https://github.com/saki4510t/AudioVideoRecordingSample
+proj-type: android
+No.1132
+https://github.com/justasm/DragLinearLayout
+proj-type: android
+No.1133
+https://github.com/numenta/htm.java
+proj-type: maven-gradle
+No.1134
+https://github.com/evant/holdr
+proj-type: android
+No.1135
+https://github.com/AndreiD/UltimateAndroidAppTemplate
+proj-type: android
+No.1136
+https://github.com/davidB/metrics-influxdb
+proj-type: gradle
+No.1137
+https://github.com/kyze8439690/ResideLayout
+proj-type: android
+No.1138
+https://github.com/marvinlabs/android-floatinglabel-widgets
+proj-type: android
+No.1139
+https://github.com/jurmous/etcd4j
+proj-type: gradle
+No.1140
+https://github.com/psaravan/FileBrowserView
+proj-type: android
+No.1141
+https://github.com/charbgr/BlurNavigationDrawer
+proj-type: android
+No.1142
+https://github.com/googlesamples/android-fit
+proj-type: android
+No.1143
+https://github.com/chiemy/JellyViewPager
+proj-type: android
+No.1144
+https://github.com/dotCMS/core
+proj-type: gradle
+No.1145
+https://github.com/openmhealth/shimmer
+proj-type: gradle
+No.1146
+https://github.com/rahulparsani/google-io-2014-compat
+proj-type: android
+No.1147
+https://github.com/googlesamples/android-PdfRendererBasic
+proj-type: android
+No.1148
+https://github.com/baneizalfe/PullToDismissPager
+proj-type: android
+No.1149
+https://github.com/Android-ScreenShot/AndroidScreenShotService
+proj-type: no
+No.1150
+https://github.com/simbiose/Encryption
+proj-type: android
+No.1151
+https://github.com/bintray/bintray-examples
+proj-type: android
+No.1152
+https://github.com/geftimov/android-viewpager-transformers
+proj-type: android
+No.1153
+https://github.com/vinumeris/lighthouse
+proj-type: maven
+No.1154
+https://github.com/sakebook/Reachability
+proj-type: android
+No.1155
+https://github.com/AlexKorovyansky/android-fb-like-slideout-navigation
+proj-type: android
+No.1156
+https://github.com/caskdata/cdap
+proj-type: maven
+No.1157
+https://github.com/Ecwid/consul-api
+proj-type: gradle
+No.1158
+https://github.com/square/burst
+proj-type: maven
+No.1159
+https://github.com/ankushsachdeva/emojicon
+proj-type: android
+No.1160
+https://github.com/jacobtabak/Fragment-Switcher
+proj-type: android
+No.1161
+https://github.com/yandex-qatools/ashot
+proj-type: maven
+No.1162
+https://github.com/birajpatel/GridListViewAdapters
+proj-type: android
+No.1163
+https://github.com/alaisi/postgres-async-driver
+proj-type: maven
+No.1164
+https://github.com/venmo/tooltip-view
+proj-type: android
+No.1165
+https://github.com/linkedin/ml-ease
+proj-type: maven
+No.1166
+https://github.com/ShinChven/MigrateToGradle
+proj-type: android
+No.1167
+https://github.com/mission008/B2CWeb
+proj-type: no
+No.1168
+https://github.com/dogriffiths/HeadFirstAndroid
+proj-type: android
+No.1169
+https://github.com/Gridstone/RxStore
+proj-type: gradle
+No.1170
+https://github.com/fengdai/AlertDialogPro
+proj-type: android
+No.1171
+https://github.com/boonproject/boon
+proj-type: maven-gradle
+No.1172
+https://github.com/Telerik-Verified-Plugins/NativePageTransitions
+proj-type: no
+No.1173
+https://github.com/wzystal/MediaRecorder
+proj-type: android
+No.1174
+https://github.com/firebase/firebase-login-demo-android
+proj-type: android
+No.1175
+https://github.com/sockeqwe/ParcelablePlease
+proj-type: android
+No.1176
+https://github.com/octo-online/reactive-audit
+proj-type: gradle
+No.1177
+https://github.com/gk5885/dagger-android-sample
+proj-type: android
+No.1178
+https://github.com/percolate/caffeine
+proj-type: android
+No.1179
+https://github.com/yuzhangcmu/LeetCode
+proj-type: no
+No.1180
+https://github.com/lcm-proj/lcm
+proj-type: no
+No.1181
+https://github.com/linkedin/Cubert
+proj-type: gradle
+No.1182
+https://github.com/googlesamples/android-CardView
+proj-type: android
+No.1183
+https://github.com/LiveTyping/u2020-mvp
+proj-type: android
+No.1184
+https://github.com/scottyab/AESCrypt-Android
+proj-type: android
+No.1185
+https://github.com/gitskarios/GithubAndroidSdk
+proj-type: android
+No.1186
+https://github.com/greenmail-mail-test/greenmail
+proj-type: maven
+No.1187
+https://github.com/tmorcinek/android-codegenerator-plugin-intellij
+proj-type: no
+No.1188
+https://github.com/usc-isi-i2/Web-Karma
+proj-type: maven
+No.1189
+https://github.com/TheCoder4eu/BootsFaces-OSP
+proj-type: maven-gradle
+No.1190
+https://github.com/sing1ee/dict_build
+proj-type: maven-gradle
+No.1191
+https://github.com/buptdavid/datastructure
+proj-type: maven
+No.1192
+https://github.com/Ullink/simple-slack-api
+proj-type: gradle
+No.1193
+https://github.com/PingPlusPlus/pingpp-android
+proj-type: android
+No.1194
+https://github.com/sh1r0/caffe-android-demo
+proj-type: android
+No.1195
+https://github.com/OpenHFT/Chronicle-Engine
+proj-type: maven
+No.1196
+https://github.com/khoubyari/spring-boot-rest-example
+proj-type: maven
+No.1197
+https://github.com/kymjs/CJFrameForAndroid
+proj-type: android
+No.1198
+https://github.com/markrjr/Salut
+proj-type: android
+No.1199
+https://github.com/graphaware/neo4j-reco
+proj-type: maven
+No.1200
+https://github.com/XiaoMi/android_tv_metro
+proj-type: android
+No.1201
+https://github.com/wangdan/AisenForAndroid
+proj-type: android
+No.1202
+https://github.com/henrychuangtw/Android-ChatHead
+proj-type: android
+No.1203
+https://github.com/rehacktive/waspdb
+proj-type: android
+No.1204
+https://github.com/bluejoe2008/openwebflow
+proj-type: maven
+No.1205
+https://github.com/polok/TaggerString
+proj-type: android
+No.1206
+https://github.com/HubSpot/jinjava
+proj-type: maven
+No.1207
+https://github.com/simon-heinen/droidar
+proj-type: android
+No.1208
+https://github.com/LittleLiByte/GlFancyCoverFlow
+proj-type: android
+No.1209
+https://github.com/INDExOS/media-for-mobile
+proj-type: android
+No.1210
+https://github.com/googlesamples/android-DisplayingBitmaps
+proj-type: android
+No.1211
+https://github.com/bodar/totallylazy
+proj-type: no
+No.1212
+https://github.com/StanKocken/EfficientAdapter
+proj-type: android
+No.1213
+https://github.com/googlesamples/android-ActivitySceneTransitionBasic
+proj-type: android
+No.1214
+https://github.com/sstrickx/yahoofinance-api
+proj-type: maven
+No.1215
+https://github.com/demantz/RFAnalyzer
+proj-type: android
+No.1216
+https://github.com/wada811/Android-Material-Design-Colors
+proj-type: android
+No.1217
+https://github.com/cookpad/puree-android
+proj-type: android
+No.1218
+https://github.com/hansenji/pocketknife
+proj-type: android
+No.1219
+https://github.com/chiuki/animated-vector-drawable
+proj-type: android
+No.1220
+https://github.com/dangdangdotcom/config-toolkit
+proj-type: maven
+No.1221
+https://github.com/guxun12/ele_demo
+proj-type: android
+No.1222
+https://github.com/ESAPI/esapi-java-legacy
+proj-type: maven
+No.1223
+https://github.com/shazam/fork
+proj-type: android
+No.1224
+https://github.com/douglascraigschmidt/LiveLessons
+proj-type: android
+No.1225
+https://github.com/autolab/Autolab
+proj-type: no
+No.1226
+https://github.com/chiuki/android-graphics-demo
+proj-type: android
+No.1227
+https://github.com/awslabs/amazon-kinesis-scaling-utils
+proj-type: maven
+No.1228
+https://github.com/paypal/PayPal-Java-SDK
+proj-type: gradle
+No.1229
+https://github.com/jingchenUSTC/TimePicker
+proj-type: android
+No.1230
+https://github.com/youtube/yt-watchme
+proj-type: android
+No.1231
+https://github.com/spring-cloud/spring-cloud-aws
+proj-type: maven
+No.1232
+https://github.com/jianghejie/LinkedViewPager
+proj-type: android
+No.1233
+https://github.com/OpenHFT/Zero-Allocation-Hashing
+proj-type: maven
+No.1234
+https://github.com/google/search-samples
+proj-type: android
+No.1235
+https://github.com/mosil/Android-Mosil-Sample-Toolbar
+proj-type: android
+No.1236
+https://github.com/jparkie/GivesMeHopeAndroidClient
+proj-type: android
+No.1237
+https://github.com/vojtechhabarta/typescript-generator
+proj-type: maven-gradle
+No.1238
+https://github.com/serenity-bdd/serenity-core
+proj-type: maven-gradle
+No.1239
+https://github.com/Netflix/Prana
+proj-type: gradle
+No.1240
+https://github.com/Graphify/graphify
+proj-type: maven
+No.1241
+https://github.com/passy/scdl
+proj-type: android
+No.1242
+https://github.com/delight-im/Android-DDP
+proj-type: android
+No.1243
+https://github.com/cloay/CRefreshLayout
+proj-type: android
+No.1244
+https://github.com/FredJul/Flym
+proj-type: android
+No.1245
+https://github.com/Netflix/Raigad
+proj-type: gradle
+No.1246
+https://github.com/awslabs/dynamodb-cross-region-library
+proj-type: maven
+No.1247
+https://github.com/ypresto/android-transcoder
+proj-type: android
+No.1248
+https://github.com/habuma/SpringInActionExamples
+proj-type: maven-gradle
+No.1249
+https://github.com/novoda/sqlite-provider
+proj-type: android
+No.1250
+https://github.com/apiman/apiman
+proj-type: maven
+No.1251
+https://github.com/inaka/galgo
+proj-type: android
+No.1252
+https://github.com/lmco/streamflow
+proj-type: maven
+No.1253
+https://github.com/58code/Oceanus
+proj-type: maven
+No.1254
+https://github.com/GoranM/bdx
+proj-type: no
+No.1255
+https://github.com/lukeFalsina/Grab-n-Run
+proj-type: android
+No.1256
+https://github.com/ssun125/Lanmitm
+proj-type: android
+No.1257
+https://github.com/spring-projects/spring-integration-kafka
+proj-type: gradle
+No.1258
+https://github.com/kaaes/spotify-web-api-android
+proj-type: android
+No.1259
+https://github.com/rohaanhamid/ScrollableItemList
+proj-type: android
+No.1260
+https://github.com/FutureProcessing/spring-boot-security-example
+proj-type: gradle
+No.1261
+https://github.com/vert-x3/vertx-web
+proj-type: maven
+No.1262
+https://github.com/sephiroth74/ViewRevealAnimator
+proj-type: android
+No.1263
+https://github.com/antonkrasov/AndroidProgressLayout
+proj-type: android
+No.1264
+https://github.com/avianey/androidsvgdrawable-plugin
+proj-type: android
+No.1265
+https://github.com/SoftInstigate/restheart
+proj-type: maven
+No.1266
+https://github.com/googlesamples/android-MediaBrowserService
+proj-type: android
+No.1267
+https://github.com/saulmm/OpenLibra-Material
+proj-type: android
+No.1268
+https://github.com/swagger-api/swagger-parser
+proj-type: maven
+No.1269
+https://github.com/miao1007/AnimeWallpaper
+proj-type: android
+No.1270
+https://github.com/spotify/cassandra-reaper
+proj-type: no
+No.1271
+https://github.com/guojunyi/PullDownListView
+proj-type: android
+No.1272
+https://github.com/kyze8439690/RevealLayout
+proj-type: android
+No.1273
+https://github.com/Malinskiy/android-material-icons
+proj-type: android
+No.1274
+https://github.com/jtwig/jtwig
+proj-type: gradle
+No.1275
+https://github.com/kobakei/Android-RateThisApp
+proj-type: android
+No.1276
+https://github.com/inloop/easygcm
+proj-type: android
+No.1277
+https://github.com/yaa110/Effects-Pro
+proj-type: android
+No.1278
+https://github.com/mgrzechocinski/dagger2-example
+proj-type: android
+No.1279
+https://github.com/archimatetool/archi
+proj-type: maven
+No.1280
+https://github.com/JetBrains/xodus
+proj-type: gradle
+No.1281
+https://github.com/googlesamples/android-SwipeRefreshMultipleViews
+proj-type: android
+No.1282
+https://github.com/spring-cloud/spring-cloud-consul
+proj-type: maven
+No.1283
+https://github.com/h6ah4i/android-openslmediaplayer
+proj-type: android
+No.1284
+https://github.com/dinosaurwithakatana/hacker-news-android
+proj-type: android
+No.1285
+https://github.com/DIVERSIFY-project/amiunique
+proj-type: no
+No.1286
+https://github.com/ongakuer/ViewPagerHeaderScrollDemo
+proj-type: android
+No.1287
+https://github.com/lanxuezaipiao/IT-Interviews-Sharing
+proj-type: no
+No.1288
+https://github.com/googlesamples/android-WatchFace
+proj-type: android
+No.1289
+https://github.com/actframework/actframework
+proj-type: maven
+No.1290
+https://github.com/ijarobot/Android-Chat-Widget
+proj-type: android
+No.1291
+https://github.com/reds-heig/logisim-evolution
+proj-type: no
+No.1292
+https://github.com/pac4j/play-pac4j
+proj-type: maven
+No.1293
+https://github.com/handsomezhou/PinyinSearchLibrary
+proj-type: android
+No.1294
+https://github.com/marzika/Snapprefs
+proj-type: android
+No.1295
+https://github.com/snazy/ohc
+proj-type: maven
+No.1296
+https://github.com/yandex-qatools/postgresql-embedded
+proj-type: maven
+No.1297
+https://github.com/markzhai/LyricHere
+proj-type: android
+No.1298
+https://github.com/super-csv/super-csv
+proj-type: maven
+No.1299
+https://github.com/dan-zx/rox-android
+proj-type: android
+No.1300
+https://github.com/Jhuster/Android
+proj-type: android
+No.1301
+https://github.com/yazeed44/MultiImagePicker
+proj-type: android
+No.1302
+https://github.com/davidmoten/rxjava-extras
+proj-type: maven
+No.1303
+https://github.com/egslava/edittext-mask
+proj-type: android
+No.1304
+https://github.com/TakWolf/Android-Lock9View
+proj-type: android
+No.1305
+https://github.com/happyfish100/fastdfs-client-java
+proj-type: maven
+No.1306
+https://github.com/martinpaljak/GlobalPlatformPro
+proj-type: maven
+No.1307
+https://github.com/Netflix/spectator
+proj-type: gradle
+No.1308
+https://github.com/BlacKCaT27/CurrencyEditText
+proj-type: android
+No.1309
+https://github.com/pinguo-yuyidong/Camera2
+proj-type: android
+No.1310
+https://github.com/henryyan/activiti-in-action-codes
+proj-type: maven
+No.1311
+https://github.com/Esri/arcgis-runtime-samples-android
+proj-type: android
+No.1312
+https://github.com/robolectric/robolectric-samples
+proj-type: android
+No.1313
+https://github.com/AndroidDeveloperLB/MaterialPreferenceLibrary
+proj-type: android
+No.1314
+https://github.com/JoanZapata/android-asyncservice
+proj-type: android
+No.1315
+https://github.com/Frank-Zhu/TriangleRectangleLabelView
+proj-type: android
+No.1316
+https://github.com/paulgavrikov/xiaomi-miband-android
+proj-type: android
+No.1317
+https://github.com/careermonk/DataStructureAndAlgorithmsMadeEasyInJava
+proj-type: no
+No.1318
+https://github.com/ogaclejapan/Qiitanium
+proj-type: android
+No.1319
+https://github.com/ogaclejapan/RxBinding
+proj-type: android
+No.1320
+https://github.com/madcyph3r/AdvancedMaterialDrawer
+proj-type: android
+No.1321
+https://github.com/itzikBraun/TutorialView
+proj-type: android
+No.1322
+https://github.com/TheGreyGhost/MinecraftByExample
+proj-type: gradle
+No.1323
+https://github.com/bkielczewski/example-spring-boot-security
+proj-type: maven
+No.1324
+https://github.com/orhanobut/bee
+proj-type: android
+No.1325
+https://github.com/StanKocken/SVG2Drawable
+proj-type: no
+No.1326
+https://github.com/naman14/PlayNewsStandDemo
+proj-type: android
+No.1327
+https://github.com/Grarak/KernelAdiutor
+proj-type: android
+No.1328
+https://github.com/dexlex/DexMovingImageView
+proj-type: android
+No.1329
+https://github.com/AndroidDeveloperLB/ListViewVariants
+proj-type: android
+No.1330
+https://github.com/sakaiproject/sakai
+proj-type: maven
+No.1331
+https://github.com/lwis/miband-notifier
+proj-type: android
+No.1332
+https://github.com/athiele/key-promoter-fork
+proj-type: gradle
+No.1333
+https://github.com/digitalfondue/lavagna
+proj-type: maven
+No.1334
+https://github.com/support-project/knowledge
+proj-type: maven
+No.1335
+https://github.com/hudomju/android-swipe-to-dismiss-undo
+proj-type: android
+No.1336
+https://github.com/lightSky/InfiniteIndicator
+proj-type: android
+No.1337
+https://github.com/ismoli/DynamicRecyclerView
+proj-type: android
+No.1338
+https://github.com/andforce/iBeebo
+proj-type: android
+No.1339
+https://github.com/indywidualny/FaceSlim
+proj-type: android
+No.1340
+https://github.com/ikew0ng/SwitchButton
+proj-type: android
+No.1341
+https://github.com/tajchert/BusWear
+proj-type: android
+No.1342
+https://github.com/C-Aniruddh/ACEMusicPlayer
+proj-type: android
+No.1343
+https://github.com/yegor256/takes
+proj-type: maven
+No.1344
+https://github.com/CorfuDB/CorfuDB
+proj-type: maven
+No.1345
+https://github.com/bessemHmidi/AngularBeans
+proj-type: maven
+No.1346
+https://github.com/sockeqwe/annotationprocessing101
+proj-type: maven
+No.1347
+https://github.com/h6ah4i/android-verticalseekbar
+proj-type: android
+No.1348
+https://github.com/MoshDev/AndroidIndicators
+proj-type: android
+No.1349
+https://github.com/jesse01/WebViewJavascriptBridge
+proj-type: android
+No.1350
+https://github.com/etsy/statsd-jvm-profiler
+proj-type: maven
+No.1351
+https://github.com/lucidworks/spark-solr
+proj-type: maven
+No.1352
+https://github.com/plafue/writeily-pro
+proj-type: android
+No.1353
+https://github.com/linroid/Sky31Radio
+proj-type: android
+No.1354
+https://github.com/sues-lee/SuesNews
+proj-type: android
+No.1355
+https://github.com/inspectIT/inspectIT
+proj-type: gradle
+No.1356
+https://github.com/chiuki/sliding-pane-layout
+proj-type: android
+No.1357
+https://github.com/FrozenFreeFall/Android-tv-widget
+proj-type: android
+No.1358
+https://github.com/7heaven/bitmapMesh
+proj-type: android
+No.1359
+https://github.com/Netflix/Surus
+proj-type: maven
+No.1360
+https://github.com/davidkiss/spring-boot-quartz-demo
+proj-type: maven
+No.1361
+https://github.com/vaadin/vaadin-grid
+proj-type: no
+No.1362
+https://github.com/xuechinahb/AnimatorMenu
+proj-type: android
+No.1363
+https://github.com/rahulrj/ChromeOverflowMenu
+proj-type: android
+No.1364
+https://github.com/njovy/AppRTCDemo
+proj-type: android
+No.1365
+https://github.com/zzz40500/HeadsUp
+proj-type: android
+No.1366
+https://github.com/txusballesteros/android-transformer
+proj-type: android
+No.1367
+https://github.com/hanks-zyh/SwipeRefreshLayout
+proj-type: android
+No.1368
+https://github.com/woxblom/DragListView
+proj-type: android
+No.1369
+https://github.com/nielsutrecht/jwt-angular-spring
+proj-type: maven
+No.1370
+https://github.com/geftimov/android-patternview
+proj-type: android
+No.1371
+https://github.com/spring-cloud/spring-cloud-zookeeper
+proj-type: maven
+No.1372
+https://github.com/gwenshap/kafka-examples
+proj-type: maven
+No.1373
+https://github.com/hongyangAndroid/Android-ViewPagerIndicator
+proj-type: android
+No.1374
+https://github.com/hongyangAndroid/Android-ProgressBarWidthNumber
+proj-type: android
+No.1375
+https://github.com/ustwo/clockwise
+proj-type: android
+No.1376
+https://github.com/pedrovgs/TuentiTV
+proj-type: android
+No.1377
+https://github.com/alexzaitsev/freepager
+proj-type: android
+No.1378
+https://github.com/JayFang1993/ScanBook
+proj-type: android
+No.1379
+https://github.com/graphhopper/map-matching
+proj-type: maven
+No.1380
+https://github.com/RustDT/RustDT
+proj-type: maven
+No.1381
+https://github.com/fabiendevos/nanotasks
+proj-type: android
+No.1382
+https://github.com/spring-projects/spring-statemachine
+proj-type: gradle
+No.1383
+https://github.com/cybergarage/cybergarage-upnp
+proj-type: maven
+No.1384
+https://github.com/pylerSM/YouTubeBackgroundPlayback
+proj-type: android
+No.1385
+https://github.com/zhengxiaopeng/Rocko-Android-Demos
+proj-type: android
+No.1386
+https://github.com/eclipse/leshan
+proj-type: maven
+No.1387
+https://github.com/panyiho/NineGridView
+proj-type: android
+No.1388
+https://github.com/JorgeCastilloPrz/EasyMVP
+proj-type: android
+No.1389
+https://github.com/googlesamples/androidtv-sample-inputs
+proj-type: android
+No.1390
+https://github.com/idio/wiki2vec
+proj-type: no
+No.1391
+https://github.com/waylau/netty-4-user-guide-demos
+proj-type: maven
+No.1392
+https://github.com/LyndonChin/AndroidFlowLayout
+proj-type: android
+No.1393
+https://github.com/linkedin/Spyglass
+proj-type: android
+No.1394
+https://github.com/google/allocation-instrumenter
+proj-type: maven
+No.1395
+https://github.com/danielwegener/logback-kafka-appender
+proj-type: maven
+No.1396
+https://github.com/JetBrains/intellij-sdk-docs
+proj-type: gradle
+No.1397
+https://github.com/chenjishi/luckymoney
+proj-type: android
+No.1398
+https://github.com/zhaozhentao/KugouLayout
+proj-type: android
+No.1399
+https://github.com/korhner/asciimg
+proj-type: maven
+No.1400
+https://github.com/lzyzsd/AndroidRandomColor
+proj-type: android
+No.1401
+https://github.com/denley/preferencebinder
+proj-type: android
+No.1402
+https://github.com/bjoernQ/unmock-plugin
+proj-type: android
+No.1403
+https://github.com/h6ah4i/android-materialshadowninepatch
+proj-type: android
+No.1404
+https://github.com/jbarrez/spring-boot-with-activiti-example
+proj-type: maven
+No.1405
+https://github.com/hexene/LocalVPN
+proj-type: android
+No.1406
+https://github.com/anton46/Foursquare-CollectionPicker
+No.1407
+https://github.com/ysc/superword
+proj-type: maven
+No.1408
+https://github.com/im-qq/netty-chat
+proj-type: maven
+No.1409
+https://github.com/JOML-CI/JOML
+proj-type: maven
+No.1410
+https://github.com/tasomaniac/EmailAutoCompleteTextView
+proj-type: android
+No.1411
+https://github.com/google/caliper
+proj-type: maven
+No.1412
+https://github.com/jpkrause/AndroidProxySetter
+proj-type: android
+No.1413
+https://github.com/pwittchen/prefser
+proj-type: android
+No.1414
+https://github.com/ianopolous/JPC
+proj-type: no
+No.1415
+https://github.com/zhaozhentao/BooheeScrollView
+proj-type: android
+No.1416
+https://github.com/lynfogeek/CollapsingHeader
+proj-type: android
+No.1417
+https://github.com/inaka/TinyTask
+proj-type: android
+No.1418
+https://github.com/stevensouza/automon
+proj-type: maven
+No.1419
+https://github.com/sdaschner/jaxrs-analyzer
+proj-type: maven
+No.1420
+https://github.com/zhaozhentao/MaterialImageView
+proj-type: android
+No.1421
+https://github.com/googlesamples/android-nearby
+proj-type: android
+No.1422
+https://github.com/Doist/RecyclerViewExtensions
+proj-type: android
+No.1423
+https://github.com/WebBluetoothCG/ble-test-peripheral-android
+proj-type: android
+No.1424
+https://github.com/getlantern/firetweet
+proj-type: android
+No.1425
+https://github.com/Serchinastico/CoolSwitch
+proj-type: android
+No.1426
+https://github.com/elki-project/elki
+proj-type: gradle
+No.1427
+https://github.com/hongyangAndroid/ColorTrackView
+proj-type: android
+No.1428
+https://github.com/meddle0x53/learning-rxjava
+proj-type: gradle
+No.1429
+https://github.com/nuuneoi/StatedFragment
+proj-type: android
+No.1430
+https://github.com/NativeScript/android-runtime
+proj-type: android
+No.1431
+https://github.com/xbmc/Kore
+proj-type: android
+No.1432
+https://github.com/WebGoat/WebGoat-Legacy
+proj-type: maven
+No.1433
+https://github.com/dkmeteor/Folder-ResideMenu
+proj-type: android
+No.1434
+https://github.com/8tory/json2notification
+proj-type: android
+No.1435
+https://github.com/MewX/light-novel-library_Wenku8_Android
+proj-type: android
+No.1436
+https://github.com/jxcore/jxm
+proj-type: android
+No.1437
+https://github.com/wongcain/MVP-Simple-Demo
+proj-type: android
+No.1438
+https://github.com/Agasper/unity-android-notifications
+proj-type: android
+No.1439
+https://github.com/slidenerd/materialtest
+proj-type: android
+No.1440
+https://github.com/apache/cordova-plugin-whitelist
+proj-type: no
+No.1441
+https://github.com/iDevicesInc/SweetBlue
+proj-type: android
+No.1442
+https://github.com/hengyunabc/redis-id-generator
+proj-type: maven
+No.1443
+https://github.com/promeG/XLog
+proj-type: android
+No.1444
+https://github.com/elastic/elasticsearch-analysis-smartcn
+proj-type: no
+No.1445
+https://github.com/7heaven/SHSwitchView
+proj-type: android
+No.1446
+https://github.com/kamilfb/mqtt-spy
+proj-type: maven
+No.1447
+https://github.com/x-stream/xstream
+proj-type: maven
+No.1448
+https://github.com/SleepyTrousers/EnderIO
+proj-type: gradle
+No.1449
+https://github.com/otros-systems/otroslogviewer
+proj-type: gradle
+No.1450
+https://github.com/vbauer/jackdaw
+proj-type: maven
+No.1451
+https://github.com/kenumir/MaterialSettings
+proj-type: android
+No.1452
+https://github.com/fizzed/rocker
+proj-type: maven-gradle
+No.1453
+https://github.com/AvatarQing/MiClockView
+proj-type: android
+No.1454
+https://github.com/DSheirer/sdrtrunk
+proj-type: gradle
+No.1455
+https://github.com/fan-wenjie/EasyPR-Java
+proj-type: no
+No.1456
+https://github.com/NicodeLee/Beautyacticle
+proj-type: android
+No.1457
+https://github.com/NordicSemiconductor/Android-nRF-Toolbox
+proj-type: android
+No.1458
+https://github.com/mazurio/bodyweight-fitness-android
+proj-type: android
+No.1459
+https://github.com/NordicSemiconductor/Android-DFU-Library
+proj-type: android
+No.1460
+https://github.com/RUB-NDS/WS-Attacker
+proj-type: maven
+No.1461
+https://github.com/mybatis/redis-cache
+proj-type: maven
+No.1462
+https://github.com/gerrit-review/gerrit
+proj-type: maven
+No.1463
+https://github.com/SumiMakito/AdvancedTextSwitcher
+proj-type: android
+No.1464
+https://github.com/aporter/coursera-android-labs
+proj-type: android
+No.1465
+https://github.com/googlesamples/android-play-places
+proj-type: android
+No.1466
+https://github.com/android-awesome/Awesome-Material
+proj-type: android
+No.1467
+https://github.com/florent37/DaVinci
+proj-type: android
+No.1468
+https://github.com/shunfei/DCMonitor
+proj-type: maven
+No.1469
+https://github.com/EdwardRaff/JSAT
+proj-type: maven
+No.1470
+https://github.com/loklak/loklak_server
+proj-type: gradle
+No.1471
+https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter
+proj-type: android
+No.1472
+https://github.com/vgrec/EspressoExamples
+proj-type: android
+No.1473
+https://github.com/hot13399/spring-mvc-mini
+proj-type: maven
+No.1474
+https://github.com/mesos/elasticsearch
+proj-type: gradle
+No.1475
+https://github.com/eclipse/buildship
+proj-type: gradle
+No.1476
+https://github.com/7heaven/CurtainSlidingMenu
+proj-type: android
+No.1477
+https://github.com/milosmns/circular-slider-android
+proj-type: android
+No.1478
+https://github.com/LyndonChin/AndroidScreenSlidePager
+proj-type: android
+No.1479
+https://github.com/springfox/springfox-demos
+proj-type: gradle
+No.1480
+https://github.com/alibaba/java-dns-cache-manipulator
+proj-type: maven
+No.1481
+https://github.com/MKergall/osmbonuspack
+proj-type: android
+No.1482
+https://github.com/drakeet/AndroidUIView
+proj-type: android
+No.1483
+https://github.com/Samsung/GearVRf
+proj-type: android
+No.1484
+https://github.com/DevinShine/easyloadingbtn
+proj-type: android
+No.1485
+https://github.com/BluSunrize/ImmersiveEngineering
+proj-type: gradle
+No.1486
+https://github.com/arthurblake/log4jdbc
+proj-type: no
+No.1487
+https://github.com/googlesamples/android-XYZTouristAttractions
+proj-type: android
+No.1488
+https://github.com/kinneyyan/36krReader
+proj-type: android
+No.1489
+https://github.com/wqandroid/wqgallery
+proj-type: android
+No.1490
+https://github.com/ilmila/J2EEScan
+proj-type: maven
+No.1491
+https://github.com/mysql/mysql-connector-j
+proj-type: maven
+No.1492
+https://github.com/airk000/Trigger
+proj-type: android
+No.1493
+https://github.com/GwtMaterialDesign/gwt-material
+proj-type: maven
+No.1494
+https://github.com/ewolff/microservice
+proj-type: maven
+No.1495
+https://github.com/florent37/WearMenu
+proj-type: android
+No.1496
+https://github.com/spring-guides/gs-spring-boot-docker
+proj-type: maven-gradle
+No.1497
+https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller
+proj-type: android
+No.1498
+https://github.com/jsettlers/settlers-remake
+proj-type: android
+No.1499
+https://github.com/kostaskougios/cloning
+proj-type: maven
+No.1500
+https://github.com/espertechinc/esper
+proj-type: maven
+No.1501
+https://github.com/klausw/hackerskeyboard
+proj-type: android
+No.1502
+https://github.com/gqdy365/WeiboPopupWindow
+proj-type: android
+No.1503
+https://github.com/cundong/MemoryMonitor
+proj-type: android
+No.1504
+https://github.com/openproject/AndroidDigest
+proj-type: android
+No.1505
+https://github.com/callistaenterprise/blog-microservices
+proj-type: gradle
+No.1506
+https://github.com/hankcs/AhoCorasickDoubleArrayTrie
+proj-type: maven
+No.1507
+https://github.com/kevinlawler/kerf
+proj-type: no
+No.1508
+https://github.com/yacy/yacy_search_androidclient
+proj-type: android
+No.1509
+https://github.com/broadinstitute/gatk
+proj-type: gradle
+No.1510
+https://github.com/blanyal/Remindly
+proj-type: android
+No.1511
+https://github.com/richk/CourseraDemoApp
+proj-type: android
+No.1512
+https://github.com/martino2k6/StoreBox
+proj-type: android
+No.1513
+https://github.com/romannurik/dashclock
+proj-type: android
+No.1514
+https://github.com/boxme/ParallaxHeaderViewPager
+proj-type: android
+No.1515
+https://github.com/serso/android-linear-layout-manager
+proj-type: android
+No.1516
+https://github.com/chemouna/Decor
+proj-type: android
+No.1517
+https://github.com/android-cjj/ComicReader
+proj-type: android
+No.1518
+https://github.com/fangyidong/json-simple
+proj-type: maven
+No.1519
+https://github.com/erickok/RxCupboard
+proj-type: android
+No.1520
+https://github.com/ZieIony/MaterialRecents
+proj-type: android
+No.1521
+https://github.com/AlexKolpa/fab-toolbar
+proj-type: android
+No.1522
+https://github.com/eccyan/SpinningTabStrip
+proj-type: android
+No.1523
+https://github.com/wildfly-swarm/wildfly-swarm
+proj-type: maven
+No.1524
+https://github.com/T-Spoon/Android-Developer-Toolbelt
+proj-type: android
+No.1525
+https://github.com/edolganov/live-chat-engine
+proj-type: no
+No.1526
+https://github.com/bbottema/simple-java-mail
+proj-type: maven
+No.1527
+https://github.com/vmware/lightwave
+proj-type: maven
+No.1528
+https://github.com/Microsoft/cordova-samples
+proj-type: no
+No.1529
+https://github.com/EspressifApp/EsptouchForAndroid
+proj-type: android
+No.1530
+https://github.com/henrytao-me/android-md-core
+proj-type: android
+No.1531
+https://github.com/tipsy/j2html
+proj-type: maven
+No.1532
+https://github.com/apache/parquet-format
+proj-type: maven
+No.1533
+https://github.com/KeepSafe/MultiStateAnimation
+proj-type: android
+No.1534
+https://github.com/java-decompiler/jd-eclipse
+proj-type: gradle
+No.1535
+https://github.com/ganhuo/Android-Ganhuo
+proj-type: android
+No.1536
+https://github.com/niranjan94/show-java
+proj-type: android
+No.1537
+https://github.com/pizza/MaterialTabs
+proj-type: android
+No.1538
+https://github.com/wuyexiong/WechatLikeBottomTabUI
+proj-type: android
+No.1539
+https://github.com/grandstaish/hello-mvp-dagger-2
+proj-type: android
+No.1540
+https://github.com/OWASP/java-html-sanitizer
+proj-type: maven
+No.1541
+https://github.com/diffplug/spotless
+proj-type: gradle
+No.1542
+https://github.com/MaLeLabTs/RegexGenerator
+proj-type: no
+No.1543
+https://github.com/apache/activemq-artemis
+proj-type: maven
+No.1544
+https://github.com/Big-Data-Manning/big-data-code
+proj-type: maven
+No.1545
+https://github.com/watson-developer-cloud/java-sdk
+proj-type: gradle
+No.1546
+https://github.com/ossrs/srs-sea
+proj-type: no
+No.1547
+https://github.com/fossasia/rp15
+proj-type: android
+No.1548
+https://github.com/CodeFalling/RecyclerViewSwipeDismiss
+proj-type: android
+No.1549
+https://github.com/blundell/QuickSand
+proj-type: android
+No.1550
+https://github.com/cdflynn/crossview
+proj-type: android
+No.1551
+https://github.com/takahirom/android-postfix-plugin
+proj-type: gradle
+No.1552
+https://github.com/uber/phabricator-jenkins-plugin
+proj-type: gradle
+No.1553
+https://github.com/sangmingming/StickerView
+proj-type: android
+No.1554
+https://github.com/dmytrodanylyk/realm-browser
+No.1555
+https://github.com/pedrovgs/Nox
+proj-type: android
+No.1556
+https://github.com/sinpolib/nfcard
+proj-type: android
+No.1557
+https://github.com/livelessons-spring/building-microservices
+proj-type: maven-gradle
+No.1558
+https://github.com/florent37/PicassoPalette
+proj-type: android
+No.1559
+https://github.com/caplogic/Mappedbus
+proj-type: no
+No.1560
+https://github.com/tarek360/Material-Animation-Samples
+proj-type: android
+No.1561
+https://github.com/google/MOE
+proj-type: maven
+No.1562
+https://github.com/exallium/RxRecyclerView
+proj-type: android
+No.1563
+https://github.com/xiprox/MarkView
+proj-type: android
+No.1564
+https://github.com/greatyao/v2ex-android
+proj-type: android
+No.1565
+https://github.com/florent37/Freezer
+proj-type: android
+No.1566
+https://github.com/arun-gupta/microservices
+proj-type: maven
+No.1567
+https://github.com/florent37/MaterialImageLoading
+proj-type: android
+No.1568
+https://github.com/android-quick-dev/NonViewUtils
+proj-type: android
+No.1569
+https://github.com/lincanbin/Android-Carbon-Forum
+proj-type: android
+No.1570
+https://github.com/consp1racy/android-support-preference
+proj-type: android
+No.1571
+https://github.com/richardradics/MVPAndroidBootstrap
+proj-type: android
+No.1572
+https://github.com/novoda/rxpresso
+proj-type: android
+No.1573
+https://github.com/leancloud/leanmessage-demo
+proj-type: no
+No.1574
+https://github.com/allegro/hermes
+proj-type: gradle
+No.1575
+https://github.com/hanks-zyh/AnimateCheckBox
+proj-type: android
+No.1576
+https://github.com/THEONE10211024/ColorPhrase
+proj-type: android
+No.1577
+https://github.com/corbinlc/GNURootDebian
+proj-type: android
+No.1578
+https://github.com/vijayrawatsan/android-json-form-wizard
+proj-type: android
+No.1579
+https://github.com/binaryroot/HorizontalStackView
+proj-type: android
+No.1580
+https://github.com/cfg4j/cfg4j
+proj-type: gradle
+No.1581
+https://github.com/ongakuer/CameraFilter
+proj-type: android
+No.1582
+https://github.com/SeniorZhai/ScoreBoard
+proj-type: android
+No.1583
+https://github.com/juliome10/DoubleViewPager
+proj-type: android
+No.1584
+https://github.com/cyndibaby905/TwitterCover-Android
+proj-type: android
+No.1585
+https://github.com/paolorotolo/ExpandableHeightListView
+proj-type: android
+No.1586
+https://github.com/derekcsm/hubble_gallery
+proj-type: android
+No.1587
+https://github.com/mrmans0n/smart-adapters
+proj-type: android
+No.1588
+https://github.com/darsh2/MultipleImageSelect
+proj-type: android
+No.1589
+https://github.com/wuyinxian124/nettybook2
+proj-type: maven
+No.1590
+https://github.com/xuduo/socket.io-push
+proj-type: no
+No.1591
+https://github.com/pangliang/miband-sdk-android
+proj-type: android
+No.1592
+https://github.com/venusdrogon/feilong-core
+proj-type: maven
+No.1593
+https://github.com/romannurik/FORMWatchFace
+proj-type: android
+No.1594
+https://github.com/dubboclub/dubbo-plus
+proj-type: maven
+No.1595
+https://github.com/nicolasjafelle/ExpandableView
+proj-type: android
+No.1596
+https://github.com/RobotAmiee/Android-NiceTab
+proj-type: android
+No.1597
+https://github.com/Percy0601/boot-dubbo
+proj-type: maven
+No.1598
+https://github.com/jenkinsci/docker-workflow-plugin
+proj-type: maven
+No.1599
+https://github.com/ulisesbocchio/jasypt-spring-boot
+proj-type: maven
+No.1600
+https://github.com/allr/purdue-fastr
+proj-type: maven
+No.1601
+https://github.com/bingoogolapple/BGASwipeItemLayout-Android
+proj-type: android
+No.1602
+https://github.com/udacity/Just-Java
+proj-type: android
+No.1603
+https://github.com/googlesamples/android-ActiveNotifications
+proj-type: android
+No.1604
+https://github.com/googlesamples/android-Camera2Raw
+proj-type: android
+No.1605
+https://github.com/udacity/Advanced_Android_Development
+proj-type: android
+No.1606
+https://github.com/layerhq/Atlas-Android
+proj-type: android
+No.1607
+https://github.com/ppamorim/Cult
+proj-type: android
+No.1608
+https://github.com/dlazaro66/WheelIndicatorView
+proj-type: android
+No.1609
+https://github.com/wangjiegulu/WaveCompat
+proj-type: android
+No.1610
+https://github.com/shuyo/language-detection
+proj-type: no
+No.1611
+https://github.com/xiuweikang/IM
+proj-type: android
+No.1612
+https://github.com/syvaidya/openstego
+proj-type: no
+No.1613
+https://github.com/naman14/PlayAnimations
+proj-type: android
+No.1614
+https://github.com/cesarferreira/colorize
+proj-type: android
+No.1615
+https://github.com/tittojose/TimeRangePicker
+proj-type: android
+No.1616
+https://github.com/NLMartian/SilkCal
+proj-type: android
+No.1617
+https://github.com/aol/cyclops
+proj-type: gradle
+No.1618
+https://github.com/1gravity/Android-RTEditor
+proj-type: android
+No.1619
+https://github.com/Adirockzz95/FABtransitions
+proj-type: android
+No.1620
+https://github.com/richardradics/RxAndroidBootstrap
+proj-type: android
+No.1621
+https://github.com/dermotte/LIRE
+proj-type: maven-gradle
+No.1622
+https://github.com/bugtags/Bugtags-Android
+proj-type: android
+No.1623
+https://github.com/EugeneHoran/Android-Material-SearchView
+proj-type: android
+No.1624
+https://github.com/techery/progresshint
+proj-type: android
+No.1625
+https://github.com/gotokatsuya/BlurredGridMenu
+proj-type: android
+No.1626
+https://github.com/konmik/solid
+proj-type: android
+No.1627
+https://github.com/kgmyshin/eventbus-intellij-plugin
+proj-type: no
+No.1628
+https://github.com/andretietz/retroauth
+proj-type: android
+No.1629
+https://github.com/Stratio/cassandra-lucene-index
+proj-type: maven
+No.1630
+https://github.com/gk-brown/HTTP-RPC
+proj-type: maven
+No.1631
+https://github.com/maxiee/HeartBeat
+proj-type: android
+No.1632
+https://github.com/springframeworkguru/springbootwebapp
+proj-type: maven
+No.1633
+https://github.com/hedge-hog/RatingBar
+proj-type: android
+No.1634
+https://github.com/lawloretienne/Loop
+proj-type: android
+No.1635
+https://github.com/WuXiaolong/DesignSupportLibrarySample
+proj-type: android
+No.1636
+https://github.com/DataSystemsLab/GeoSpark
+proj-type: maven
+No.1637
+https://github.com/Glucosio/glucosio-android
+proj-type: android
+No.1638
+https://github.com/tyorikan/voice-recording-visualizer
+proj-type: android
+No.1639
+https://github.com/thinkSky1206/MVP-Dagger2-Retrofit
+proj-type: android
+No.1640
+https://github.com/googlei18n/sfntly
+proj-type: no
+No.1641
+https://github.com/emilsjolander/IntentBuilder
+proj-type: android
+No.1642
+https://github.com/xamarin/recipes
+proj-type: android
+No.1643
+https://github.com/Qiaoidea/QQTipsView
+proj-type: android
+No.1644
+https://github.com/Backblaze/JavaReedSolomon
+proj-type: gradle
+No.1645
+https://github.com/sky-map-team/stardroid
+proj-type: android
+No.1646
+https://github.com/helloJp/WheelView
+proj-type: android
+No.1647
+https://github.com/dodola/ListItemFold
+proj-type: android
+No.1648
+https://github.com/devfd/react-native-geocoder
+proj-type: android
+No.1649
+https://github.com/AlanCheen/PracticeDemo
+proj-type: android
+No.1650
+https://github.com/dlew/rxjava-multiple-sources-sample
+proj-type: gradle
+No.1651
+https://github.com/seven456/SafeWebView
+proj-type: android
+No.1652
+https://github.com/vsvankhede/EasyFonts
+proj-type: android
+No.1653
+https://github.com/chatty/chatty
+proj-type: gradle
+No.1654
+https://github.com/rajasharan/RearrangeableLayout
+proj-type: android
+No.1655
+https://github.com/thiagokimo/Faker
+proj-type: android
+No.1656
+https://github.com/nuptboyzhb/TreeRecyclerView
+proj-type: android
+No.1657
+https://github.com/g707175425/CloudEditText
+proj-type: no
+No.1658
+https://github.com/100apps/charles-hacking
+proj-type: no
+No.1659
+https://github.com/06peng/FrescoDemo
+proj-type: android
+No.1660
+https://github.com/anothem/android-range-seek-bar
+proj-type: android
+No.1661
+https://github.com/JerzyPuchalski/Android-DPI-Calculator
+proj-type: no
+No.1662
+https://github.com/ophio/secure-preferences
+proj-type: android
+No.1663
+https://github.com/keeganlee/kandroid
+proj-type: android
+No.1664
+https://github.com/eure/citrus
+proj-type: android
+No.1665
+https://github.com/cesarferreira/CatKit
+proj-type: android
+No.1666
+https://github.com/mrwonderman/driveimageview
+proj-type: android
+No.1667
+https://github.com/ContainerSolutions/minimesos
+proj-type: gradle
+No.1668
+https://github.com/opendatakit/collect
+proj-type: android
+No.1669
+https://github.com/scottyab/rootbeer
+proj-type: android
+No.1670
+https://github.com/dom4j/dom4j
+proj-type: gradle
+No.1671
+https://github.com/recruit-lifestyle/BeerSwipeRefresh
+proj-type: android
+No.1672
+https://github.com/opengit/AndroidNewWidgetsDemo
+proj-type: android
+No.1673
+https://github.com/tosslife/FoldingTabBar.Android
+proj-type: android
+No.1674
+https://github.com/gotokatsuya/ParkedTextView
+proj-type: android
+No.1675
+https://github.com/awslabs/cloudwatch-logs-subscription-consumer
+proj-type: maven
+No.1676
+https://github.com/typetools/checker-framework
+proj-type: maven-gradle
+No.1677
+https://github.com/iammert/FastGCM
+proj-type: android
+No.1678
+https://github.com/SinaVDDeveloper/sinavideo_playersdk
+proj-type: android
+No.1679
+https://github.com/awslabs/aws-apigateway-importer
+proj-type: maven
+No.1680
+https://github.com/florent37/Carpaccio
+proj-type: android
+No.1681
+https://github.com/fabric8io/kubernetes-client
+proj-type: maven
+No.1682
+https://github.com/bowyer-app/fab-toolbar
+proj-type: android
+No.1683
+https://github.com/bushijie/ParallaxSwipeBack
+proj-type: android
+No.1684
+https://github.com/spring-cloud/spring-cloud-dataflow
+proj-type: maven
+No.1685
+https://github.com/VEINHORN/ScrollGalleryView
+proj-type: android
+No.1686
+https://github.com/recruit-lifestyle/PlayPauseButton
+proj-type: android
+No.1687
+https://github.com/EverythingMe/inbloom
+proj-type: gradle
+No.1688
+https://github.com/spring-cloud/spring-cloud-stream
+proj-type: maven
+No.1689
+https://github.com/martin-stone/hsv-alpha-color-picker-android
+proj-type: android
+No.1690
+https://github.com/afollestad/inquiry
+proj-type: android
+No.1691
+https://github.com/botanio/sdk
+proj-type: maven
+No.1692
+https://github.com/Leaking/WeGit
+proj-type: android
+No.1693
+https://github.com/aliyun/aliyun-openapi-java-sdk
+proj-type: maven
+No.1694
+https://github.com/findbugsproject/findbugs
+proj-type: maven
+No.1695
+https://github.com/mcxiaoke/xBus
+proj-type: android
+No.1696
+https://github.com/konifar/material-cat
+proj-type: android
+No.1697
+https://github.com/OpenGamma/Strata
+proj-type: maven
+No.1698
+https://github.com/Kyson/WhorlView
+proj-type: android
+No.1699
+https://github.com/bingoogolapple/BGATitleBar-Android
+proj-type: android
+No.1700
+https://github.com/mikepenz/Materialize
+proj-type: android
+No.1701
+https://github.com/iammert/RadioPlayerService
+proj-type: android
+No.1702
+https://github.com/MichaelEvans/Aftermath
+proj-type: android
+No.1703
+https://github.com/layerlre/ADBWIFI
+proj-type: no
+No.1704
+https://github.com/pheynix/TimerView
+proj-type: android
+No.1705
+https://github.com/brahalla/Cerberus
+proj-type: maven
+No.1706
+https://github.com/Jude95/Utils
+proj-type: android
+No.1707
+https://github.com/KobeGong/UberSplash
+proj-type: android
+No.1708
+https://github.com/iielse/SwitchButton
+proj-type: android
+No.1709
+https://github.com/wysaid/Android-ffmpeg-CameraRecord
+proj-type: android
+No.1710
+https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan
+proj-type: android
+No.1711
+https://github.com/cstew/Splash
+proj-type: android
+No.1712
+https://github.com/markzhai/LyricView
+proj-type: android
+No.1713
+https://github.com/akexorcist/Android-LocalizationActivity
+proj-type: android
+No.1714
+https://github.com/Toolwiz/ToolWizAppLock
+proj-type: android
+No.1715
+https://github.com/yilylong/CBDialog
+proj-type: android
+No.1716
+https://github.com/drakeet/FingerTransparentView
+proj-type: android
+No.1717
+https://github.com/dynamind/spring-boot-security-oauth2-minimal
+proj-type: gradle
+No.1718
+https://github.com/bethrobson/Head-First-Java
+proj-type: no
+No.1719
+https://github.com/FutureMind/recycler-fast-scroll
+proj-type: android
+No.1720
+https://github.com/hengyunabc/xdiamond
+proj-type: maven
+No.1721
+https://github.com/pengrad/java-telegram-bot-api
+proj-type: gradle
+No.1722
+https://github.com/bowyer-app/FabTransitionLayout
+proj-type: android
+No.1723
+https://github.com/florent37/BeautifulParallax
+proj-type: android
+No.1724
+https://github.com/aliyun/aliyun-oss-java-sdk
+proj-type: maven
+No.1725
+https://github.com/android-cjj/MaterialSearchView
+proj-type: android
+No.1726
+https://github.com/hantsy/angularjs-springmvc-sample-boot
+proj-type: maven
+No.1727
+https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark
+proj-type: gradle
+No.1728
+https://github.com/SpaceMadness/lunar-unity-console
+proj-type: android
+No.1729
+https://github.com/XiaoMi/LuckyMoneyTool
+proj-type: android
+No.1730
+https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip
+proj-type: android
+No.1731
+https://github.com/AppLozic/Applozic-Android-SDK
+proj-type: android
+No.1732
+https://github.com/gugalor/citylist
+proj-type: android
+No.1733
+https://github.com/EverythingMe/easy-content-providers
+proj-type: android
+No.1734
+https://github.com/yydcdut/SlideAndDragListView
+proj-type: android
+No.1735
+https://github.com/silvestrpredko/DotProgressBarExample
+proj-type: android
+No.1736
+https://github.com/tianzhijiexian/JsonAnnotation
+proj-type: android
+No.1737
+https://github.com/confluentinc/kafka-connect-jdbc
+proj-type: maven
+No.1738
+https://github.com/importre/android-selector-intellij-plugin
+proj-type: no
+No.1739
+https://github.com/hanks-zyh/500px-guideview
+proj-type: android
+No.1740
+https://github.com/mobiwiseco/Android-Base-Project
+proj-type: android
+No.1741
+https://github.com/recruit-lifestyle/ColoringLoading
+proj-type: android
+No.1742
+https://github.com/chiemy/LoadingImageView
+proj-type: android
+No.1743
+https://github.com/ta893115871/PagerSlidingTabStrip
+proj-type: android
+No.1744
+https://github.com/magiepooh/RecyclerItemDecoration
+proj-type: android
+No.1745
+https://github.com/Gericop/Android-Support-Preference-V7-Fix
+proj-type: android
+No.1746
+https://github.com/RocketChat/Rocket.Chat.Android
+proj-type: android
+No.1747
+https://github.com/vmware/tungsten-replicator
+proj-type: no
+No.1748
+https://github.com/saikrishna321/AppiumTestDistribution
+proj-type: maven
+No.1749
+https://github.com/lynnchurch/PullToRefresh
+proj-type: android
+No.1750
+https://github.com/npgall/concurrent-trees
+proj-type: maven
+No.1751
+https://github.com/xiongwei-git/GankApp
+proj-type: android
+No.1752
+https://github.com/xuyisheng/ZXingLib
+proj-type: android
+No.1753
+https://github.com/chiuki/friendspell
+proj-type: android
+No.1754
+https://github.com/TR4Android/AppCompat-Extension-Library
+proj-type: android
+No.1755
+https://github.com/thyrlian/ScreenshotsNanny
+proj-type: android
+No.1756
+https://github.com/wucao/JDeploy
+proj-type: maven
+No.1757
+https://github.com/easemob/sdkdemoapp3.0_android
+proj-type: android
+No.1758
+https://github.com/vlonjatg/AppTour
+proj-type: android
+No.1759
+https://github.com/BrentAureli/SuperMario
+proj-type: android
+No.1760
+https://github.com/DavidPizarro/PinView
+proj-type: android
+No.1761
+https://github.com/flyfei/CustomMenu
+proj-type: android
+No.1762
+https://github.com/rapidminer/rapidminer-studio
+proj-type: gradle
+No.1763
+https://github.com/netease-im/NIM_Android_UIKit
+proj-type: android
+No.1764
+https://github.com/WPIRoboticsProjects/GRIP
+proj-type: gradle
+No.1765
+https://github.com/Brunel-Visualization/Brunel
+proj-type: gradle
+No.1766
+https://github.com/ichenkaihua/ssm-easy-template
+proj-type: gradle
+No.1767
+https://github.com/dinuscxj/PullZoomRecyclerView
+proj-type: android
+No.1768
+https://github.com/googlesamples/android-custom-lint-rules
+proj-type: android
+No.1769
+https://github.com/pyricau/frenchtoast
+proj-type: android
+No.1770
+https://github.com/saiff35/LivingTabs
+proj-type: android
+No.1771
+https://github.com/DavidWangTM/DWCorePhoto_Android
+proj-type: android
+No.1772
+https://github.com/naman14/WashingMachineView
+proj-type: android
+No.1773
+https://github.com/greenfrvr/hashtag-view
+proj-type: android
+No.1774
+https://github.com/lusfold/SpinnerLoading
+proj-type: android
+No.1775
+https://github.com/bmwcarit/barefoot
+proj-type: maven
+No.1776
+https://github.com/zzz40500/ThemeDemo
+proj-type: android
+No.1777
+https://github.com/hitherejoe/Tabby
+proj-type: android
+No.1778
+https://github.com/gspd-mobi/SegmentedBarView-Android
+proj-type: android
+No.1779
+https://github.com/keeganlee/kstyle
+proj-type: android
+No.1780
+https://github.com/KyleBanks/IconEditText
+proj-type: android
+No.1781
+https://github.com/elevenetc/BadgeView
+proj-type: android
+No.1782
+https://github.com/f2prateek/rx-receivers
+proj-type: android
+No.1783
+https://github.com/Karumi/Dividers
+proj-type: android
+No.1784
+https://github.com/lizhangqu/CoreProgress
+proj-type: android
+No.1785
+https://github.com/adhamenaya/AndroidMosaicLayout
+proj-type: android
+No.1786
+https://github.com/atomix/copycat
+proj-type: maven
+No.1787
+https://github.com/eBay/UAF
+proj-type: android
+No.1788
+https://github.com/maoruibin/AppPlus
+proj-type: android
+No.1789
+https://github.com/jtribe/shelly
+proj-type: android
+No.1790
+https://github.com/lizhangqu/Camera
+proj-type: android
+No.1791
+https://github.com/apache/incubator-freemarker
+proj-type: no
+No.1792
+https://github.com/Commit451/NativeStackBlur
+proj-type: android
+No.1793
+https://github.com/Jhuster/JNote
+proj-type: android
+No.1794
+https://github.com/hanks-zyh/Conquer
+proj-type: android
+No.1795
+https://github.com/LiuJishuai/ssm
+proj-type: maven
+No.1796
+https://github.com/szitguy/RecordVideoDemo
+proj-type: android
+No.1797
+https://github.com/gpfduoduo/AnyShareOfAndroid
+proj-type: android
+No.1798
+https://github.com/dmart28/reveno
+proj-type: gradle
+No.1799
+https://github.com/lwjglgamedev/lwjglbook
+proj-type: maven
+No.1800
+https://github.com/nekocode/Murmur
+proj-type: android
+No.1801
+https://github.com/rubengees/introduction
+proj-type: android
+No.1802
+https://github.com/kymjs/CodeCafe
+proj-type: android
+No.1803
+https://github.com/android-cjj/SnailBar
+proj-type: android
+No.1804
+https://github.com/DevinShine/MagicCircle
+proj-type: android
+No.1805
+https://github.com/glung/redux-java
+proj-type: gradle
+No.1806
+https://github.com/devunwired/coordinated-effort
+proj-type: android
+No.1807
+https://github.com/IFTTT/SparkleMotion
+proj-type: android
+No.1808
+https://github.com/BotLibre/BotLibre
+proj-type: android
+No.1809
+https://github.com/channguyen/range-slider-view
+proj-type: android
+No.1810
+https://github.com/childe/hangout
+proj-type: maven
+No.1811
+https://github.com/lewismcgeary/AndroidtoAppleVectorLogo
+proj-type: android
+No.1812
+https://github.com/ZhaoKaiQiang/ParticleLayout
+proj-type: android
+No.1813
+https://github.com/android-cjj/Android-MaterialDeleteLayout
+proj-type: android
+No.1814
+https://github.com/zulip/zulip-android
+proj-type: android
+No.1815
+https://github.com/hongyangAndroid/ColorfulStatusBar
+proj-type: android
+No.1816
+https://github.com/wso2/msf4j
+proj-type: maven
+No.1817
+https://github.com/derive4j/derive4j
+proj-type: gradle
+No.1818
+https://github.com/android-cjj/Persei.android
+proj-type: android
+No.1819
+https://github.com/pengjianbo/ToolsFinal
+proj-type: android
+No.1820
+https://github.com/zsoltherpai/feather
+proj-type: android
+No.1821
+https://github.com/timqi/SectorProgressView
+proj-type: android
+No.1822
+https://github.com/huangwm1984/AndroidBase
+proj-type: android
+No.1823
+https://github.com/jraska/Falcon
+proj-type: android
+No.1824
+https://github.com/tyzlmjj/AndroidUI
+proj-type: android
+No.1825
+https://github.com/andyiac/githot
+proj-type: android
+No.1826
+https://github.com/waylife/InfiniteViewPager
+proj-type: android
+No.1827
+https://github.com/hanhailong/tubatu-viewpager
+proj-type: android
+No.1828
+https://github.com/Cutta/TagView
+proj-type: android
+No.1829
+https://github.com/Viscent/javamtp
+proj-type: no
+No.1830
+https://github.com/mattlogan/Pancakes
+proj-type: android
+No.1831
+https://github.com/soarcn/Favor
+proj-type: android
+No.1832
+https://github.com/linsea/OpenDanmaku
+proj-type: android
+No.1833
+https://github.com/TakeoffAndroid/MaterialDialogSearchView
+proj-type: android
+No.1834
+https://github.com/himanshu-soni/QuantityView
+proj-type: android
+No.1835
+https://github.com/heineman/algorithms-nutshell-2ed
+proj-type: no
+No.1836
+https://github.com/brucetoo/PinterestView
+proj-type: android
+No.1837
+https://github.com/tzutalin/Android-Object-Detection
+proj-type: android
+No.1838
+https://github.com/NodeMedia/NodeMediaClient-Android
+proj-type: android
+No.1839
+https://github.com/markzhai/init
+proj-type: android
+No.1840
+https://github.com/dss886/Android-EmotionInputDetector
+proj-type: android
+No.1841
+https://github.com/googlecodelabs/android-design-library
+proj-type: android
+No.1842
+https://github.com/ChronixDB/chronix.server
+proj-type: gradle
+No.1843
+https://github.com/axemclion/react-native-cordova-plugin
+proj-type: android
+No.1844
+https://github.com/fafaldo/BlurZoomGallery
+proj-type: android
+No.1845
+https://github.com/kmshack/Android-TopScrollHelper
+proj-type: android
+No.1846
+https://github.com/simonpercic/OkLog
+proj-type: android
+No.1847
+https://github.com/lguipeng/AnimCheckBox
+proj-type: android
+No.1848
+https://github.com/googlecreativelab/meter
+proj-type: android
+No.1849
+https://github.com/ideacreation/react-native-barcodescanner
+proj-type: android
+No.1850
+https://github.com/THEONE10211024/CircleIndicator
+proj-type: android
+No.1851
+https://github.com/ac-pm/SSLUnpinning_Xposed
+proj-type: android
+No.1852
+https://github.com/skimarxall/RxFlux
+proj-type: android
+No.1853
+https://github.com/IvBaranov/MaterialLetterIcon
+proj-type: android
+No.1854
+https://github.com/HuaweiBigData/StreamCQL
+proj-type: maven
+No.1855
+https://github.com/txusballesteros/snake
+proj-type: android
+No.1856
+https://github.com/hrules6872/Charter
+proj-type: android
+No.1857
+https://github.com/kymjs/KJGallery
+proj-type: android
+No.1858
+https://github.com/sofn/app-engine
+proj-type: gradle
+No.1859
+https://github.com/vladmihalcea/high-performance-java-persistence
+proj-type: maven
+No.1860
+https://github.com/txusballesteros/AutosizeEditText
+proj-type: android
+No.1861
+https://github.com/techery/ProperRatingBar
+proj-type: android
+No.1862
+https://github.com/jjenkov/java-nio-server
+proj-type: no
+No.1863
+https://github.com/bacy/titlebar
+proj-type: android
+No.1864
+https://github.com/yahoo/elide
+proj-type: maven
+No.1865
+https://github.com/googlecodelabs/android-testing
+proj-type: android
+No.1866
+https://github.com/Uphie/ONE-Unofficial
+proj-type: android
+No.1867
+https://github.com/anthonycr/Grant
+proj-type: android
+No.1868
+https://github.com/plusCubed/recycler-fast-scroll
+proj-type: android
+No.1869
+https://github.com/linux-china/spring-boot-dubbo
+proj-type: maven
+No.1870
+https://github.com/brucetoo/VideoControllerView
+proj-type: android
+No.1871
+https://github.com/zalando/nakadi
+proj-type: gradle
+No.1872
+https://github.com/Xieyupeng520/AZBarrage
+proj-type: android
+No.1873
+https://github.com/pwm-project/pwm
+proj-type: maven
+No.1874
+https://github.com/woxingxiao/XEditText
+proj-type: android
+No.1875
+https://github.com/neo4j-contrib/neo4j-mazerunner
+proj-type: maven
+No.1876
+https://github.com/kaedea/fresco-sample-usage
+proj-type: android
+No.1877
+https://github.com/tzutalin/dlib-android-app
+proj-type: android
+No.1878
+https://github.com/usethesource/capsule
+proj-type: maven
+No.1879
+https://github.com/akashandroid90/ImageLetterIcon
+proj-type: android
+No.1880
+https://github.com/andrebts/login-basics
+proj-type: android
+No.1881
+https://github.com/IvBaranov/RxBluetooth
+proj-type: android
+No.1882
+https://github.com/Cenyol/SpringMVC
+proj-type: maven
+No.1883
+https://github.com/butterproject/butter-android
+proj-type: android
+No.1884
+https://github.com/bugvm/bugvm
+proj-type: android
+No.1885
+https://github.com/drakeet/LabelView
+proj-type: android
+No.1886
+https://github.com/oxoooo/materialize
+proj-type: android
+No.1887
+https://github.com/linkaipeng/NumberCodeView
+proj-type: android
+No.1888
+https://github.com/davideas/FlipView
+proj-type: android
+No.1889
+https://github.com/melvinjlobo/MetaballMenu
+proj-type: android
+No.1890
+https://github.com/NASAWorldWind/WorldWindJava
+proj-type: no
+No.1891
+https://github.com/ScienJus/spring-authorization-manager
+proj-type: maven
+No.1892
+https://github.com/pengjianbo/FloatViewFinal
+proj-type: android
+No.1893
+https://github.com/AmniX/MaterialPatternllockView
+proj-type: android
+No.1894
+https://github.com/cesarferreira/RxPeople
+proj-type: android
+No.1895
+https://github.com/michelelacorte/ElasticProgressBar
+proj-type: android
+No.1896
+https://github.com/WecanStudio/Android
+proj-type: no
+No.1897
+https://github.com/robinxdroid/XDroidAnimation
+proj-type: android
+No.1898
+https://github.com/donbeave/interview
+proj-type: maven
+No.1899
+https://github.com/hufeng/BaiduMapKit
+proj-type: android
+No.1900
+https://github.com/kayvannj/PermissionUtil
+proj-type: android
+No.1901
+https://github.com/GadgetCheck/TinderView
+proj-type: android
+No.1902
+https://github.com/jtransc/jtransc
+proj-type: maven-gradle
+No.1903
+https://github.com/nugongshou110/MeiTuanRefreshListView
+proj-type: android
+No.1904
+https://github.com/dadoonet/fscrawler
+proj-type: maven
+No.1905
+https://github.com/ZeroBrain/AndroidPermissions
+proj-type: android
+No.1906
+https://github.com/iammert/MaskProgressView
+proj-type: android
+No.1907
+https://github.com/aakashns/react-native-dialogs
+proj-type: android
+No.1908
+https://github.com/liaohuqiu/android-RavenServer
+proj-type: android
+No.1909
+https://github.com/ngs-doo/dsl-json
+proj-type: android
+No.1910
+https://github.com/thorbenprimke/realm-searchview
+proj-type: android
+No.1911
+https://github.com/elevenetc/InteractiveCanvas
+proj-type: android
+No.1912
+https://github.com/liaohuqiu/android-ILoveBaidu
+proj-type: android
+No.1913
+https://github.com/dpreussler/clean-simple-calendar
+proj-type: android
+No.1914
+https://github.com/danfickle/openhtmltopdf
+proj-type: maven
+No.1915
+https://github.com/coyarzun89/FabTransitionActivity
+proj-type: android
+No.1916
+https://github.com/xuyisheng/TextViewForFullHtml
+proj-type: android
+No.1917
+https://github.com/hanhailong/VCL-Android
+proj-type: android
+No.1918
+https://github.com/lucasferreira/react-native-webview-android
+proj-type: android
+No.1919
+https://github.com/liuling07/PhotoPicker
+proj-type: android
+No.1920
+https://github.com/sangcomz/FishBun
+proj-type: android
+No.1921
+https://github.com/Backelite/sonar-swift
+proj-type: maven
+No.1922
+https://github.com/andyxialm/ColorDialog
+proj-type: android
+No.1923
+https://github.com/jaredrummler/APKParser
+No.1924
+https://github.com/luckyandyzhang/CleverRecyclerView
+proj-type: android
+No.1925
+https://github.com/ragnraok/RxCamera
+proj-type: android
+No.1926
+https://github.com/SpikeKing/TestAppBar
+proj-type: android
+No.1927
+https://github.com/HomHomLin/Android-PullToRefreshRecyclerView
+proj-type: android
+No.1928
+https://github.com/esp8266/arduino-esp8266fs-plugin
+proj-type: no
+No.1929
+https://github.com/sfsheng0322/In-depthStudy
+proj-type: android
+No.1930
+https://github.com/DavidWangTM/DWCinemaAnimation-Android
+proj-type: android
+No.1931
+https://github.com/jayrambhia/CropperNoCropper
+proj-type: android
+No.1932
+https://github.com/jakubkinst/Android-ViewModelBinding
+proj-type: android
+No.1933
+https://github.com/seatgeek/android-PlacesAutocompleteTextView
+proj-type: android
+No.1934
+https://github.com/remobile/react-native-splashscreen
+proj-type: android
+No.1935
+https://github.com/DavidPacioianu/InkPageIndicator
+proj-type: android
+No.1936
+https://github.com/wlfcolin/file-downloader
+proj-type: android
+No.1937
+https://github.com/FreedomZZQ/YouJoin-Android
+proj-type: android
+No.1938
+https://github.com/knightliao/disconf-demos-java
+proj-type: maven
+No.1939
+https://github.com/baoyongzhang/Treasure
+proj-type: android
+No.1940
+https://github.com/junit-team/junit5-samples
+proj-type: maven-gradle
+No.1941
+https://github.com/Y-bao/PullRefreshView
+proj-type: android
+No.1942
+https://github.com/in28minutes/SpringIn28Minutes
+proj-type: maven
+No.1943
+https://github.com/iwgang/FamiliarRecyclerView
+proj-type: android
+No.1944
+https://github.com/vmware/photon-controller
+proj-type: gradle
+No.1945
+https://github.com/CaMnter/AndroidLife
+proj-type: android
+No.1946
+https://github.com/ZhaoKaiQiang/OkHttpPlus
+proj-type: android
+No.1947
+https://github.com/vmware/xenon
+proj-type: android
+No.1948
+https://github.com/NikoYuwono/ToolbarPanel
+proj-type: android
+No.1949
+https://github.com/materialdoc/materialdoc
+proj-type: android
+No.1950
+https://github.com/feeeei/CircleSeekbar
+proj-type: android
+No.1951
+https://github.com/Xieyupeng520/AZExplosion
+proj-type: android
+No.1952
+https://github.com/Yalantis/Watchface-Constructor
+proj-type: android
+No.1953
+https://github.com/GoogleCloudPlatform/getting-started-java
+proj-type: maven-gradle
+No.1954
+https://github.com/kaikramer/keystore-explorer
+proj-type: gradle
+No.1955
+https://github.com/zhonglinlin1305/Spring
+proj-type: maven
+No.1956
+https://github.com/xmagicj/LazyFragment
+proj-type: android
+No.1957
+https://github.com/ram-on/SkyTube
+proj-type: android
+No.1958
+https://github.com/w446108264/StickyHeaderViewPager
+proj-type: android
+No.1959
+https://github.com/Syehunter/RecyclerViewManager
+proj-type: android
+No.1960
+https://github.com/fengjundev/React-Native-Remote-Update
+proj-type: android
+No.1961
+https://github.com/nomanr/ZoomTextView
+proj-type: android
+No.1962
+https://github.com/yesidlazaro/BadgedImageview
+proj-type: android
+No.1963
+https://github.com/qibin0506/MVPro
+proj-type: android
+No.1964
+https://github.com/Raysmond/expper
+proj-type: gradle
+No.1965
+https://github.com/ffgiraldez/rx-mvvm-android
+proj-type: android
+No.1966
+https://github.com/duzechao/DownloadManager
+proj-type: android
+No.1967
+https://github.com/CoolThink/StatusBarAdapt
+proj-type: android
+No.1968
+https://github.com/spring-guides/tut-spring-boot-oauth2
+proj-type: maven
+No.1969
+https://github.com/ihaolin/alipay
+proj-type: maven
+No.1970
+https://github.com/uber/rides-android-sdk
+proj-type: android
+No.1971
+https://github.com/ioneday/ImageSelector
+proj-type: android
+No.1972
+https://github.com/DreaminginCodeZH/CustomTabsHelper
+proj-type: android
+No.1973
+https://github.com/yilylong/UserGuideView
+proj-type: android
+No.1974
+https://github.com/kot32go/KSimpleLibrary
+proj-type: android
+No.1975
+https://github.com/easonline/AndroidImagePicker
+proj-type: android
+No.1976
+https://github.com/dodola/OverscrollScale
+proj-type: android
+No.1977
+https://github.com/JeffLi1993/jvm-core-learning-example
+proj-type: no
+No.1978
+https://github.com/FrantisekGazo/Blade
+proj-type: android
+No.1979
+https://github.com/remind101/android-arch-sample
+proj-type: android
+No.1980
+https://github.com/ajalt/reprint
+proj-type: android
+No.1981
+https://github.com/YancyYe/GalleryPick
+proj-type: android
+No.1982
+https://github.com/aliyun/aliyun-oss-android-sdk
+proj-type: android
+No.1983
+https://github.com/sungerk/meiShi
+proj-type: android
+No.1984
+https://github.com/corerzhang/LabelView
+proj-type: android
+No.1985
+https://github.com/YeDeming/THUTag
+proj-type: no
+No.1986
+https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin
+proj-type: no
+No.1987
+https://github.com/ihaolin/wepay
+proj-type: maven
+No.1988
+https://github.com/andrewhayden/archive-patcher
+proj-type: gradle
+No.1989
+https://github.com/akexorcist/Android-GoogleDirectionLibrary
+proj-type: android
+No.1990
+https://github.com/XavierSAndroid/MagicHeaderViewPager
+proj-type: android
+No.1991
+https://github.com/orhanobut/tracklytics
+proj-type: android
+No.1992
+https://github.com/Janseon/CardMenuView
+proj-type: android
+No.1993
+https://github.com/duzechao/OKHttpUtils
+proj-type: android
+No.1994
+https://github.com/Mauin/RxFingerprint
+proj-type: android
+No.1995
+https://github.com/halfhp/androidplot
+proj-type: android
+No.1996
+https://github.com/spring-cloud-samples/brewery
+proj-type: gradle
+No.1997
+https://github.com/android10/arrow
+proj-type: gradle
+No.1998
+https://github.com/MasayukiSuda/AnimateHorizontalProgressBar
+proj-type: android
+No.1999
+https://github.com/yayaa/Rotatable
+proj-type: android
+No.2000
+https://github.com/federicodotta/Java-Deserialization-Scanner
+proj-type: no
+No.2001
+https://github.com/pavlospt/RxFile
+proj-type: android
+No.2002
+https://github.com/PhantomBot/PhantomBot
+proj-type: no
+No.2003
+https://github.com/crosswall/Android-PickPhotos
+proj-type: android
+No.2004
+https://github.com/dmilicic/android-clean-sample-app
+proj-type: android
+No.2005
+https://github.com/yulu/crop-image-layout
+proj-type: android
+No.2006
+https://github.com/android-cjj/MousePaint
+proj-type: android
+No.2007
+https://github.com/DragonetMC/DragonProxy
+proj-type: maven
+No.2008
+https://github.com/flipkart-incubator/springy-heads
+proj-type: android
+No.2009
+https://github.com/iwgang/SimplifySpan
+proj-type: android
+No.2010
+https://github.com/MLSDev/RxImagePicker
+proj-type: android
+No.2011
+https://github.com/vanniktech/OnActivityResult
+proj-type: android
+No.2012
+https://github.com/jhw-dev/CircleLoadingView
+proj-type: android
+No.2013
+https://github.com/jimkyndemeyer/js-graphql-intellij-plugin
+proj-type: no
+No.2014
+https://github.com/mallethugo/RealParallaxAndroid
+proj-type: android
+No.2015
+https://github.com/saurabharora90/MaterialArcMenu
+proj-type: android
+No.2016
+https://github.com/z56402344/AnimTextView
+proj-type: android
+No.2017
+https://github.com/dalong982242260/SlidingBall
+proj-type: android
+No.2018
+https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar
+No.2019
+https://github.com/iadgov/GRASSMARLIN
+proj-type: no
+No.2020
+https://github.com/lingochamp/QiniuImageLoader
+proj-type: android
+No.2021
+https://github.com/Chion82/WeChatMomentExport
+proj-type: android
+No.2022
+https://github.com/yahoo/streaming-benchmarks
+proj-type: maven
+No.2023
+https://github.com/misakuo/svgtoandroid
+proj-type: gradle
+No.2024
+https://github.com/MasayukiSuda/CountAnimationTextView
+proj-type: android
+No.2025
+https://github.com/oxoooo/earth
+proj-type: android
+No.2026
+https://github.com/boredream/BorePlugin
+proj-type: no
+No.2027
+https://github.com/sungerk/CoordinatorLayoutDemos
+proj-type: android
+No.2028
+https://github.com/ViceFantasyPlace/activate-power-mode
+proj-type: no
+No.2029
+https://github.com/natasam/Android-PercentProgressBar-lib
+proj-type: android
+No.2030
+https://github.com/stanford-futuredata/macrobase
+proj-type: maven
+No.2031
+https://github.com/dongjunkun/BannerLayout
+proj-type: android
+No.2032
+https://github.com/grandstaish/paperparcel
+proj-type: android
+No.2033
+https://github.com/madeye/BaoLianDeng
+proj-type: android
+No.2034
+https://github.com/ksvc/KSYStreamer_Android
+proj-type: android
+No.2035
+https://github.com/blazegraph/database
+proj-type: maven
+No.2036
+https://github.com/in28minutes/SpringMvcStepByStep
+proj-type: maven
+No.2037
+https://github.com/electronicarts/ea-async
+proj-type: maven
+No.2038
+https://github.com/qijitech/android-starter-kit
+proj-type: android
+No.2039
+https://github.com/zsoltk/paperwork
+proj-type: android
+No.2040
+https://github.com/ZhaoKaiQiang/JianDanRxJava
+proj-type: android
+No.2041
+https://github.com/yxs666/cniao5-shop
+proj-type: android
+No.2042
+https://github.com/martykan/forecastie
+proj-type: android
+No.2043
+https://github.com/yona-projects/yona
+proj-type: no
+No.2044
+https://github.com/henjue/vue-for-idea
+proj-type: no
+No.2045
+https://github.com/klnusbaum/rxandroidexamples
+proj-type: android
+No.2046
+https://github.com/835127729/ViewExplosion
+proj-type: android
+No.2047
+https://github.com/tianzhijiexian/DBinding
+proj-type: android
+No.2048
+https://github.com/yll2wcf/YLListView
+proj-type: android
+No.2049
+https://github.com/cnjon/react-native-pdf-view
+proj-type: android
+No.2050
+https://github.com/zhoumengkang/netty-restful-server
+proj-type: maven
+No.2051
+https://github.com/AlanCheen/PeriscopeLayout
+proj-type: android
+No.2052
+https://github.com/nekocode/ToolbarIndicator
+proj-type: android
+No.2053
+https://github.com/toolbox4minecraft/amidst
+proj-type: maven
+No.2054
+https://github.com/ValuesFeng/AndroidPicturePicker
+proj-type: android
+No.2055
+https://github.com/vikramkakkar/SublimeNavigationView
+proj-type: android
+No.2056
+https://github.com/ta893115871/StickyNavLayout
+proj-type: android
+No.2057
+https://github.com/zoonooz/simple-view-behavior
+proj-type: android
+No.2058
+https://github.com/sacert/SoundSea
+proj-type: no
+No.2059
+https://github.com/yavski/fab-speed-dial
+proj-type: android
+No.2060
+https://github.com/threezj/FuLiApp
+proj-type: android
+No.2061
+https://github.com/antlr/codebuff
+proj-type: maven
+No.2062
+https://github.com/gaoxianglong/shark
+proj-type: maven
+No.2063
+https://github.com/manolovn/trianglify
+proj-type: android
+No.2064
+https://github.com/shalskar/PeekAndPop
+proj-type: android
+No.2065
+https://github.com/yxping/AdhesiveLoadingView
+proj-type: android
+No.2066
+https://github.com/HanSolo/Medusa
+proj-type: gradle
+No.2067
+https://github.com/FibreFoX/javafx-gradle-plugin
+proj-type: gradle
+No.2068
+https://github.com/mikepenz/ItemAnimators
+proj-type: android
+No.2069
+https://github.com/txusballesteros/Android-Clean-Testing
+proj-type: android
+No.2070
+https://github.com/xiaolongzuo/niubi-job
+proj-type: maven
+No.2071
+https://github.com/UWSysLab/tapir
+proj-type: maven
+No.2072
+https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
+proj-type: android
+No.2073
+https://github.com/yezhidong/Memo
+proj-type: android
+No.2074
+https://github.com/DoodleScheduling/android-material-chips
+proj-type: android
+No.2075
+https://github.com/yxs666/cniao5-news
+proj-type: android
+No.2076
+https://github.com/ParkSangGwon/TedPicker
+proj-type: android
+No.2077
+https://github.com/hitherejoe/LeanbackCards
+proj-type: android
+No.2078
+https://github.com/sunxu3074/AutoRobRedPackage
+proj-type: android
+No.2079
+https://github.com/payatu/diva-android
+proj-type: android
+No.2080
+https://github.com/btkelly/gandalf
+proj-type: android
+No.2081
+https://github.com/ShprAlex/SproutLife
+proj-type: no
+No.2082
+https://github.com/maksim88/PasswordEditText
+proj-type: android
+No.2083
+https://github.com/Jeffmen/Git.NB
+proj-type: android
+No.2084
+https://github.com/JiongBull/jlog
+proj-type: android
+No.2085
+https://github.com/idehub/react-native-billing
+proj-type: android
+No.2086
+https://github.com/Commit451/ForegroundViews
+proj-type: android
+No.2087
+https://github.com/nero520/mybatis
+proj-type: maven
+No.2088
+https://github.com/TomWithJerry/CoolAndroidAnim
+proj-type: android
+No.2089
+https://github.com/saiwu-bigkoo/Android-SnappingStepper
+proj-type: android
+No.2090
+https://github.com/Mr-wangyong/FragmentStack
+proj-type: android
+No.2091
+https://github.com/chaossss/PianoView
+proj-type: android
+No.2092
+https://github.com/Revivius/nb-darcula
+proj-type: maven
+No.2093
+https://github.com/hbb20/CountryCodePickerProject
+proj-type: android
+No.2094
+https://github.com/razerdp/UnderLineLinearLayout
+proj-type: android
+No.2095
+https://github.com/Microsoft/ProjectOxford-Apps-MimickerAlarm
+proj-type: android
+No.2096
+https://github.com/fangx/ZhiHuMVP
+proj-type: android
+No.2097
+https://github.com/kot32go/KShareViewActivityManager
+proj-type: no
+No.2098
+https://github.com/rebus007/BottomDialog
+proj-type: android
+No.2099
+https://github.com/canyinghao/CanRefresh
+proj-type: android
+No.2100
+https://github.com/cnbleu/SlideDetailsLayout
+proj-type: android
+No.2101
+https://github.com/fire3/sailorcast
+proj-type: android
+No.2102
+https://github.com/SpikeKing/wcl-permission-demo
+proj-type: android
+No.2103
+https://github.com/Commit451/ElasticDragDismissLayout
+proj-type: android
+No.2104
+https://github.com/NielsMasdorp/Speculum-Android
+proj-type: android
+No.2105
+https://github.com/nitrico/MapViewPager
+proj-type: android
+No.2106
+https://github.com/tkohout/OSTRAJava
+proj-type: maven
+No.2107
+https://github.com/me-no-dev/EspExceptionDecoder
+proj-type: no
+No.2108
+https://github.com/mutualmobile/CardStackUI
+proj-type: android
+No.2109
+https://github.com/DanteAndroid/Knowledge
+proj-type: android
+No.2110
+https://github.com/dempeZheng/forest
+proj-type: maven
+No.2111
+https://github.com/beautifulSoup/RtmpRecoder
+proj-type: android
+No.2112
+https://github.com/java-deobfuscator/deobfuscator
+proj-type: maven
+No.2113
+https://github.com/YiuChoi/Unlock163Music
+proj-type: android
+No.2114
+https://github.com/edvin/fxlauncher
+proj-type: maven
+No.2115
+https://github.com/evilbinary/TvWidget
+proj-type: android
+No.2116
+https://github.com/fython/Blackbulb
+proj-type: android
+No.2117
+https://github.com/maxbbraun/mirror
+proj-type: android
+No.2118
+https://github.com/tlaplus/tlaplus
+proj-type: maven
+No.2119
+https://github.com/jfree/jfreechart
+proj-type: maven
+No.2120
+https://github.com/miteshpithadiya/SearchableSpinner
+proj-type: android
+No.2121
+https://github.com/androidmalin/ILOVEYOU
+proj-type: android
+No.2122
+https://github.com/saulmm/onboarding-examples-android
+proj-type: android
+No.2123
+https://github.com/SimpleMobileTools/Simple-Gallery
+proj-type: android
+No.2124
+https://github.com/facebook/SoLoader
+proj-type: android
+No.2125
+https://github.com/domeos/server
+proj-type: maven
+No.2126
+https://github.com/Microsoft/thrifty
+proj-type: gradle
+No.2127
+https://github.com/chocoteam/choco-solver
+proj-type: maven
+No.2128
+https://github.com/bpncool/SectionedExpandableGridRecyclerView
+proj-type: android
+No.2129
+https://github.com/turbolinks/turbolinks-android
+proj-type: android
+No.2130
+https://github.com/ishratkhan/NestedTimeLineRecyclerView
+proj-type: android
+No.2131
+https://github.com/mongodb/mongo-spark
+proj-type: no
+No.2132
+https://github.com/mariofusco/from-gof-to-lambda
+proj-type: maven
+No.2133
+https://github.com/Nightonke/LeeCo
+proj-type: android
+No.2134
+https://github.com/fabric8io/kubeflix
+proj-type: maven
+No.2135
+https://github.com/palantir/docker-compose-rule
+proj-type: gradle
+No.2136
+https://github.com/nisrulz/qreader
+proj-type: android
+No.2137
+https://github.com/kotcrab/vis-editor
+proj-type: maven-gradle
+No.2138
+https://github.com/newtonker/JigsawDemo
+proj-type: android
+No.2139
+https://github.com/SubstanceMobile/GEM
+proj-type: android
+No.2140
+https://github.com/pengwei1024/JsBridge
+proj-type: android
+No.2141
+https://github.com/thepacific/adapter
+proj-type: android
+No.2142
+https://github.com/VictorAlbertos/RxActivityResult
+proj-type: android
+No.2143
+https://github.com/visa/SampleCode
+proj-type: maven
+No.2144
+https://github.com/johnalexandergreene/Geom_Kisrhombille
+proj-type: no
+No.2145
+https://github.com/dvdciri/MultiChoiceRecyclerView
+proj-type: android
+No.2146
+https://github.com/nchutchind/cordova-plugin-streaming-media
+proj-type: no
+No.2147
+https://github.com/gbrindisi/malware
+proj-type: android
+No.2148
+https://github.com/lambadaframework/lambadaframework
+proj-type: maven
+No.2149
+https://github.com/aliyun/alicloud-android-demo
+proj-type: android
+No.2150
+https://github.com/FNNDSC/ami
+proj-type: no
+No.2151
+https://github.com/kaelaela/OpenGraphView
+proj-type: android
+No.2152
+https://github.com/CIDARLAB/cello
+proj-type: maven
+No.2153
+https://github.com/LittleFriendsGroup/KakaCache
+proj-type: android
+No.2154
+https://github.com/qiugang/EditTag
+proj-type: android
+No.2155
+https://github.com/auth0/react-native-lock
+proj-type: android
+No.2156
+https://github.com/drakeet/LayoutFormatter
+proj-type: no
+No.2157
+https://github.com/amaembo/huntbugs
+proj-type: maven
+No.2158
+https://github.com/eventsourcing/es4j
+proj-type: gradle
+No.2159
+https://github.com/stefanhaustein/TerminalImageViewer
+proj-type: no
+No.2160
+https://github.com/dinuscxj/RecyclerItemDecoration
+proj-type: android
+No.2161
+https://github.com/alivebao/FreeSizeDraggableLayout
+proj-type: android
+No.2162
+https://github.com/captain-miao/RecyclerViewUtils
+proj-type: android
+No.2163
+https://github.com/nisrulz/screenshott
+proj-type: android
+No.2164
+https://github.com/GautamGupta/toolbar-button
+proj-type: android
+No.2165
+https://github.com/yeungeek/monkey-android
+proj-type: android
+No.2166
+https://github.com/zxcpoiu/react-native-incall-manager
+proj-type: android
+No.2167
+https://github.com/spotify/echoprint-server
+proj-type: maven
+No.2168
+https://github.com/ImmortalZ/jellyball
+proj-type: android
+No.2169
+https://github.com/lijunguan/AlbumSelector
+proj-type: android
+No.2170
+https://github.com/zfdang/android-multiple-images-selector
+proj-type: android
+No.2171
+https://github.com/hehonghui/android_my_pull_refresh_view
+proj-type: android
+No.2172
+https://github.com/huxq17/SwipeCardsView
+proj-type: android
+No.2173
+https://github.com/EdwardvanRaak/MaterialBarcodeScanner
+proj-type: android
+No.2174
+https://github.com/eyeem/decorator
+proj-type: android
+No.2175
+https://github.com/dalong982242260/AndroidRuler
+proj-type: android
+No.2176
+https://github.com/youzan/TitanRecyclerView
+proj-type: android
+No.2177
+https://github.com/mugku/Android-LockScreenSample-DisableHomeButtonKey
+proj-type: android
+No.2178
+https://github.com/line/line-bot-sdk-java
+proj-type: gradle
+No.2179
+https://github.com/nayuki/QR-Code-generator
+proj-type: no
+No.2180
+https://github.com/sungerk/DropDownLayout
+proj-type: android
+No.2181
+https://github.com/DmitryMalkovich/circular-with-floating-action-button
+proj-type: android
+No.2182
+https://github.com/leeowenowen/rxjava-examples
+proj-type: android
+No.2183
+https://github.com/xybCoder/gank
+proj-type: android
+No.2184
+https://github.com/lankton/android-flowlayout
+proj-type: android
+No.2185
+https://github.com/JohnnyShieh/Gank
+proj-type: android
+No.2186
+https://github.com/binglingziyu/OwlView
+proj-type: android
+No.2187
+https://github.com/gaolonglong/GankGirl
+proj-type: android
+No.2188
+https://github.com/streamsupport/streamsupport
+proj-type: android
+No.2189
+https://github.com/RUB-NDS/TLS-Attacker
+proj-type: maven
+No.2190
+https://github.com/googlesamples/android-OurStreets
+proj-type: android
+No.2191
+https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView
+proj-type: android
+No.2192
+https://github.com/alighters/CubeGrid
+proj-type: android
+No.2193
+https://github.com/BlackBoxVision/material-calendar-view
+proj-type: android
+No.2194
+https://github.com/meganz/android
+proj-type: android
+No.2195
+https://github.com/guojunustb/VerticalBannerView
+proj-type: android
+No.2196
+https://github.com/wusp/IndicatorBox
+proj-type: android
+No.2197
+https://github.com/elbbbird/ESSocialSDK
+proj-type: android
+No.2198
+https://github.com/lsxiao/ZhihuDailyFluxRRD
+proj-type: android
+No.2199
+https://github.com/IamXiaRui/Android_5.0_ViewDemo
+proj-type: android
+No.2200
+https://github.com/lukaspili/Reactive-Billing
+proj-type: android
+No.2201
+https://github.com/lightbringer/dota2ai
+proj-type: maven
+No.2202
+https://github.com/douglasjunior/android-simple-tooltip
+proj-type: android
+No.2203
+https://github.com/ocetnik/react-native-background-timer
+proj-type: android
+No.2204
+https://github.com/andyb129/BeerProgressView
+proj-type: android
+No.2205
+https://github.com/FabianTerhorst/FastLayout
+proj-type: android
+No.2206
+https://github.com/zzhoujay/LowPoly
+proj-type: gradle
+No.2207
+https://github.com/zzhoujay/LowPolyAndroid
+proj-type: android
+No.2208
+https://github.com/Cleveroad/Bitutorial
+proj-type: android
+No.2209
+https://github.com/loonggg/CoordinatorLayoutDemo
+proj-type: android
+No.2210
+https://github.com/Andre1299/TUI-ConsoleLauncher
+proj-type: android
+No.2211
+https://github.com/jaxio/celerio-angular-quickstart
+proj-type: maven
+No.2212
+https://github.com/D-clock/AndroidStudyCode
+proj-type: android
+No.2213
+https://github.com/chihane/JDAddressSelector
+proj-type: android
+No.2214
+https://github.com/AlexMofer/ProjectX
+proj-type: android
+No.2215
+https://github.com/captain-miao/AndroidAgeraTutorial
+proj-type: android
+No.2216
+https://github.com/StevenByle/Android-Material-Themes-Demo
+proj-type: android
+No.2217
+https://github.com/blockchain/thunder
+proj-type: maven
+No.2218
+https://github.com/google/blockly-android
+proj-type: android
+No.2219
+https://github.com/uber-common/rave
+proj-type: android
+No.2220
+https://github.com/brucetoo/ImageBrowse
+proj-type: android
+No.2221
+https://github.com/StomHong/CustomizeKeyboard
+proj-type: android
+No.2222
+https://github.com/egzosn/pay-java-parent
+proj-type: maven
+No.2223
+https://github.com/googlecodelabs/constraint-layout
+proj-type: android
+No.2224
+https://github.com/googlesamples/leanback-showcase
+proj-type: android
+No.2225
+https://github.com/jenkinsci/java-client-api
+proj-type: maven
+No.2226
+https://github.com/googlesamples/android-unsplash
+proj-type: android
+No.2227
+https://github.com/qs-lll/FabActionAnimations
+proj-type: android
+No.2228
+https://github.com/evollu/react-native-firebase-analytics
+proj-type: android
+No.2229
+https://github.com/hujiaweibujidao/yava
+proj-type: android
+No.2230
+https://github.com/Nescafemix/hintcase
+proj-type: android
+No.2231
+https://github.com/Camelcade/Perl5-IDEA
+proj-type: gradle
+No.2232
+https://github.com/jline/jline3
+proj-type: maven
+No.2233
+https://github.com/emmaguy/rxjava-mvp-giphy
+proj-type: android
+No.2234
+https://github.com/qiushi123/GuideView-master
+proj-type: android
+No.2235
+https://github.com/Hitomis/SortRichEditor
+No.2236
+https://github.com/hujiaweibujidao/wava
+proj-type: android
+No.2237
+https://github.com/sphinx02/AppStarter
+proj-type: android
+No.2238
+https://github.com/zhe525069676/WeiBoLayout
+proj-type: android
+No.2239
+https://github.com/apache/apex-core
+proj-type: maven
+No.2240
+https://github.com/klinker24/Android-SlidingEmojiKeyboard
+proj-type: android
+No.2241
+https://github.com/SilenceDut/ExpandableLayout
+proj-type: android
+No.2242
+https://github.com/javahongxi/whatsmars
+proj-type: maven
+No.2243
+https://github.com/OneSignal/OneSignal-Android-SDK
+proj-type: android
+No.2244
+https://github.com/qpython-android/qpython
+proj-type: android
+No.2245
+https://github.com/ldoublem/PassWordInput
+proj-type: android
+No.2246
+https://github.com/protyposis/MediaPlayer-Extended
+proj-type: android
+No.2247
+https://github.com/hiteshsahu/ECommerce-App-Android
+proj-type: android
+No.2248
+https://github.com/jinguangyue/Android-CustomCamera
+proj-type: android
+No.2249
+https://github.com/udacity/ud839_Miwok
+proj-type: android
+No.2250
+https://github.com/krishnarb3/Popview-Android
+proj-type: android
+No.2251
+https://github.com/NationalSecurityAgency/timely
+proj-type: maven
+No.2252
+https://github.com/dsbGenius/WhiteBoard
+proj-type: android
+No.2253
+https://github.com/prolificinteractive/Chandelier
+proj-type: android
+No.2254
+https://github.com/udacity/ud839_CustomAdapter_Example
+proj-type: android
+No.2255
+https://github.com/fabiomsr/MoneyTextView
+proj-type: android
+No.2256
+https://github.com/Nike-Inc/wingtips
+proj-type: gradle
+No.2257
+https://github.com/googlecast/CastVideos-android-v2
+proj-type: android
+No.2258
+https://github.com/mukeshsolanki/photofilter
+proj-type: android
+No.2259
+https://github.com/PierfrancescoSoffritti/SlidingDrawer
+proj-type: android
+No.2260
+https://github.com/StackTipsLab/Android-UI-Tutorials
+proj-type: android
+No.2261
+https://github.com/fython/PackageTracker
+proj-type: android
+No.2262
+https://github.com/StackTipsLab/Advance-Android-Tutorials
+proj-type: android
+No.2263
+https://github.com/jmrapp1/TerraLegion
+proj-type: android
+No.2264
+https://github.com/hypeapps/Endoscope
+proj-type: android
+No.2265
+https://github.com/xuyisheng/VectorDemo
+proj-type: android
+No.2266
+https://github.com/NemProject/nem.core
+proj-type: maven
+No.2267
+https://github.com/binaryroot/CarouselView
+proj-type: android
+No.2268
+https://github.com/akarnokd/RxJava2Extensions
+proj-type: gradle
+No.2269
+https://github.com/tsy12321/PayAndroid
+proj-type: android
+No.2270
+https://github.com/shanyao0/DownLoadManager
+proj-type: android
+No.2271
+https://github.com/yanzhenjie/CircleTextProgressbar
+proj-type: android
+No.2272
+https://github.com/manas-chaudhari/android-mvvm
+proj-type: android
+No.2273
+https://github.com/jkyeo/Android-SplashView
+proj-type: android
+No.2274
+https://github.com/wosyingjun/beauty_ssm_cluster
+proj-type: maven
+No.2275
+https://github.com/VictorAlbertos/RxSocialConnect-Android
+proj-type: android
+No.2276
+https://github.com/klinker24/Android-3DTouch-PeekView
+proj-type: android
+No.2277
+https://github.com/miguelbcr/RxPaparazzo
+proj-type: android
+No.2278
+https://github.com/Angads25/android-filepicker
+proj-type: android
+No.2279
+https://github.com/Curzibn/BottomDialog
+proj-type: android
+No.2280
+https://github.com/syedowaisali/crystal-range-seekbar
+proj-type: android
+No.2281
+https://github.com/florent37/BubbleTab
+proj-type: android
+No.2282
+https://github.com/OfficialAmal/ChipLayout
+proj-type: android
+No.2283
+https://github.com/aryarohit07/GlideFaceDetectionTransformation
+proj-type: android
+No.2284
+https://github.com/rebus007/PermissionUtils
+proj-type: android
+No.2285
+https://github.com/trivago/Heimdall.droid
+proj-type: android
+No.2286
+https://github.com/yoojia/NextQRCode
+proj-type: android
+No.2287
+https://github.com/ssk5460/DraggableFlipView
+proj-type: android
+No.2288
+https://github.com/iSpring/GamePlane
+proj-type: android
+No.2289
+https://github.com/RurioLuca/QrCardParsing
+proj-type: android
+No.2290
+https://github.com/supercwn/SuperRecycleView
+proj-type: android
+No.2291
+https://github.com/forJrking/HeiPermission
+proj-type: android
+No.2292
+https://github.com/CoXier/CheckBox
+proj-type: android
+No.2293
+https://github.com/VictorAlbertos/ReactiveCache
+proj-type: android
+No.2294
+https://github.com/boredream/DesignResCollection
+proj-type: android
+No.2295
+https://github.com/ybq/nougat-boot-animation
+proj-type: android
+No.2296
+https://github.com/ENCP/CNNdroid
+proj-type: no
+No.2297
+https://github.com/hanuor/onyx
+proj-type: android
+No.2298
+https://github.com/BCsl/UcMainPagerDemo
+proj-type: android
+No.2299
+https://github.com/Mike-bel/MDStudySamples
+proj-type: android
+No.2300
+https://github.com/zhangke3016/FlipCards
+proj-type: android
+No.2301
+https://github.com/JeasonWong/JikeGallery
+proj-type: android
+No.2302
+https://github.com/shinezejian/emotionkeyboard
+proj-type: android
+No.2303
+https://github.com/lsxiao/Apollo
+proj-type: android
+No.2304
+https://github.com/eventuate-local/eventuate-local
+proj-type: gradle
+No.2305
+https://github.com/enginebai/SwagPoints
+proj-type: android
+No.2306
+https://github.com/nibnait/algorithms
+proj-type: no
+No.2307
+https://github.com/JoaquimLey/avenging
+proj-type: android
+No.2308
+https://github.com/bassaer/ChatMessageView
+proj-type: android
+No.2309
+https://github.com/dawsonice/ProMosaic
+proj-type: android
+No.2310
+https://github.com/REBOOTERS/AndroidAnimationExercise
+proj-type: android
+No.2311
+https://github.com/badoualy/datepicker-timeline
+proj-type: android
+No.2312
+https://github.com/vimeo/stag-java
+proj-type: android
+No.2313
+https://github.com/commons-app/apps-android-commons
+proj-type: android
+No.2314
+https://github.com/zhangke3016/SpecialProgressBar
+proj-type: android
+No.2315
+https://github.com/florent37/TutoShowcase
+proj-type: android
+No.2316
+https://github.com/LuckyJayce/MultiTypeView
+proj-type: android
+No.2317
+https://github.com/chwshuang/web
+proj-type: maven
+No.2318
+https://github.com/Jaouan/CompoundLayout
+proj-type: android
+No.2319
+https://github.com/sharish/BitmapMerger
+proj-type: android
+No.2320
+https://github.com/gazbert/bxbot
+proj-type: maven-gradle
+No.2321
+https://github.com/unipiazza/unipiazza-android-twostepslogin
+proj-type: android
+No.2322
+https://github.com/markzhai/DataBindingAdapter
+proj-type: android
+No.2323
+https://github.com/XuDaojie/QRCode-Android
+proj-type: android
+No.2324
+https://github.com/D-clock/ScratchView
+proj-type: android
+No.2325
+https://github.com/notHide/Hide-Music-Player
+proj-type: android
+No.2326
+https://github.com/Workable/java-error-handler
+proj-type: gradle
+No.2327
+https://github.com/twitter/GraphJet
+proj-type: maven
+No.2328
+https://github.com/openscoring/openscoring
+proj-type: maven
+No.2329
+https://github.com/Rukey7/DragSlopLayout
+proj-type: android
+No.2330
+https://github.com/actionml/universal-recommender
+proj-type: no
+No.2331
+https://github.com/4xes/FlipAnimation
+proj-type: android
+No.2332
+https://github.com/cyfonly/FLogger
+proj-type: maven
+No.2333
+https://github.com/jeasonlzy/PullZoomView
+No.2334
+https://github.com/Saketme/Better-Link-Movement-Method
+proj-type: android
+No.2335
+https://github.com/dessalines/torrenttunes-client
+proj-type: maven
+No.2336
+https://github.com/xurui1995/Sword-pointing-to-offer
+proj-type: no
+No.2337
+https://github.com/ikidou/TypeBuilder
+proj-type: gradle
+No.2338
+https://github.com/jeanboydev/Android-BitherCompress
+proj-type: android
+No.2339
+https://github.com/pinguo-sunjianfei/Android-Application-ZJB
+proj-type: android
+No.2340
+https://github.com/jaredsburrows/android-gif-example
+proj-type: android
+No.2341
+https://github.com/jeasonlzy/AlphaIndicatorView
+No.2342
+https://github.com/qstumn/RadarChart
+proj-type: android
+No.2343
+https://github.com/anzaizai/EasyRefreshLayout
+proj-type: android
+No.2344
+https://github.com/xuyisheng/NaturalAnim
+proj-type: android
+No.2345
+https://github.com/Elder-Wu/Notes
+proj-type: android
+No.2346
+https://github.com/HabitRPG/habitica-android
+proj-type: android
+No.2347
+https://github.com/uber/uReplicator
+proj-type: maven
+No.2348
+https://github.com/uptechteam/MotionViews-Android
+proj-type: android
+No.2349
+https://github.com/leoleohan/RecyclerRefresh
+proj-type: android
+No.2350
+https://github.com/KingsMentor/MobileVisionBarcodeScanner
+proj-type: android
+No.2351
+https://github.com/Kunzisoft/Android-SwitchDateTimePicker
+proj-type: android
+No.2352
+https://github.com/songixan/SmileRefresh
+proj-type: android
+No.2353
+https://github.com/zhonghanwen/ColorTextView
+proj-type: android
+No.2354
+https://github.com/ronaldsmartin/Material-ViewPagerIndicator
+proj-type: android
+No.2355
+https://github.com/wangshaolei/AutoFillEmailEditText
+proj-type: android
+No.2356
+https://github.com/LuoboDcom/ZZShow
+proj-type: android
+No.2357
+https://github.com/DmitriyZaitsev/RadarChartView
+proj-type: android
+No.2358
+https://github.com/MatteoBattilana/WeatherView
+proj-type: android
+No.2359
+https://github.com/wsieroci/audio-recognizer
+proj-type: no
+No.2360
+https://github.com/armcha/Vertical-Intro
+proj-type: android
+No.2361
+https://github.com/javaparser/javasymbolsolver
+proj-type: gradle
+No.2362
+https://github.com/aykuttasil/CallRecorder
+proj-type: android
+No.2363
+https://github.com/Hitomis/CrazyShadow
+No.2364
+https://github.com/gdutxiaoxu/CoordinatorLayoutExample
+proj-type: android
+No.2365
+https://github.com/brucetoo/ListVideoPlay
+proj-type: android
+No.2366
+https://github.com/Assassinss/Interessant
+proj-type: android
+No.2367
+https://github.com/pcevikogullari/AndroidShortcuts
+proj-type: android
+No.2368
+https://github.com/yaozs/YzsLib
+proj-type: android
+No.2369
+https://github.com/k0shk0sh/FastAccess
+proj-type: android
+No.2370
+https://github.com/ameizi/maven-framework-project
+proj-type: maven
+No.2371
+https://github.com/minecraft-dev/MinecraftDev
+proj-type: no
+No.2372
+https://github.com/Yellow5A5/ClearScreenHelper
+proj-type: android
+No.2373
+https://github.com/dsyer/spring-boot-thin-launcher
+proj-type: maven-gradle
+No.2374
+https://github.com/patloew/RxLocation
+proj-type: android
+No.2375
+https://github.com/chentao0707/ZXingProject
+proj-type: android
+No.2376
+https://github.com/salesforce/Argus
+proj-type: maven
+No.2377
+https://github.com/Cleveroad/Android-Marshmallow-Boot-Animation
+proj-type: android
+No.2378
+https://github.com/Microsoft/mssql-jdbc
+proj-type: maven-gradle
+No.2379
+https://github.com/RiccardoMoro/LongPressPopup
+proj-type: android
+No.2380
+https://github.com/shahen94/react-native-video-processing
+proj-type: android
+No.2381
+https://github.com/ar-android/DrawRouteMaps
+proj-type: android
+No.2382
+https://github.com/IntruderShanky/Frisson
+proj-type: android
+No.2383
+https://github.com/FrangSierra/Rx2Firebase
+proj-type: android
+No.2384
+https://github.com/SwiftyWang/ToastBar
+proj-type: android
+No.2385
+https://github.com/north2016/PianoView
+proj-type: android
+No.2386
+https://github.com/Waffle/waffle
+proj-type: maven
+No.2387
+https://github.com/Tamicer/RetrofitClient
+proj-type: android
+No.2388
+https://github.com/Rukey7/IjkPlayerView
+proj-type: android
+No.2389
+https://github.com/Ajian-studio/GALeafLoading
+proj-type: android
+No.2390
+https://github.com/android-notes/androidScreenShareAndControl
+proj-type: android
+No.2391
+https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview
+proj-type: android
+No.2392
+https://github.com/xenione/tab-digit
+proj-type: android
+No.2393
+https://github.com/HotBitmapGG/gank.io-unofficial-android-client
+proj-type: android
+No.2394
+https://github.com/vivian8725118/ZXingGenerator
+proj-type: android
+No.2395
+https://github.com/vivian8725118/CardView
+proj-type: android
+No.2396
+https://github.com/mcxtzhang/SupportDemos
+proj-type: android
+No.2397
+https://github.com/yahoo/FEL
+proj-type: maven
+No.2398
+https://github.com/AndroidMsky/WXhongbao
+proj-type: android
+No.2399
+https://github.com/TinkerPatch/tinkerpatch-sdk
+proj-type: android
+No.2400
+https://github.com/18722527635/MyRecyclerView
+proj-type: android
+No.2401
+https://github.com/githubwing/ExpandableViewpager
+proj-type: android
+No.2402
+https://github.com/ssseasonnn/RxJava2Demo
+proj-type: android
+No.2403
+https://github.com/mcxtzhang/all-base-adapter
+proj-type: android
+No.2404
+https://github.com/gradle/gradle-profiler
+proj-type: gradle
+No.2405
+https://github.com/a-voyager/WeekToDo
+proj-type: android
+No.2406
+https://github.com/awslabs/aws-serverless-java-container
+proj-type: maven
+No.2407
+https://github.com/Stuie/papercut
+proj-type: gradle
+No.2408
+https://github.com/androidthings/new-project-template
+proj-type: android
+No.2409
+https://github.com/Norbert515/DropDownWarning
+proj-type: android
+No.2410
+https://github.com/huage2580/ZuiMeiTAG
+proj-type: android
+No.2411
+https://github.com/androidthings/contrib-drivers
+proj-type: android
+No.2412
+https://github.com/androidthings/doorbell
+proj-type: android
+No.2413
+https://github.com/misakuo/Dream-Catcher
+proj-type: android
+No.2414
+https://github.com/gjiazhe/MultiChoicesCircleButton
+No.2415
+https://github.com/wangchenyan/LrcView
+proj-type: android
+No.2416
+https://github.com/codbking/PickTime
+proj-type: android
+No.2417
+https://github.com/JakeWharton/RxWindowIfChanged
+proj-type: maven
+No.2418
+https://github.com/iamironz/binaryprefs
+proj-type: android
+No.2419
+https://github.com/HotBitmapGG/LeisureRead
+proj-type: android
+No.2420
+https://github.com/SmartisanTech/packages_apps_OneStep
+proj-type: android
+No.2421
+https://github.com/Karumi/KataScreenshotAndroid
+proj-type: android
+No.2422
+https://github.com/Rance935/ChatUI
+proj-type: android
+No.2423
+https://github.com/Cleveroad/CycleMenu
+proj-type: android
+No.2424
+https://github.com/AndroidKun/XTabLayout
+proj-type: android
+No.2425
+https://github.com/HanSolo/tilesfx
+proj-type: gradle
+No.2426
+https://github.com/BCsl/GalleryLayoutManager
+proj-type: android
+No.2427
+https://github.com/yakivmospan/scytale
+proj-type: android
+No.2428
+https://github.com/shunfei/indexr
+proj-type: maven
+No.2429
+https://github.com/gaoleiandroid1201/BiuBike
+proj-type: android
+No.2430
+https://github.com/ShawnyXiao/SpringBoot-MyBatis
+proj-type: maven
+No.2431
+https://github.com/atguigu01/Shopping
+proj-type: android
+No.2432
+https://github.com/nntuyen/text-decorator
+proj-type: android
+No.2433
+https://github.com/MindorksOpenSource/android-dagger2-example
+proj-type: android
+No.2434
+https://github.com/lawloretienne/MovieHub
+proj-type: android
+No.2435
+https://github.com/fashare2015/ActivityTracker
+proj-type: android
+No.2436
+https://github.com/FJ917/FJEditTextCount
+proj-type: android
+No.2437
+https://github.com/0ximDigital/RxAnimations
+proj-type: android
+No.2438
+https://github.com/geminiwen/SkinSprite
+proj-type: android
+No.2439
+https://github.com/apache/eagle
+proj-type: maven
+No.2440
+https://github.com/JmStefanAndroid/PVCloudGroupn
+proj-type: android
+No.2441
+https://github.com/ditclear/TimeLine
+proj-type: android
+No.2442
+https://github.com/zaaach/TopRightMenu
+proj-type: android
+No.2443
+https://github.com/GitLqr/LQREmojiLibrary
+proj-type: android
+No.2444
+https://github.com/Bakumon/UGank
+proj-type: android
+No.2445
+https://github.com/wolfboys/opencron
+proj-type: maven
+No.2446
+https://github.com/qapqap/TimelineView
+proj-type: android
+No.2447
+https://github.com/yidongnan/grpc-spring-boot-starter
+proj-type: maven-gradle
+No.2448
+https://github.com/yiyibb/Zhihu
+proj-type: android
+No.2449
+https://github.com/jagrosh/MusicBot
+proj-type: maven
+No.2450
+https://github.com/funktionio/funktion-connectors
+proj-type: maven
+No.2451
+https://github.com/fossasia/loklak_wok_android
+proj-type: android
+No.2452
+https://github.com/lurbas/MaterialMasterDetail
+proj-type: android
+No.2453
+https://github.com/michelelacorte/AndroidAppShortcuts
+proj-type: android
+No.2454
+https://github.com/duckduckgo/android-search-and-stories
+proj-type: android
+No.2455
+https://github.com/bfwg/springboot-jwt-starter
+proj-type: maven
+No.2456
+https://github.com/Sloeber/arduino-eclipse-plugin
+proj-type: maven
+No.2457
+https://github.com/iielse/DemoProjects
+proj-type: android
+No.2458
+https://github.com/zetavg/react-native-system-notification
+proj-type: android
+No.2459
+https://github.com/developer-shivam/ChanelView
+proj-type: android
+No.2460
+https://github.com/Etar-Group/Etar-Calendar
+proj-type: android
+No.2461
+https://github.com/ericmaxwell2003/ticTacToe
+proj-type: android
+No.2462
+https://github.com/Werb/MediaUtils
+proj-type: android
+No.2463
+https://github.com/frogermcs/Google-Actions-Java-SDK
+proj-type: gradle
+No.2464
+https://github.com/MonkeyMushroom/MiClockView
+proj-type: android
+No.2465
+https://github.com/TellH/RecyclerStickyHeaderView
+proj-type: android
+No.2466
+https://github.com/Zhuinden/simple-stack
+proj-type: android
+No.2467
+https://github.com/Devlight/ShadowLayout
+proj-type: android
+No.2468
+https://github.com/MFlisar/DragSelectRecyclerView
+proj-type: android
+No.2469
+https://github.com/Devlight/PulseView
+proj-type: android
+No.2470
+https://github.com/Sottti/Material-Design-Nav-Drawer
+proj-type: android
+No.2471
+https://github.com/networknt/microservices-framework-benchmark
+proj-type: maven-gradle
+No.2472
+https://github.com/yacy/yacy_grid_mcp
+proj-type: gradle
+No.2473
+https://github.com/nomemory/mockneat
+proj-type: gradle
+No.2474
+https://github.com/Devlight/SlideImageView
+proj-type: android
+No.2475
+https://github.com/tonyofrancis/Fetch
+proj-type: android
+No.2476
+https://github.com/myinnos/AlphabetIndex-Fast-Scroll-RecyclerView
+proj-type: android
+No.2477
+https://github.com/MarcinMoskala/ActivityStarter
+proj-type: android
+No.2478
+https://github.com/appsthatmatter/GraphView-Demos
+proj-type: android
+No.2479
+https://github.com/DroidKaigi/conference-app-2017
+proj-type: android
+No.2480
+https://github.com/sergiiz/RxBasicsKata
+proj-type: gradle
+No.2481
+https://github.com/mthli/Mount
+proj-type: android
+No.2482
+https://github.com/jwpttcg66/NettyGameServer
+proj-type: maven
+No.2483
+https://github.com/Devlight/TintLayout
+proj-type: android
+No.2484
+https://github.com/Microsoft/project-rome
+proj-type: android
+No.2485
+https://github.com/mitdbg/modeldb
+proj-type: maven
+No.2486
+https://github.com/385841539/RecycleviewStaggered
+proj-type: android
+No.2487
+https://github.com/aliab/Two-Step-Picker-Dialog
+proj-type: android
+No.2488
+https://github.com/codehz/container
+proj-type: android
+No.2489
+https://github.com/GoodieBag/HorizontalPicker
+proj-type: android
+No.2490
+https://github.com/zhangxuyang321/StepView
+proj-type: android
+No.2491
+https://github.com/songxiaoliang/ReactNativeApp
+proj-type: android
+No.2492
+https://github.com/loonggg/RecyclerViewBanner
+proj-type: android
+No.2493
+https://github.com/fourlastor/dante
+proj-type: android
+No.2494
+https://github.com/aartikov/Alligator
+proj-type: android
+No.2495
+https://github.com/lizixian18/AppLock
+proj-type: android
+No.2496
+https://github.com/neo4j-contrib/neo4j-graph-algorithms
+proj-type: maven-gradle
+No.2497
+https://github.com/daquexian/FlexibleRichTextView
+proj-type: android
+No.2498
+https://github.com/crazyqiang/AndroidStudy
+proj-type: android
+No.2499
+https://github.com/vaquarkhan/vaquarkhan
+proj-type: maven
+No.2500
+https://github.com/DevAhamed/MultiViewAdapter
+proj-type: android
+No.2501
+https://github.com/dbacinski/Android-Testing-With-Kotlin
+proj-type: android
+No.2502
+https://github.com/TedaLIEz/ParsingPlayer
+proj-type: android
+No.2503
+https://github.com/550609334/Twobbble
+proj-type: android
+No.2504
+https://github.com/matecode/Snacky
+proj-type: android
+No.2505
+https://github.com/blipinsk/cortado
+proj-type: android
+No.2506
+https://github.com/pedroSG94/rtmp-rtsp-stream-client-java
+proj-type: android
+No.2507
+https://github.com/MacKentoch/react-native-beacons-manager
+proj-type: android
+No.2508
+https://github.com/MyLifeMyTravel/CircleProgress
+proj-type: android
+No.2509
+https://github.com/youngkaaa/YViewPagerDemo
+proj-type: android
+No.2510
+https://github.com/Airsaid/AccountBook
+proj-type: android
+No.2511
+https://github.com/worstcase/gumshoe
+proj-type: maven
+No.2512
+https://github.com/substratum/substratum
+proj-type: android
+No.2513
+https://github.com/ahmetb/orman
+proj-type: no
+No.2514
+https://github.com/jiang111/CProgressButton
+proj-type: android
+No.2515
+https://github.com/Teradata/kylo
+proj-type: maven
+No.2516
+https://github.com/mulesoft-labs/raml-for-jax-rs
+proj-type: maven-gradle
+No.2517
+https://github.com/ccw-ide/ccw
+proj-type: maven
+No.2518
+https://github.com/MorochoRochaDarwin/OneCalendarView
+proj-type: android
+No.2519
+https://github.com/Vexigon/Material-Onboarding
+proj-type: android
+No.2520
+https://github.com/cyrilmottier/QueryHighlighter
+proj-type: android
+No.2521
+https://github.com/pqpo/InputMethodHolder
+proj-type: android
+No.2522
+https://github.com/takahirom/material-element
+proj-type: android
+No.2523
+https://github.com/geniusforapp/fancyDialog
+proj-type: android
+No.2524
+https://github.com/Tamicer/SkyMonitoring
+proj-type: android
+No.2525
+https://github.com/topcoder-platform/topcoder-UML-Tool
+proj-type: no
+No.2526
+https://github.com/flowing/flowing-retail
+proj-type: maven
+No.2527
+https://github.com/jeddict/jeddict
+proj-type: no
+No.2528
+https://github.com/ThinkKeep/EvilsLive
+proj-type: android
+No.2529
+https://github.com/saschpe/android-customtabs
+proj-type: android
+No.2530
+https://github.com/michelelacorte/FlickLauncher
+proj-type: android
+No.2531
+https://github.com/hsllany/HtmlNative
+proj-type: android
+No.2532
+https://github.com/ruzhan123/awaker
+proj-type: android
+No.2533
+https://github.com/googlesamples/android-AutofillFramework
+proj-type: android
+No.2534
+https://github.com/Ilhasoft/data-binding-validator
+proj-type: android
+No.2535
+https://github.com/rulebook-rules/rulebook
+proj-type: gradle
+No.2536
+https://github.com/pinguo-zhouwei/AndroidTrainingSimples
+proj-type: android
+No.2537
+https://github.com/AllenCoder/SuperUtils
+proj-type: android
+No.2538
+https://github.com/material-motion/material-motion-android
+proj-type: android
+No.2539
+https://github.com/ncredinburgh/QuickTheories
+proj-type: maven
+No.2540
+https://github.com/sdsmdg/trianglify
+proj-type: android
+No.2541
+https://github.com/jopt-simple/jopt-simple
+proj-type: maven
+No.2542
+https://github.com/fengyongge/imagepicker
+proj-type: android
+No.2543
+https://github.com/YiiGuxing/CompositionAvatar
+proj-type: android
+No.2544
+https://github.com/mrin9/Angular-SpringBoot-REST-JWT
+proj-type: maven-gradle
+No.2545
+https://github.com/maoruibin/OneDrawable
+proj-type: android
+No.2546
+https://github.com/Abnaxos/markdown-doclet
+proj-type: gradle
+No.2547
+https://github.com/typ0520/bizsocket
+proj-type: gradle
+No.2548
+https://github.com/bloderxd/MagicButton
+proj-type: android
+No.2549
+https://github.com/loklak/loklak_jlib_api
+proj-type: maven
+No.2550
+https://github.com/omadahealth/CircularBarPager
+proj-type: android
+No.2551
+https://github.com/yacy/yacy_grid_parser
+proj-type: gradle
+No.2552
+https://github.com/chaokunyang/microservices-event-sourcing
+proj-type: maven-gradle
+No.2553
+https://github.com/dockersamples/atsea-sample-shop-app
+proj-type: maven
+No.2554
+https://github.com/tagtime/TagTime
+proj-type: android
+No.2555
+https://github.com/reenWYJ/reen-sharding
+proj-type: maven
+No.2556
+https://github.com/baidu/Jprotobuf-rpc-socket
+proj-type: maven
+No.2557
+https://github.com/QuickLyric/QuickLyric
+proj-type: android
+No.2558
+https://github.com/java-json-tools/json-patch
+proj-type: gradle
+No.2559
+https://github.com/elemers/ToyRoom
+proj-type: android
+No.2560
+https://github.com/StylingAndroid/ViewPagerAnimator
+proj-type: android
+No.2561
+https://github.com/megagao/production_ssm
+proj-type: maven
+No.2562
+https://github.com/jaredrummler/HtmlBuilder
+No.2563
+https://github.com/jaredrummler/ColorPicker
+No.2564
+https://github.com/fcannizzaro/jsoup-annotations
+proj-type: android
+No.2565
+https://github.com/droidchef/uberprogressview
+proj-type: android
+No.2566
+https://github.com/rsocket/rsocket-java
+proj-type: gradle
+No.2567
+https://github.com/apache/metron
+proj-type: maven
+No.2568
+https://github.com/googlecodelabs/android-lifecycles
+proj-type: android
+No.2569
+https://github.com/Railcraft/Railcraft
+proj-type: gradle
+No.2570
+https://github.com/MasayukiSuda/ExoPlayerFilter
+proj-type: android
+No.2571
+https://github.com/florent37/NewAndroidArchitecture-Component-Github
+proj-type: android
+No.2572
+https://github.com/rsksmart/rskj
+proj-type: gradle
+No.2573
+https://github.com/yegor256/cactoos
+proj-type: maven
+No.2574
+https://github.com/j-easy/easy-batch
+proj-type: maven
+No.2575
+https://github.com/xiaoxiangyeyuHeaven/HeavenlyModule
+proj-type: android
+No.2576
+https://github.com/ebanx/swipe-button
+proj-type: android
+No.2577
+https://github.com/yangjie10930/EpMedia
+proj-type: android
+No.2578
+https://github.com/PlutoArchitecture/Pluto-Android
+proj-type: android
+No.2579
+https://github.com/jkxqj/JIM
+proj-type: no
+No.2580
+https://github.com/fujiyuu75/Sequent
+proj-type: android
+No.2581
+https://github.com/tingyik90/snackprogressbar
+proj-type: android
+No.2582
+https://github.com/imgly/pesdk-android-demo
+proj-type: android
+No.2583
+https://github.com/henrymorgen/android-advanced-light
+proj-type: android
+No.2584
+https://github.com/ChillingVan/AndroidInstantVideo
+proj-type: android
+No.2585
+https://github.com/Sottti/OkHttp-Volley-Gson
+proj-type: android
+No.2586
+https://github.com/0Chencc/CTFCrackTools
+proj-type: gradle
+No.2587
+https://github.com/getsentry/sentry-java
+proj-type: maven-gradle
+No.2588
+https://github.com/genius158/PullRefreshLayout
+proj-type: android
+No.2589
+https://github.com/locationtech/geowave
+proj-type: maven
+No.2590
+https://github.com/PrivacyStreams/PrivacyStreams
+proj-type: android
+No.2591
+https://github.com/awslabs/dynamodb-janusgraph-storage-backend
+proj-type: maven
+No.2592
+https://github.com/YahooArchive/oozie
+proj-type: maven
+No.2593
+https://github.com/groupon/grox
+proj-type: android
+No.2594
+https://github.com/YahooArchive/samoa
+proj-type: maven
+No.2595
+https://github.com/snatik/memory-game
+proj-type: android
+No.2596
+https://github.com/YahooArchive/android-range-seek-bar
+proj-type: android
+No.2597
+https://github.com/census-instrumentation/opencensus-java
+proj-type: maven-gradle
+No.2598
+https://github.com/spring-cloud/spring-cloud-function
+proj-type: maven-gradle
+No.2599
+https://github.com/marcosbarbero/spring-cloud-zuul-ratelimit
+proj-type: maven
+No.2600
+https://github.com/MobiVM/robovm
+proj-type: maven-gradle
+No.2601
+https://github.com/androidstarters/android-starter
+proj-type: android
+No.2602
+https://github.com/nextcloud/news-android
+proj-type: android
+No.2603
+https://github.com/vinaygaba/RubberStamp
+proj-type: android
+No.2604
+https://github.com/jahirfiquitiva/FABsMenu
+proj-type: android
+No.2605
+https://github.com/movexmanlife/TongBanJie
+proj-type: android
+No.2606
+https://github.com/Pixplicity/EasyPrefs
+proj-type: android
+No.2607
+https://github.com/square/RxIdler
+proj-type: android
+No.2608
+https://github.com/austinschwartz/ctci_v6
+proj-type: no
+No.2609
+https://github.com/fython/BreadcrumbsView
+proj-type: android
+No.2610
+https://github.com/lennartkoopmann/nzyme
+proj-type: maven
+No.2611
+https://github.com/amphiaraus/Android-RatioLayout
+proj-type: android
+No.2612
+https://github.com/Multibit-Legacy/multibit
+proj-type: maven
+No.2613
+https://github.com/mattbdean/JRAW
+proj-type: gradle
+No.2614
+https://github.com/PrivacyApps/document-viewer
+proj-type: android
+No.2615
+https://github.com/xmuSistone/stickyViewpager
+proj-type: android
+No.2616
+https://github.com/YeDaxia/JApiDocs
+proj-type: gradle
+No.2617
+https://github.com/maskarade/gradle-android-ribbonizer-plugin
+proj-type: android
+No.2618
+https://github.com/maskarade/Android-Orma
+proj-type: android
+No.2619
+https://github.com/UniversaBlockchain/universa
+proj-type: gradle
+No.2620
+https://github.com/binarywang/weixin-java-mp-demo-springboot
+proj-type: maven
+No.2621
+https://github.com/dingjikerbo/Leetcode-Java
+proj-type: android
+No.2622
+https://github.com/Devskiller/jfairy
+proj-type: maven
+No.2623
+https://github.com/Cutta/ContinuousScrollableImageView
+proj-type: android
+No.2624
+https://github.com/jopengroup/android-gooview
+proj-type: android
+No.2625
+https://github.com/pinterest/doctorkafka
+proj-type: maven
+No.2626
+https://github.com/PrivacyApps/donations
+proj-type: android
+No.2627
+https://github.com/OCNYang/ContourView
+proj-type: android
+No.2628
+https://github.com/objectbox/objectbox-examples
+proj-type: android
+No.2629
+https://github.com/openmessaging/openmessaging-java
+proj-type: maven
+No.2630
+https://github.com/k0kubun/gitstar-ranking
+proj-type: gradle
+No.2631
+https://github.com/DymanZy/EasyShow3D
+proj-type: android
+No.2632
+https://github.com/wangshaolei/AutoSpannableTextView
+proj-type: android
+No.2633
+https://github.com/sparkfunX/Skimmer_Scanner
+proj-type: android
+No.2634
+https://github.com/OpenLiberty/open-liberty
+proj-type: maven-gradle
+No.2635
+https://github.com/mannodermaus/retrofit-logansquare
+proj-type: gradle
+No.2636
+https://github.com/mdeverdelhan/ta4j-origins
+proj-type: maven
+No.2637
+https://github.com/NickstaDB/BaRMIe
+proj-type: no
+No.2638
+https://github.com/dingjikerbo/Android-Camera
+proj-type: android
+No.2639
+https://github.com/SonarSource/SonarJS
+proj-type: maven
+No.2640
+https://github.com/bodiam/intellij-bootstrap
+proj-type: no
+No.2641
+https://github.com/ApplikeySolutions/OrionPreview
+proj-type: android
+No.2642
+https://github.com/alexrs/WaveDrawable
+proj-type: android
+No.2643
+https://github.com/PierfrancescoSoffritti/Android-YouTube-Player
+proj-type: android
+No.2644
+https://github.com/facebookincubator/Battery-Metrics
+proj-type: android
+No.2645
+https://github.com/aosp-mirror/platform_packages_apps_settings
+proj-type: android
+No.2646
+https://github.com/aosp-mirror/platform_packages_apps_music
+proj-type: android
+No.2647
+https://github.com/aosp-mirror/platform_dalvik
+proj-type: no
+No.2648
+https://github.com/wustor/GangedRecyclerview
+proj-type: android
+No.2649
+https://github.com/facebook/nailgun
+proj-type: maven
+No.2650
+https://github.com/aosp-mirror/platform_packages_apps_contacts
+proj-type: android
+No.2651
+https://github.com/po10cio/TimeLineView
+proj-type: android
+No.2652
+https://github.com/saintdan/spring-microservices-boilerplate
+proj-type: maven-gradle
+No.2653
+https://github.com/mycelium-com/wallet-android
+proj-type: android
+No.2654
+https://github.com/cedricfung/MediaCodecDemo
+proj-type: android
+No.2655
+https://github.com/android-links/about-page
+proj-type: android
+No.2656
+https://github.com/rememberber/WeSync
+proj-type: maven
+No.2657
+https://github.com/aosp-mirror/platform_packages_apps_calendar
+proj-type: android
+No.2658
+https://github.com/tianzhijiexian/Shatter
+proj-type: android
+No.2659
+https://github.com/hypertrack/hyperlog-android
+proj-type: android
+No.2660
+https://github.com/hsiafan/requests
+proj-type: maven
+No.2661
+https://github.com/Instagram/ig-lazy-module-loader
+proj-type: android
+No.2662
+https://github.com/googlearchive/easygoogle
+proj-type: android
+No.2663
+https://github.com/google-developer-training/android-advanced
+proj-type: android
+No.2664
+https://github.com/QSFT/Doradus
+proj-type: maven
+No.2665
+https://github.com/qaprosoft/carina
+No.2666
+https://github.com/vpaliyX/Material-Motion
+proj-type: android
+No.2667
+https://github.com/oldman1977/SmartProxy
+proj-type: android
+No.2668
+https://github.com/panpf/switch-button
+proj-type: android
+No.2669
+https://github.com/fanhua1994/XBaseAndroid
+No.2670
+https://github.com/Kreijstal/JavaStuff
+proj-type: no
+No.2671
+https://github.com/OpnTec/ots15-companion
+proj-type: android
+No.2672
+https://github.com/phimpme/phimpme-android-v1
+proj-type: android
+No.2673
+https://github.com/apache/guacamole-client
+No.2674
+https://github.com/WellerV/SweetMusicPlayer
+proj-type: android

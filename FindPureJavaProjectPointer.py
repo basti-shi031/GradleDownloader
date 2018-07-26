@@ -1,7 +1,7 @@
 import json
 import os
 
-passfile = ['.git', 'gradle', '.idea','res' ]
+passfile = ['.git', 'gradle', '.idea', 'res']
 count = 0
 
 
@@ -30,6 +30,7 @@ if __name__ == '__main__':
     fchecked = open('hasCheckedIsJava.txt', 'r')
     isJavaStr = fchecked.read()
     hasCheckedIsJava = json.loads(isJavaStr)
+    fchecked.close()
     for item in data:
         proj = item['proj']
         print(item['proj'])
@@ -50,7 +51,7 @@ if __name__ == '__main__':
                 project['gradle'] = True
                 project['android'] = False
                 projectList.append(project)
-                java2 = open('java2.txt','w')
+                java2 = open('java2.txt', 'w')
                 java2.write(json.dumps(projectList))
         print(len(projectList))
         hasCheckedIsJava[proj] = True

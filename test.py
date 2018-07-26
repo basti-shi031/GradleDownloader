@@ -14,6 +14,11 @@ import json
 # f3.write(json.dumps(js))
 # f3.close()
 
-a = '{"a":"b"}'
-content = json.loads(a)
-print(content['a'])
+# a = '{"a":"b"}'
+# content = json.loads(a)
+# print(content['a'])
+import os
+import subprocess
+
+a = [1,2,3,4,5]
+print(a[1:])

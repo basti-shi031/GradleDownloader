@@ -19,7 +19,7 @@ if __name__ == '__main__':
         zippedFiles.extend(projectList)
     print(len(zippedFiles))
     # read all project whose star > 500
-    f = open('java500.txt', 'r')
+    f = open('needZip.txt', 'r')
     allProject = f.read()
     allProjectJsonArray = json.loads(allProject)
     max = 20
@@ -45,7 +45,7 @@ if __name__ == '__main__':
                 continue
             if not os.path.exists(baseProject + str(index) + '/'):
                 os.makedirs(baseProject + str(index) + '/')
-            zip_file2(project['proj'], baseProject + str(index) + '/' + projectName + '.zip')
+            zip_file2(project['proj'], baseProject + str(index) + '/' + companyName + '__fdse__' + projectName + '.zip')
             count += 1
             if count >= max:
                 count = 0
